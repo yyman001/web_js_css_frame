@@ -422,23 +422,36 @@
 - [Simple Icons](https://github.com/danleech/simple-icons)
 
 ####16. 动画(Animate)
-
-- [animate.css - A cross-browser library of CSS animations.](https://github.com/daneden/animate.css)
-- [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
-- [AniJS - A Library to Raise your Web Design without Coding](https://github.com/anijs/anijs/)
-- [Move.js - 简化CSS3动画的JS库](https://github.com/visionmedia/move.js)
-- [ScrollMe – 在网页中加入各种滚动动画效果](https://github.com/nckprsn/scrollme)
-- [Effeckt.css - A Performant Transitions and Animations Library](https://github.com/h5bp/Effeckt.css)
-- [NEC动画库](http://nec.netease.com/library/category/##animation)
-- [csshake - CSS classes to move your DOM](https://github.com/elrumordelaluz/csshake)
-- [magic - CSS3 Animations with special effects](https://github.com/miniMAC/magic)
-- [Hover.css](https://github.com/IanLunn/Hover)
-- [css-loaders](https://github.com/lukehaas/css-loaders)
-- [SpinKit](https://github.com/tobiasahlin/SpinKit)
-- [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
-- [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
-- [jQuery Interactive 3D - Create a 3D interactive object using images](https://github.com/peachananr/interactive_3d)
-- [AnimateScroll - A Simple jQuery Plugin for Animating Scroll](https://github.com/ramswaroop/animatescroll.js)
+- js动画库
+ - [snabbt.js - 简约的JavaScript动画库](http://daniel-lundin.github.io/snabbt.js/)
+ - [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
+ - [Move.js - 简化CSS3动画的JS库](http://visionmedia.github.io/move.js/) - [github](https://github.com/visionmedia/move.js)
+ - [Animo.js - 堆栈动画，创建跨浏览器的模糊效果【效果不错，依赖jq】](http://labs.bigroomstudios.com/libraries/animo-js) - [github](https://github.com/ThrivingKings/animo.js)
+ - [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
+ - [Morf.js 提供了一组 JavaScript 方法用于加速 CSS3的各种转换效果，支持的方法都在上图中，无需编写 CSS3 代码。](http://www.joelambert.co.uk/morf/) -  [github](https://github.com/joelambert/morf)
+ - [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
+ - [jQuery Interactive 3D - 使用图片创建一个3D模型](https://github.com/peachananr/interactive_3d)
+ - [AnimateScroll - 动画滚动,应该是定点导航动画](https://github.com/ramswaroop/animatescroll.js)
+ - [jq 元素抖动库](http://jackrugile.com/jrumble/)
+ - [Tween JS  JavaScript 补间动画库 canvas](http://www.createjs.com/#!/CreateJS)
+ - [Rekapi 关键帧动画库](http://rekapi.com/)
+ - [favico.js v0.3.4 控制游览器标签小图标](http://lab.ejci.net/favico.js/) - [github](https://github.com/ejci/favico.js)
+- css动画库
+ - [CSShake - css抖动库](http://elrumordelaluz.github.io/csshake/#1) - [github](https://github.com/elrumordelaluz/csshake) 
+ - [animate.css - css3动画库](https://github.com/daneden/animate.css)
+ - [all animation - 同上,有sass版本](http://clovisdasilvaneto.github.io/all-animation/) - [github](https://github.com/clovisdasilvaneto/all-animation)
+ - [magic - CSS3动画特效](http://dreamsky.github.io/main/blog/magic-css.html) - [gihub](https://github.com/miniMAC/magic) 
+ - [ScrollMe – 在网页中加入各种滚动动画效果](https://github.com/nckprsn/scrollme)
+ - [Loaders.css - css加载动画](http://connoratherton.com/loaders) - [ github](https://github.com/ConnorAtherton/loaders.css)
+ - [css-loaders - 同上](https://github.com/lukehaas/css-loaders)
+ - [Hover.css](http://ianlunn.github.io/Hover/) - [github](https://github.com/IanLunn/Hover)
+ - [Effeckt.css - 手机动画库](https://github.com/h5bp/Effeckt.css)
+ - [NEC动画库](http://nec.netease.com/library/category/#animation)
+ - [uilang - a minimal, ui-focused programming language for web designers](http://uilang.com/)
+ - [csshake 带有sass版本](https://github.com/elrumordelaluz/csshake)
+ - [AniJS - 一个基于声明式语法的CSS动画库](https://github.com/anijs/anijs/)
+ - [SpinKit ??](https://github.com/tobiasahlin/SpinKit)
+ - [JX.Animate - 腾讯css3动画库](http://alloyteam.github.io/JXAnimate/) - [github](https://github.com/AlloyTeam/JXAnimate)
 
 ####17. 本地存储
 
@@ -605,11 +618,5 @@
 ----
 欢迎分享你的好东西给我
 
- 发布时间:2015-4-14日
+ 发布时间:2015-4-15日
  修正更新时间:暂无
-
-
-
-
-
-
