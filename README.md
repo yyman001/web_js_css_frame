@@ -81,6 +81,7 @@
   - [Duo](http://duojs.org/)
   - [RequireJS](http://requirejs.org/)
   - [Sea.js](http://seajs.org/)
+  - [webpack](http://webpack.github.io/docs/)
 - css预处理器
   - [Less - Less is More , Than CSS](http://lesscss.org/) 
   - [Sass - Syntactically Awesome Style Sheets](http://sass-lang.com/)
@@ -259,7 +260,7 @@
 
 - [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
-
+- [FormatJS – 让你的 Web 应用程序国际化](http://formatjs.io/)
 ####13. 页面交互
 
 ######13.1 Slider
@@ -301,6 +302,7 @@
 - [RowGrid.js - 在径直的行里放置图片](https://github.com/brunjo/rowGrid.js)
 - [ImageLightbox.js - 灯箱效果](http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
 - [JQuery Panorama Viewer - 全景视图](https://github.com/peachananr/panorama_viewer)
+- [PhotoSwipe - 移动开发必备的 iOS 风格相册](http://photoswipe.com/) - [github](https://github.com/dimsemenov/photoswipe)
 
 ######13.5 图片剪裁/图片处理
 
@@ -436,7 +438,9 @@
  - [Tween JS  JavaScript 补间动画库 canvas](http://www.createjs.com/#!/CreateJS)
  - [Rekapi 关键帧动画库](http://rekapi.com/)
  - [favico.js v0.3.4 控制游览器标签小图标](http://lab.ejci.net/favico.js/) - [github](https://github.com/ejci/favico.js)
+ 
 - css动画库
+ - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
  - [CSShake - css抖动库](http://elrumordelaluz.github.io/csshake/#1) - [github](https://github.com/elrumordelaluz/csshake) 
  - [animate.css - css3动画库](https://github.com/daneden/animate.css)
  - [all animation - 同上,有sass版本](http://clovisdasilvaneto.github.io/all-animation/) - [github](https://github.com/clovisdasilvaneto/all-animation)
@@ -528,7 +532,7 @@
 - [video.js - HTML5 & Flash video player](https://github.com/videojs/video.js)
 - [Accessible HTML5 Video Player - PayPal 开源的 HTML5 视频播放器](https://github.com/paypal/accessible-html5-video-player)
 - [Clappr - 开源的Web视频播放器](https://github.com/clappr/clappr)
-- [Plyr - A simple HTML5 media player](https://github.com/selz/plyr)
+- [Plyr - 简单，灵活的 HTML5 媒体播放器](https://github.com/selz/plyr)
 - [FitVids.js - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.](https://github.com/davatron5000/FitVids.js)
 - [BigVideo.js - The jQuery Plugin for Big Background Video](https://github.com/dfcb/BigVideo.js)
 - [BigScreen - A simple library for using the JavaScript Full Screen API](https://github.com/bdougherty/BigScreen)
@@ -549,6 +553,7 @@
 
 - [Simditor - 简单快速的富文本编辑器](https://github.com/mycolorway/simditor)
 - [BachEditor - 一个有情怀的编辑器](https://github.com/Integ/BachEditor)
+- [Squire – 简洁的 HTML5 富文本编辑器](http://neilj.github.io/Squire/)
 - [TinyMCE](https://github.com/tinymce/tinymce)
 - [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)
 - [marked - markdown解析器](https://github.com/chjj/marked)
@@ -603,6 +608,9 @@
 - [Fallback.js - JavaScript library for dynamically loading CSS and JS files.](https://github.com/dolox/fallback/)
 - [swfobject](https://github.com/swfobject/swfobject)
 
+####34. sass 库
+- [SpaceBase – 基于 Sass 的响应式 CSS 框架](http://spacebase.space150.com/) - [github](https://github.com/space150/spaceBase)
+
 ---
 
 ####前端参考集
@@ -618,5 +626,11 @@
 ----
 欢迎分享你的好东西给我
 
- 发布时间:2015-4-15日
+ 发布时间:2015-4-17日
  修正更新时间:暂无
+
+
+
+
+
+
