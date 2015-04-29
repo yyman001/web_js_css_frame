@@ -146,6 +146,9 @@
 - [Pure CSS Components](https://github.com/LFeh/css-components/)
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css)
 - [Primer - The CSS toolkit and guidelines that power GitHub](https://github.com/primer/primer)
+- [ZUI - 一个开源前端实践方案，帮助你快速构现代跨屏应用。][1]
+- [WeX5开源前端][2]
+- [B-JUI][3]
 
 ####5. 基础模版
 - 浏览器统一(Cross Browser)
@@ -267,8 +270,8 @@
 
 - [slick - the last carousel you'll ever need](https://github.com/kenwheeler/slick/)
 - [Swipe - the most accurate touch slider](https://github.com/thebird/Swipe)
-- [Swiper - Most modern mobile touch slider](https://github.com/nolimits4web/Swiper)
-- [iscroll - Smooth scrolling for the web](https://github.com/cubiq/iscroll)
+- [Swiper - 移动端/pc端滑动组件比较强大](http://www.idangero.us/swiper/demos/#.VUCEQUYr_pA) - [github](https://github.com/nolimits4web/Swiper) 
+- [iscroll - 简约模拟滑动层](https://github.com/cubiq/iscroll)
 - [iSlider - 移动端滑动组件](https://github.com/BE-FE/iSlider)
 - [OwlCarousel - create beautiful responsive carousel slider](https://github.com/OwlFonk/OwlCarousel)
 - [jquery-mousewheel - jQuery鼠标滚轮滚动侦测插件](https://github.com/jquery/jquery-mousewheel/)
@@ -280,7 +283,7 @@
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 
 ######13.3 懒加载/加载监听/预加载
-
+- [layzr.js - git关注蛮高的](http://callmecavs.github.io/layzr.js/) - [github](https://github.com/callmecavs/layzr.js)
 - [imagesLoaded](https://github.com/desandro/imagesloaded)
 - [Echo.js](https://github.com/toddmotto/echo)
 - [lazySizes](https://github.com/aFarkas/lazysizes)
@@ -293,7 +296,7 @@
 - [TypeWatch - 停止输入时调用](https://github.com/dennyferra/TypeWatch)
 
 ######13.4 图片轮播(幻灯片)/图片展示 
-
+- [SuperSlide - 国产的幻灯片,功能集成比较多,我个人推荐](http://www.SuperSlide2.com/)
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
 - [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
 - [prettyPhoto](https://github.com/scaron/prettyphoto)
@@ -478,7 +481,8 @@
 
 
 ####19. 通知组件/弹框组件/模态窗口
-
+- [layer.js - 国产,也是集成很多功能,个人推荐](http://sentsin.com/jquery/layer/)
+- [AnimatedModal.js - CSS3  全屏模态窗口,支持 Firefox、Chrome、Safari、Opera 和 IE 10+](http://joaopereirawd.github.io/animatedModal.js/)
 - [alertify.js](https://github.com/fabien-d/alertify.js)
 - [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
 - [SweetAlert](https://github.com/t4t5/sweetalert)
@@ -611,6 +615,10 @@
 ####34. sass 库
 - [SpaceBase – 基于 Sass 的响应式 CSS 框架](http://spacebase.space150.com/) - [github](https://github.com/space150/spaceBase)
 
+####35. 未知分类
+ - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
+ 
+
 ---
 
 ####前端参考集
@@ -627,10 +635,9 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:暂无
+ 修正更新时间:2015-4-29日
 
 
-
-
-
-
+  [1]: http://zui.sexy/
+  [2]: http://git.oschina.net/X5OK/WeX5
+  [3]: http://git.oschina.net/xknaan/B-JUI
