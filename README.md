@@ -341,7 +341,7 @@
 - [jquery-scrollspy(2)](https://github.com/thesmart/jquery-scrollspy)
 - [Waypoints](https://github.com/imakewebthings/waypoints)
 - [ScrollMagic - 像进度条一样使用滚动条](https://github.com/janpaepke/ScrollMagic)
-
+- [onScreen - 滚动加载,滚动固定](http://silvestreh.github.io/onScreen/)
 ######13.10 滚动加载更多/下拉刷新(Pull to Refresh)
 
 - [jScroll](https://github.com/pklauzinski/jscroll)
@@ -373,12 +373,19 @@
 - [Animsition - 页面切换时的过渡效果](https://github.com/blivesta/animsition)
 
 ######13.15 固定元素(Sticky)
-
+- [Sticky-Kit 比较出名,功能强大,个人推荐](http://leafo.net/sticky-kit/)
+- [ Sticky Navbar -可定点](http://www.jozefbutko.com/stickynavbar/)
+- [Waypoints](http://imakewebthings.com/waypoints/)
 - [sticky - jQuery Plugin for Sticky Objects](https://github.com/garand/sticky)
 - [jquery.pin - 固定页面元素](https://github.com/webpop/jquery.pin)
 - [stickUp](https://github.com/LiranCohen/stickUp)
 - [Slinky.js - 堆叠头部创建滑动导航列表](https://github.com/iclanzan/slinky)
-
+- [Headroom.js](http://wicky.nillia.ms/headroom.js/)
+- [ScrollMagic](http://janpaepke.github.io/ScrollMagic/)
+- [Sticky Float](https://github.com/yairEO/stickyfloat)
+- [Sticky Mojo](http://mojotech.github.io/stickymojo/)
+- [Zebra Pin](https://github.com/stefangabos/Zebra_Pin)
+- [HC-Sticky](https://github.com/somewebmedia/hc-sticky)
 ######13.16 触控事件
 
 - [Hammer.js](https://github.com/hammerjs/hammer.js)
@@ -403,10 +410,10 @@
 - [tinyscrollbar](https://github.com/wieringen/tinyscrollbar)
 
 ######13.20 视差滚动(Parallax Scrolling)
-
+- [MidnightJS 效果很赞](http://aerolab.github.io/midnight.js/)
 - [parallax.js](https://github.com/wagerfield/parallax)
 - [jparallax](https://github.com/stephband/jparallax)
-
+- [StickyStack.js](http://codepen.io/mike-zarandona/full/Dasnw) [-github](https://github.com/mike-zarandona/StickyStack.js)
 ####14. 代码高亮插件/代码编辑器
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
@@ -635,7 +642,7 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-4-29日
+ 修正更新时间:2015-4-30日
 
 
   [1]: http://zui.sexy/
