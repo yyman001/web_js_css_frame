@@ -113,8 +113,11 @@
   - [Ractive.js](https://github.com/ractivejs/ractive)
   - [KISSY](https://github.com/kissyteam/kissy)
   - [Zepto.js](https://github.com/madrobby/zepto)
+  - [ZeptoBuilder是Zepto的一个在线版本，从列表中选取你想包含的文件，就能得到你自定义的构建了](http://github.e-sites.nl/zeptobuilder/)
   - [Vanilla JS](http://vanilla-js.com/)
   - [Avalon](https://github.com/RubyLouvre/avalon)
+  - [Sprint.js - 一个高性能、小体积的 DOM 操作库 (Benjamin De Cock) ](https://github.com/bendc/sprint)
+  - [JSLite.js](http://jslite.io/)
 - 轻量级JavaScript框架
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
@@ -222,14 +225,15 @@
 - [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
 - [flow.js](https://github.com/flowjs/flow.js)
 - [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
-
+- [FileAPI - 是文件上传（单个/多个）、拖放支持、图像裁剪、大小调整、应用过滤器和获取文件信息](http://mailru.github.io/FileAPI/)
+-[Resumable.JS 通过HTML5API提供了稳定可恢复的多文件上传功能。](http://www.resumablejs.com/)
 ######10.5 日期选择
 
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
 - [Pikaday - 日期选择器](https://github.com/dbushell/Pikaday)
-
+- [TimelineJS - 时间轴](http://timeline.knightlab.com/)
 ######10.6 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
@@ -252,13 +256,13 @@
 ####11. 图表绘制/图形库(Graphics)
 
 - [Highcharts](https://github.com/highslide-software/highcharts.com)
-- [Chart.js - Simple HTML5 Charts using Canvas](https://github.com/nnnick/Chart.js)
+- [Chart.js - 基于HTML5的JavaScript图表](https://github.com/nnnick/Chart.js)
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
 - [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
-  - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
+- [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
 - [Bonsai - 一个功能强大的JavaScript图形库](https://github.com/uxebu/bonsai)
-
+- [Epoch - 漂亮、平稳流畅和高性能可视化的图表库](http://fastly.github.io/epoch/)
 ####12. 日期格式化
 
 - [Moment.js - 日期处理](http://momentjs.com/)
@@ -355,7 +359,7 @@
 - [jquery.scrollTo - 平滑滚动到页面指定位置](https://github.com/flesler/jquery.scrollTo)
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 - [scrollUp](https://github.com/markgoodyear/scrollup)
-
+- [Elevator.js 一个模拟电梯运行“返回顶部”的 JS 插件 (Tim Holman) ](https://github.com/tholman/elevator.js)
 ######13.12 全屏滚动/全屏切换
 
 - [pagePiling.js - 全屏滚动效果](https://github.com/alvarotrigo/pagePiling.js)
@@ -538,7 +542,7 @@
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 
 ####25. 音频/视频
-
+- [jWebAudio](http://01org.github.io/jWebAudio/)
 - [jPlayer -  HTML5 Audio & Video for jQuery](https://github.com/happyworm/jPlayer)
 - [video.js - HTML5 & Flash video player](https://github.com/videojs/video.js)
 - [Accessible HTML5 Video Player - PayPal 开源的 HTML5 视频播放器](https://github.com/paypal/accessible-html5-video-player)
@@ -624,7 +628,9 @@
 
 ####35. 未知分类
  - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
- 
+ - [Reveal.JS - 替代PPT,演示文稿。](https://github.com/hakimel/reveal.js/)
+ - [Gif.JS 是一个能运行在你的浏览器中的JavaScript GIF编码器。](http://jnordberg.github.io/gif.js/)
+ - [Sir Trevor是一个会完全重绘网页内容的工具：直观的编辑网页内容而不用假定任何关于它是如何重绘的事。](http://madebymany.github.io/sir-trevor-js/)
 
 ---
 
@@ -642,7 +648,7 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-4-30日
+ 修正更新时间:2015-5-4日
 
 
   [1]: http://zui.sexy/
