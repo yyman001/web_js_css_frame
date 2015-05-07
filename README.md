@@ -318,7 +318,7 @@
 - [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
-
+- [Picturefill - 一个响应式图片 JS 插件 (Scott Jehl) ](http://scottjehl.github.io/picturefill/)
 ######13.6 进度条/加载动画(Loading)
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
@@ -648,7 +648,7 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-5-4日
+ 修正更新时间:2015-5-8日
 
 
   [1]: http://zui.sexy/
