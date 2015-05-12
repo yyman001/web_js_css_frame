@@ -319,6 +319,7 @@
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
 - [Picturefill - 一个响应式图片 JS 插件 (Scott Jehl) ](http://scottjehl.github.io/picturefill/)
+- [jQuery picZoomer - 图片区域放大](http://www.jqueryscript.net/zoom/jQuery-Plugin-For-Image-Zoom-On-Hover-picZoomer.html)
 ######13.6 进度条/加载动画(Loading)
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
@@ -452,6 +453,7 @@
  - [Tween JS  JavaScript 补间动画库 canvas](http://www.createjs.com/#!/CreateJS)
  - [Rekapi 关键帧动画库](http://rekapi.com/)
  - [favico.js v0.3.4 控制游览器标签小图标](http://lab.ejci.net/favico.js/) - [github](https://github.com/ejci/favico.js)
+ - [dom-animator -注释动画](http://tholman.com/dom-animator/)
  
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
@@ -603,6 +605,13 @@
 - [Flowtype.js - 自动调整字体大小和行号](https://github.com/simplefocus/FlowType.JS)
 - [flat-shadow](https://github.com/peachananr/flat-shadow)
 - [FitText - A jQuery plugin for inflating web type](https://github.com/davatron5000/FitText.js)
+- [Squishy 是一个jQuery插件，它能自动调整文字，准确地对其各容器](http://cmsauve.com/projects/squishy/)
+- [slabText 一个jQuery插件，用于创建大的，大胆的和敏感的头条新闻。](http://freqdec.github.io/slabText/)
+- [Textillate 做CSS3文字动画。](http://jschr.github.io/textillate/)
+- [Bacon 是一个jQuery插件，它允许您环绕贝塞尔曲线文字或线条，它可以让您的文字沿贝塞尔曲线排列。](http://baconforme.com/)
+- [Circletype.js 是一个很小的（ 2.7kb ）的jQuery插件，可以让你的字体在一个圆圈内显示。](http://circletype.labwire.ca/)
+- [jQSlickWrap 是一个jQuery插件，让您可以轻松而准确地环绕浮动图像里的内容文字。](http://www.jwf.us/projects/jQSlickWrap/)
+- [TypeButter 使您能为您的字体设置透明度和字间距。](http://typebutter.com/)
 
 ####32. 布局(Layout)
 
@@ -631,6 +640,7 @@
  - [Reveal.JS - 替代PPT,演示文稿。](https://github.com/hakimel/reveal.js/)
  - [Gif.JS 是一个能运行在你的浏览器中的JavaScript GIF编码器。](http://jnordberg.github.io/gif.js/)
  - [Sir Trevor是一个会完全重绘网页内容的工具：直观的编辑网页内容而不用假定任何关于它是如何重绘的事。](http://madebymany.github.io/sir-trevor-js/)
+ - [BookBlock 翻书特效](http://tympanus.net/Development/BookPreview/) - [github](https://github.com/codrops/BookBlock)
 
 ---
 
@@ -648,7 +658,7 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-5-8日
+ 修正更新时间:2015-5-12日
 
 
   [1]: http://zui.sexy/
