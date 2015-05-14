@@ -248,7 +248,7 @@
 - [At.js - 一个Twitter/微博样式的@自动完成插件](https://github.com/ichord/At.js)
 - [jquery-textcomplete - 智能搜索提示框/自动补全](https://github.com/yuku-t/jquery-textcomplete)
 - [typeahead.js - a fast and fully-featured autocomplete library](https://github.com/twitter/typeahead.js)
-
+- [Awesomplete - 零依赖的简单自动完成插件](http://leaverou.github.io/awesomplete/) - [github](https://github.com/LeaVerou/awesomplete)
 ######10.9 样式修正
 
 - [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
@@ -353,6 +353,7 @@
 - [web-pull-to-refresh](https://github.com/apeatling/web-pull-to-refresh)
 - [pulltorefresh](https://github.com/dwcares/pulltorefresh)
 - [RubberBand.js - add pull-to-refresh functionality to any page.](https://github.com/ThrivingKings/RubberBand.js)
+- [infinity.js/∞ .js 无限下拉加载](http://airbnb.github.io/infinity/)
 
 ######13.11 平滑滚动插件(Smooth Scroll)
 
@@ -658,7 +659,7 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-5-12日
+ 修正更新时间:2015-5-14日
 
 
   [1]: http://zui.sexy/
