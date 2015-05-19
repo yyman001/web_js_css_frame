@@ -62,7 +62,14 @@
 
 [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
-
+###js插件网站
+ - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
+ - [Query插件库--http://www.jq22.com/](http://www.jq22.com/)
+ - [jquery之家--http://www.htmleaf.com/](http://www.htmleaf.com/)
+ - [分享天空--http://www.sharetk.com/](http://www.sharetk.com/)
+ - [jQuery Script--http://www.jqueryscript.net/](http://www.jqueryscript.net/)
+ - [dowebok 做好网站--http://www.dowebok.com/ ](http://www.dowebok.com/)
+ - [Web前端开发--http://www.zjgsq.com/](http://www.zjgsq.com/)
 
 ###前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
@@ -320,6 +327,7 @@
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
 - [Picturefill - 一个响应式图片 JS 插件 (Scott Jehl) ](http://scottjehl.github.io/picturefill/)
 - [jQuery picZoomer - 图片区域放大](http://www.jqueryscript.net/zoom/jQuery-Plugin-For-Image-Zoom-On-Hover-picZoomer.html)
+- [watermark.js 为图片添加水印](http://brianium.github.io/watermarkjs/)
 ######13.6 进度条/加载动画(Loading)
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
@@ -618,7 +626,6 @@
 
 - 分隔面板(Split Panel)
   - [split-pane](https://github.com/shagstrom/split-pane)
-
 ####33. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
@@ -659,7 +666,7 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-5-14日
+ 修正更新时间:2015-5-19日
 
 
   [1]: http://zui.sexy/
