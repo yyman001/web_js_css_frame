@@ -5,15 +5,33 @@
 ######包含pc端,移动端js库,框架,css框架,工具等等...在原文基础上添加修改
 ----
 有些虽已经年代久远，但仍然可以学到很多有用的东西......
+ 
+###移动端资料
+- [支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
+- [移动前端系列——移动端页面坑与排坑技巧( 2014-12-08 )](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201411/290576.shtml)
+- [移动web最佳实践（2013）](http://www.ipresst.com/play/528892e11d0495f30f00762e)
+- [移动Web前端框架 ( 2014 ) ](http://www.jingwentian.com/t-135)
+###学习资料/文章
+ - [node.js中文资料导航](https://github.com/youyudehexie/node123)
+ - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
+ - [AngularJS ,一些关于 AngularJS 的博客，文章，视频，书籍等](https://github.com/justjavac/AngularJS-Learning-zh_CN)
+ - [HelloSea.js seajs教程](https://github.com/island205/HelloSea.js)
+ - [HTTP API 设计指南](https://github.com/ZhangBohan/http-api-design-ZH_CN)
+ - [JSON API：用 JSON 构建 API 的标准指南中文版](https://github.com/justjavac/json-api-zh_CN)
+ - [了不起的React React的各种资源,英文](https://github.com/enaqx/awesome-react)
+ - [一家伙（s5s5）学习css3动画的心得](https://github.com/s5s5/CSS-Animations)
+ - [让WEB前端的变优雅的东东，如：代码规范，代码组织，最佳实践之类](https://github.com/iamjoel/be-grace-front-end-developer)
+ - [前端工具推荐](https://github.com/codylindley/frontend-tools)
 
-[支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
+###书籍资料
+ - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+ - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
+ - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
 
-[移动前端系列——移动端页面坑与排坑技巧( 2014-12-08 )](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201411/290576.shtml)
 
-[移动web最佳实践（2013）](http://www.ipresst.com/play/528892e11d0495f30f00762e)
-
-[移动Web前端框架 ( 2014 ) ](http://www.jingwentian.com/t-135)
-
+-----------
+###其他工具
+ 
  [HTML5 与 CSS3 技术应用评估](http://html5please.com/ "html5与css3技术应用评估")
  
  [各种奇妙的hack](http://browserhacks.com/ "各种奇妙的hack")
@@ -70,7 +88,7 @@
  - [jQuery Script--http://www.jqueryscript.net/](http://www.jqueryscript.net/)
  - [dowebok 做好网站--http://www.dowebok.com/ ](http://www.dowebok.com/)
  - [Web前端开发--http://www.zjgsq.com/](http://www.zjgsq.com/)
-
+ 
 ###前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
@@ -377,7 +395,7 @@
 - [onepage-scroll](https://github.com/peachananr/onepage-scroll)
 - [zepto.fullpage - 专注于移动端的fullPage.js](https://github.com/yanhaijing/zepto.fullpage)
 - [screenfull.js - 切换全屏模式](https://github.com/sindresorhus/screenfull.js)
-
+- [Space.js – HTML 驱动的页面 3D 滚动效果](http://www.slashie.org/space.js/) - [github](https://github.com/gopatrik/space.js)
 ######13.13 分屏滚动
 
 - [multiscroll.js - 分屏滚动效果](https://github.com/alvarotrigo/multiscroll.js)
@@ -428,6 +446,7 @@
 - [parallax.js](https://github.com/wagerfield/parallax)
 - [jparallax](https://github.com/stephband/jparallax)
 - [StickyStack.js](http://codepen.io/mike-zarandona/full/Dasnw) [-github](https://github.com/mike-zarandona/StickyStack.js)
+- [jquery.superscrollorama.js 很酷的动画效果](https://github.com/johnpolacek/superscrollorama)
 ####14. 代码高亮插件/代码编辑器
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
@@ -666,7 +685,7 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-5-19日
+ 修正更新时间:2015-5-21日
 
 
   [1]: http://zui.sexy/
