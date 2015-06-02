@@ -6,12 +6,15 @@
 ----
 有些虽已经年代久远，但仍然可以学到很多有用的东西,可以整理资料的链接和其他链接资料或许有重复......
 [-->>另外一个链接:分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/qingniao99/front-end-collect)
+
 ###移动端资料
 - [支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
 - [移动前端系列——移动端页面坑与排坑技巧( 2014-12-08 )](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201411/290576.shtml)
 - [移动web最佳实践（2013）](http://www.ipresst.com/play/528892e11d0495f30f00762e)
 - [移动Web前端框架 ( 2014 ) ](http://www.jingwentian.com/t-135)
 - [移动端自适应方案-lib.flexible,淘宝手机版都是用这个框架](https://github.com/amfe/lib.flexible)
+- [iOS 微信 音频 视频自动播放](http://www.w3ctech.com/topic/1165#rd)
+
 ###学习资料/文章
  - [node.js中文资料导航](https://github.com/youyudehexie/node123)
  - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
@@ -128,7 +131,7 @@
 - [ionic framework](http://ionicframework.com/)
 - [Fries](https://github.com/jaunesarmiento/fries)
 - [jQuery Mobile](http://jquerymobile.com/)
-
+- [H-ui 前端框架](http://h-ui.net/index.shtml)
 ####2. JavaScript 框架汇总
 
 - JavaScript 框架
@@ -679,14 +682,14 @@
 - [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
-
+- [Clusterize.js 可以优化你的大型数据表格的性能](http://nexts.github.io/Clusterize.js/)
 还有一大波干货待整理...
 
 ----
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-5-25日
+ 修正更新时间:2015-6-2日
 
 
   [1]: http://zui.sexy/
