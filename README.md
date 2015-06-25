@@ -14,7 +14,11 @@
 - [移动Web前端框架 ( 2014 ) ](http://www.jingwentian.com/t-135)
 - [移动端自适应方案-lib.flexible,淘宝手机版都是用这个框架](https://github.com/amfe/lib.flexible)
 - [iOS 微信 音频 视频自动播放](http://www.w3ctech.com/topic/1165#rd)
-
+- [微信JS-SDK说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html)
+- [微信js demo](http://203.195.235.76/jssdk/)
+- [QQ浏览器X5内核问题汇总](http://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
+- [手机分辨率查询](http://viewportsizes.com/)
+- [移动端响应式框架-测试阶段,不适用于复杂页面](https://github.com/peunzhang/pageResponse)
 ###学习资料/文章
  - [node.js中文资料导航](https://github.com/youyudehexie/node123)
  - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
@@ -150,6 +154,7 @@
 - 轻量级JavaScript框架
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
+  - [LAB.js 异步加载js]
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
@@ -689,7 +694,7 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
- 修正更新时间:2015-6-2日
+ 修正更新时间:2015-6-22日
 
 
   [1]: http://zui.sexy/
