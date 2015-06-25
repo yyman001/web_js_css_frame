@@ -20,13 +20,10 @@
 - [微信js demo](http://203.195.235.76/jssdk/)
 - [QQ浏览器X5内核问题汇总](http://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
 - [手机分辨率查询](http://viewportsizes.com/)
-<<<<<<< HEAD
 - [移动端响应式框架-测试阶段,不适用于复杂页面](https://github.com/peunzhang/pageResponse)
-=======
 
->>>>>>> 179d1ccca5934357d8b7337e0fa5ab3b331d20a6
 ###学习资料/文章
- -[Github使用指南-从新手到专家 ](http://www.cnblogs.com/xirongliu/p/4589834.html)
+ - [Github使用指南-从新手到专家 ](http://www.cnblogs.com/xirongliu/p/4589834.html)
  - [node.js中文资料导航](https://github.com/youyudehexie/node123)
  - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
  - [AngularJS ,一些关于 AngularJS 的博客，文章，视频，书籍等](https://github.com/justjavac/AngularJS-Learning-zh_CN)
@@ -701,11 +698,9 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
-<<<<<<< HEAD
- 修正更新时间:2015-6-22日
-=======
- 修正更新时间:2015-6-18日
->>>>>>> 179d1ccca5934357d8b7337e0fa5ab3b331d20a6
+
+ 修正更新时间:2015-6-26日
+
 
 
   [1]: http://zui.sexy/
