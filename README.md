@@ -7,6 +7,8 @@
 有些虽已经年代久远，但仍然可以学到很多有用的东西,可以整理资料的链接和其他链接资料或许有重复......
 [-->>另外一个链接:分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/qingniao99/front-end-collect)
 
+####[常用库查询系统](http://hackr.io/)
+
 ###移动端资料
 - [支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
 - [移动前端系列——移动端页面坑与排坑技巧( 2014-12-08 )](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201411/290576.shtml)
@@ -18,8 +20,13 @@
 - [微信js demo](http://203.195.235.76/jssdk/)
 - [QQ浏览器X5内核问题汇总](http://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
 - [手机分辨率查询](http://viewportsizes.com/)
+<<<<<<< HEAD
 - [移动端响应式框架-测试阶段,不适用于复杂页面](https://github.com/peunzhang/pageResponse)
+=======
+
+>>>>>>> 179d1ccca5934357d8b7337e0fa5ab3b331d20a6
 ###学习资料/文章
+ -[Github使用指南-从新手到专家 ](http://www.cnblogs.com/xirongliu/p/4589834.html)
  - [node.js中文资料导航](https://github.com/youyudehexie/node123)
  - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
  - [AngularJS ,一些关于 AngularJS 的博客，文章，视频，书籍等](https://github.com/justjavac/AngularJS-Learning-zh_CN)
@@ -35,7 +42,7 @@
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
  - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
-
+ - [git资料](https://github.com/xirong/my-git)
 
 -----------
 ###其他工具
@@ -694,7 +701,11 @@
 欢迎分享你的好东西给我
 
  发布时间:2015-4-17日
+<<<<<<< HEAD
  修正更新时间:2015-6-22日
+=======
+ 修正更新时间:2015-6-18日
+>>>>>>> 179d1ccca5934357d8b7337e0fa5ab3b331d20a6
 
 
   [1]: http://zui.sexy/
