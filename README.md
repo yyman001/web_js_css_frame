@@ -34,6 +34,7 @@
  - [一家伙（s5s5）学习css3动画的心得](https://github.com/s5s5/CSS-Animations)
  - [让WEB前端的变优雅的东东，如：代码规范，代码组织，最佳实践之类](https://github.com/iamjoel/be-grace-front-end-developer)
  - [前端工具推荐](https://github.com/codylindley/frontend-tools)
+ - [设计规范 -强烈推荐看](http://shengxi.sinaapp.com/WS/content.html)
 
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -41,56 +42,47 @@
  - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
  - [git资料](https://github.com/xirong/my-git)
 
+###系列文章
+ - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+ - [React-Native学习指南](https://github.com/ele828/react-native-guide)
+ - [html5 Canvas画图系列教程目录](http://jo2.org/html5-canvas-tutorial-list/)
+ - [web前端开发分享-目录系列](http://www.cnblogs.com/jikey/p/3613082.html)
+ - [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
+ - [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+ - [JavaScript模式集合](http://shichuan.github.io/javascript-patterns/)
+ - [深入理解JavaScripts设计模式系列：](http://bbs.html5cn.org/forum.php?mod=viewthread&tid=3335)
+ - [设计模式总结,非js](http://www.cnblogs.com/chenssy/p/3357683.html)
+ - [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
+ - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/#5.2)
+ - [前端之困 · XSS CookBook系列](http://zhuanlan.zhihu.com/wooyun/19756127)
+ - [一个月时间整理《深入浅出Node.js》](https://cnodejs.org/topic/551200e6d792542a29789a43)
+ - [【web必知必会】——图解HTTP](http://www.cnblogs.com/xing901022/p/4309840.html)
+
 -----------
 ###其他工具
- 
- [HTML5 与 CSS3 技术应用评估](http://html5please.com/ "html5与css3技术应用评估")
- 
- [各种奇妙的hack](http://browserhacks.com/ "各种奇妙的hack")
- 
- [几乎所有设备的屏幕尺寸与像素密度表](http://en.wikipedia.org/wiki/List_of_displays_by_pixel_density "几乎所有设备的屏幕尺寸与像素密度表")
- 
- [移动设备参数表](http://screensiz.es/phone "移动设备参数表")
- 
- [ios端移动设备参数速查](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/ "ios端移动设备参数速查")
- 
- [浏览器兼容表](http://www.quirksmode.org/compatibility.html "浏览器兼容表")
- 
- [移动设备查询器](https://deviceatlas.com/device-data/devices "移动设备查询器")
- 
- [移动设备适配库](http://51degrees.codeplex.com/ "移动设备适配库")
- 
- [移动设备适配库2](http://detectmobilebrowsers.com/ "移动设备适配库2")
- 
- [viewport与设备尺寸在线检测器](https://deviceatlas.com/device-data/devices "viewport与设备尺寸在线检测器")
- 
- [html5 移动端兼容性速查](http://mobilehtml5.org/ "html5移动端兼容性速查")
- 
- [在线转换字体](http://www.fontsquirrel.com/tools/webfont-generator "在线转换字体")
- 
- [css3 选择器测试](http://tools.css3.info/selectors-test/test.html "css3选择器测试")
- 
- [兼容性速查表](http://caniuse.com/ "兼容性速查表")
- 
- [浏览器的一些独特参数](http://www.browserscope.org/ "浏览器的一些独特参数")
- 
- [各种各样的媒体查询收集](http://nmsdvid.com/snippets/ "各种各样的媒体查询收集")
- 
- [css3 动画在线制作器](http://ecd.tencent.com/css3/tools.html "css3动画在线制作器")
- 
- [css3 渐变在线制作器](http://www.colorzilla.com/gradient-editor/ "css3渐变在线制作器")
- 
-
-[移动端手势表](http://ww1.sinaimg.cn/bmiddle/c2c57f68jw1e4fh7dmw12j20fi2w6qe1.jpg "移动端手势表")
-
-
-[webkit独有的样式分析](http://ued.ctrip.com/blog/wp-content/webkitcss/ "webkit独有的样式分析")
-
-[HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
-
-[HTML5 POLYFILLS](http://html5polyfill.com/ "HTML5 POLYFILLS")
-
-[iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+ - [HTML5 与 CSS3 技术应用评估](http://html5please.com/ "html5与css3技术应用评估")
+ - [各种奇妙的hack](http://browserhacks.com/ "各种奇妙的hack")
+ - [几乎所有设备的屏幕尺寸与像素密度表](http://en.wikipedia.org/wiki/List_of_displays_by_pixel_density "几乎所有设备的屏幕尺寸与像素密度表")
+ - [移动设备参数表](http://screensiz.es/phone "移动设备参数表")
+ - [ios端移动设备参数速查](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/ "ios端移动设备参数速查")
+ - [浏览器兼容表](http://www.quirksmode.org/compatibility.html "浏览器兼容表")
+ - [移动设备查询器](https://deviceatlas.com/device-data/devices "移动设备查询器")
+ - [移动设备适配库](http://51degrees.codeplex.com/ "移动设备适配库")
+ - [移动设备适配库2](http://detectmobilebrowsers.com/ "移动设备适配库2")
+ - [viewport与设备尺寸在线检测器](https://deviceatlas.com/device-data/devices "viewport与设备尺寸在线检测器")
+ - [html5 移动端兼容性速查](http://mobilehtml5.org/ "html5移动端兼容性速查")
+ - [在线转换字体](http://www.fontsquirrel.com/tools/webfont-generator "在线转换字体")
+ - [css3 选择器测试](http://tools.css3.info/selectors-test/test.html "css3选择器测试")
+ - [兼容性速查表](http://caniuse.com/ "兼容性速查表")
+ - [浏览器的一些独特参数](http://www.browserscope.org/ "浏览器的一些独特参数")
+ - [各种各样的媒体查询收集](http://nmsdvid.com/snippets/ "各种各样的媒体查询收集")
+ - [css3 动画在线制作器](http://ecd.tencent.com/css3/tools.html "css3动画在线制作器")
+ - [css3 渐变在线制作器](http://www.colorzilla.com/gradient-editor/ "css3渐变在线制作器")
+ - [移动端手势表](http://ww1.sinaimg.cn/bmiddle/c2c57f68jw1e4fh7dmw12j20fi2w6qe1.jpg "移动端手势表")
+ - [webkit独有的样式分析](http://ued.ctrip.com/blog/wp-content/webkitcss/ "webkit独有的样式分析")
+ - [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+ - [HTML5 POLYFILLS](http://html5polyfill.com/ "HTML5 POLYFILLS")
+ - [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
 ###js插件网站
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
@@ -100,15 +92,15 @@
  - [jQuery Script--http://www.jqueryscript.net/](http://www.jqueryscript.net/)
  - [dowebok 做好网站--http://www.dowebok.com/ ](http://www.dowebok.com/)
  - [Web前端开发--http://www.zjgsq.com/](http://www.zjgsq.com/)
- 
+
 ###前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
 ####0. 前端自动化(Workflow)
 
 - 前端构建工具
-  - [Yeoman - a set of tools for automating development workflow](https://github.com/yeoman/yeoman) 
-  - [gulp - The streaming build system](http://gulpjs.com/) 
+  - [Yeoman - a set of tools for automating development workflow](https://github.com/yeoman/yeoman)
+  - [gulp - The streaming build system](http://gulpjs.com/)
   - [grunt - the JavaScript Task Runner](http://gruntjs.com/)
   - [F.I.S - 前端集成解决方案](https://github.com/fex-team/fis)
 - 前端模块管理器
@@ -120,12 +112,12 @@
   - [Sea.js](http://seajs.org/)
   - [webpack](http://webpack.github.io/docs/)
 - css预处理器
-  - [Less - Less is More , Than CSS](http://lesscss.org/) 
+  - [Less - Less is More , Than CSS](http://lesscss.org/)
   - [Sass - Syntactically Awesome Style Sheets](http://sass-lang.com/)
   - [Stylus - Expressive, dynamic, robust CSS](http://learnboost.github.io/stylus/)
 
 ####1. 前端框架(Frameworks)
-
+- [Material-UI 移动端ui框架,效果好](http://material-ui.com/#/components/appbar) [github](https://github.com/callemall/material-ui)
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [Foundation](https://github.com/zurb/foundation)
 - [Amaze UI](http://amazeui.org/)
@@ -156,7 +148,7 @@
   - [Sprint.js - 一个高性能、小体积的 DOM 操作库 (Benjamin De Cock) ](https://github.com/bendc/sprint)
   - [JSLite.js](http://jslite.io/)
 - 轻量级JavaScript框架
-  - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
+  - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js)
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
   - [LAB.js 异步加载js]
 - JavaScript 工具库
@@ -207,7 +199,7 @@
 
 - [yue.css](https://github.com/lepture/yue.css)
 - [typo.css](https://github.com/sofish/typo.css)
-- [chinese-copywriting-guidelines - 中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines) 
+- [chinese-copywriting-guidelines - 中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ####7. 网格系统
 
@@ -287,8 +279,8 @@
 - [jquery-textcomplete - 智能搜索提示框/自动补全](https://github.com/yuku-t/jquery-textcomplete)
 - [typeahead.js - a fast and fully-featured autocomplete library](https://github.com/twitter/typeahead.js)
 - [Awesomplete - 零依赖的简单自动完成插件](http://leaverou.github.io/awesomplete/) - [github](https://github.com/LeaVerou/awesomplete)
-######10.9 样式修正
 
+######10.9 样式修正
 - [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
 
 ####11. 图表绘制/图形库(Graphics)
@@ -298,9 +290,10 @@
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
 - [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
-- [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
+- [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3)
 - [Bonsai - 一个功能强大的JavaScript图形库](https://github.com/uxebu/bonsai)
 - [Epoch - 漂亮、平稳流畅和高性能可视化的图表库](http://fastly.github.io/epoch/)
+- [SVG 2D绘图](http://jonobr1.github.io/two.js/)
 ####12. 日期格式化
 
 - [Moment.js - 日期处理](http://momentjs.com/)
@@ -312,7 +305,7 @@
 
 - [slick - the last carousel you'll ever need](https://github.com/kenwheeler/slick/)
 - [Swipe - the most accurate touch slider](https://github.com/thebird/Swipe)
-- [Swiper - 移动端/pc端滑动组件比较强大](http://www.idangero.us/swiper/demos/#.VUCEQUYr_pA) - [github](https://github.com/nolimits4web/Swiper) 
+- [Swiper - 移动端/pc端滑动组件比较强大](http://www.idangero.us/swiper/demos/#.VUCEQUYr_pA) - [github](https://github.com/nolimits4web/Swiper)
 - [iscroll - 简约模拟滑动层](https://github.com/cubiq/iscroll)
 - [iSlider - 移动端滑动组件](https://github.com/BE-FE/iSlider)
 - [OwlCarousel - create beautiful responsive carousel slider](https://github.com/OwlFonk/OwlCarousel)
@@ -337,7 +330,7 @@
 - [bindWithDelay - jQuery Plugin For Delayed Event Execution](https://github.com/bgrins/bindWithDelay)
 - [TypeWatch - 停止输入时调用](https://github.com/dennyferra/TypeWatch)
 
-######13.4 图片轮播(幻灯片)/图片展示 
+######13.4 图片轮播(幻灯片)/图片展示
 - [SuperSlide - 国产的幻灯片,功能集成比较多,我个人推荐](http://www.SuperSlide2.com/)
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
 - [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
@@ -495,13 +488,13 @@
  - [Rekapi 关键帧动画库](http://rekapi.com/)
  - [favico.js v0.3.4 控制游览器标签小图标](http://lab.ejci.net/favico.js/) - [github](https://github.com/ejci/favico.js)
  - [dom-animator -注释动画](http://tholman.com/dom-animator/)
- 
+
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
- - [CSShake - css抖动库](http://elrumordelaluz.github.io/csshake/#1) - [github](https://github.com/elrumordelaluz/csshake) 
+ - [CSShake - css抖动库](http://elrumordelaluz.github.io/csshake/#1) - [github](https://github.com/elrumordelaluz/csshake)
  - [animate.css - css3动画库](https://github.com/daneden/animate.css)
  - [all animation - 同上,有sass版本](http://clovisdasilvaneto.github.io/all-animation/) - [github](https://github.com/clovisdasilvaneto/all-animation)
- - [magic - CSS3动画特效](http://dreamsky.github.io/main/blog/magic-css.html) - [gihub](https://github.com/miniMAC/magic) 
+ - [magic - CSS3动画特效](http://dreamsky.github.io/main/blog/magic-css.html) - [gihub](https://github.com/miniMAC/magic)
  - [ScrollMe – 在网页中加入各种滚动动画效果](https://github.com/nckprsn/scrollme)
  - [Loaders.css - css加载动画](http://connoratherton.com/loaders) - [ github](https://github.com/ConnorAtherton/loaders.css)
  - [css-loaders - 同上](https://github.com/lukehaas/css-loaders)
@@ -699,7 +692,7 @@
 
  发布时间:2015-4-17日
 
- 修正更新时间:2015-6-26日
+ 修正更新时间:2015-6-28日
 
 
 
