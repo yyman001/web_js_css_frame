@@ -35,7 +35,8 @@
  - [让WEB前端的变优雅的东东，如：代码规范，代码组织，最佳实践之类](https://github.com/iamjoel/be-grace-front-end-developer)
  - [前端工具推荐](https://github.com/codylindley/frontend-tools)
  - [设计规范 -强烈推荐看](http://shengxi.sinaapp.com/WS/content.html)
-
+ - [腾讯团队web移动文章](http://tgideas.qq.com/)
+ - [视觉设计师是怎样让前端工程师 100% 实现设计效果的？](http://www.zhihu.com/question/27743708#answer-17103050)
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -57,7 +58,9 @@
  - [前端之困 · XSS CookBook系列](http://zhuanlan.zhihu.com/wooyun/19756127)
  - [一个月时间整理《深入浅出Node.js》](https://cnodejs.org/topic/551200e6d792542a29789a43)
  - [【web必知必会】——图解HTTP](http://www.cnblogs.com/xing901022/p/4309840.html)
-
+ - [廖雪峰-JavaScript基础教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+ - [MDN JavaScript基础教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+ - [45个实用的JavaScript技巧、窍门和最佳实践](http://colobu.com/2014/09/23/45-Useful-JavaScript-Tips,-Tricks-and-Best-Practices/)
 -----------
 ###其他工具
  - [HTML5 与 CSS3 技术应用评估](http://html5please.com/ "html5与css3技术应用评估")
@@ -674,6 +677,7 @@
  - [Gif.JS 是一个能运行在你的浏览器中的JavaScript GIF编码器。](http://jnordberg.github.io/gif.js/)
  - [Sir Trevor是一个会完全重绘网页内容的工具：直观的编辑网页内容而不用假定任何关于它是如何重绘的事。](http://madebymany.github.io/sir-trevor-js/)
  - [BookBlock 翻书特效](http://tympanus.net/Development/BookPreview/) - [github](https://github.com/codrops/BookBlock)
+ - [intro.js 引导用户页面](https://github.com/usablica/intro.js)
 
 ---
 
