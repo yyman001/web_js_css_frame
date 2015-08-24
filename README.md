@@ -6,7 +6,7 @@
 ----
 有些虽已经年代久远，但仍然可以学到很多有用的东西,可以整理资料的链接和其他链接资料或许有重复......
 [-->>另外一个链接:分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/qingniao99/front-end-collect)
-
+[库](https://github.com/dypsilon/frontend-dev-bookmarks)
 ####[常用库查询系统](http://hackr.io/)
 
 ###移动端资料
@@ -23,6 +23,8 @@
 - [移动端响应式框架-测试阶段,不适用于复杂页面](https://github.com/peunzhang/pageResponse)
 
 ###学习资料/文章
+ - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
+ - [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
  - [Github使用指南-从新手到专家 ](http://www.cnblogs.com/xirongliu/p/4589834.html)
  - [node.js中文资料导航](https://github.com/youyudehexie/node123)
  - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
