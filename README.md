@@ -521,7 +521,8 @@
 - [basil.js](https://github.com/Wisembly/basil.js)
 
 ####18. 模板引擎
-
+- [vue.js ie9+](http://cn.vuejs.org/)
+- [paperclip.js ie8+](https://github.com/crcn/paperclip.js)
 - [mustache.js](https://github.com/janl/mustache.js)
 - [Handlebars.js](http://www.jingwentian.com/t-66)
 - [artTemplate](https://github.com/aui/artTemplate)
