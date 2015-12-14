@@ -81,6 +81,7 @@
  - [兼容性速查表](http://caniuse.com/ "兼容性速查表")
  - [浏览器的一些独特参数](http://www.browserscope.org/ "浏览器的一些独特参数")
  - [各种各样的媒体查询收集](http://nmsdvid.com/snippets/ "各种各样的媒体查询收集")
+ - [sass @include-media 媒体查询库](http://include-media.com/) https://github.com/eduardoboucas/include-media
  - [css3 动画在线制作器](http://ecd.tencent.com/css3/tools.html "css3动画在线制作器")
  - [css3 渐变在线制作器](http://www.colorzilla.com/gradient-editor/ "css3渐变在线制作器")
  - [移动端手势表](http://ww1.sinaimg.cn/bmiddle/c2c57f68jw1e4fh7dmw12j20fi2w6qe1.jpg "移动端手势表")
@@ -188,6 +189,7 @@
 - [ZUI - 一个开源前端实践方案，帮助你快速构现代跨屏应用。][1]
 - [WeX5开源前端][2]
 - [B-JUI][3]
+- [MUI 轻量级WEB框架](https://www.muicss.com/)
 
 ####5. 基础模版
 - 浏览器统一(Cross Browser)
@@ -212,7 +214,11 @@
 - [grid](https://github.com/aekaplan/grid)
 - [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid)
 - [MasonJS - creating a perfect grid](https://github.com/DrewDahlman/Mason)
-
+- [Juiced: a Flexbox CSS Framework](http://juicedcss.com/)
+- [Neutron 创建灵化、简洁网页布局的SASS框架](http://neutroncss.com/)
+- [flexible.gs 灵活的响应式栅格布局CSS框架](http://flexible.gs)
+- [Decorator - HTML, CSS, and JavaScrip 前端框架](http://decorator.codable.org)
+- [minigrid.js 只有2KB的零依赖栅格布局-瀑布流](http://alves.im/minigrid/)
 ####8. HTML5 API 应用
 
 - [History.js - gracefully supports the HTML5 History/State APIs](https://github.com/browserstate/history.js)
@@ -683,8 +689,20 @@
  - [Sir Trevor是一个会完全重绘网页内容的工具：直观的编辑网页内容而不用假定任何关于它是如何重绘的事。](http://madebymany.github.io/sir-trevor-js/)
  - [BookBlock 翻书特效](http://tympanus.net/Development/BookPreview/) - [github](https://github.com/codrops/BookBlock)
  - [intro.js 引导用户页面](https://github.com/usablica/intro.js)
-
+ - [CSS滤镜 CSSgram](http://una.im/CSSgram/)
+ - [Transformicons - CSS/SVG 元素模拟 图标/符号动画-过渡](http://www.transformicons.com/)
+ - [CSS 滤镜在线调试](http://ilyashubin.github.io/FilterBlend/)
+ - [Crayon.css CSS颜色变量名与16进制对应列表。](http://riccardoscalco.github.io/crayon/)
+ - [SVG圆形菜单生成器](http://sarasoueidan.com/tools/circulus/)
+ - [优化和配置SVGO的WEB应用](https://jakearchibald.github.io/svgomg/)
+ - [CSS单位对比视图](http://katydecorah.com/css-ruler/)
+ - [使用GUI快速创建SVG path](http://anthonydugois.com/svg-path-builder/)
+ - [把CSS代码转成SASS的应用](http://css2sass.herokuapp.com/)
+ - [resizr 测试  CSS media queries 的轻量级应用-需要线上地址,没有线上地址,可以搞个coding-git](http://resizr.co/)
 ---
+
+
+
 
 ####前端参考集
 
