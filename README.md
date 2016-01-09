@@ -692,6 +692,7 @@
  - [CSS滤镜 CSSgram](http://una.im/CSSgram/)
  - [Transformicons - CSS/SVG 元素模拟 图标/符号动画-过渡](http://www.transformicons.com/)
  - [CSS 滤镜在线调试](http://ilyashubin.github.io/FilterBlend/)
+ - [glfx.js canvas图片处理滤镜](https://github.com/evanw/glfx.js)
  - [Crayon.css CSS颜色变量名与16进制对应列表。](http://riccardoscalco.github.io/crayon/)
  - [SVG圆形菜单生成器](http://sarasoueidan.com/tools/circulus/)
  - [优化和配置SVGO的WEB应用](https://jakearchibald.github.io/svgomg/)
