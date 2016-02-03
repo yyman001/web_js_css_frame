@@ -689,6 +689,7 @@
  - [Gif.JS 是一个能运行在你的浏览器中的JavaScript GIF编码器。](http://jnordberg.github.io/gif.js/)
  - [Sir Trevor是一个会完全重绘网页内容的工具：直观的编辑网页内容而不用假定任何关于它是如何重绘的事。](http://madebymany.github.io/sir-trevor-js/)
  - [feature.js 检测浏览器是否支持某属性](http://featurejs.com/)
+ - [Mock.js 生成随机数据,拦截ajax](http://mockjs.com/)
  - [BookBlock 翻书特效](http://tympanus.net/Development/BookPreview/) - [github](https://github.com/codrops/BookBlock)
  - [intro.js 引导用户页面](https://github.com/usablica/intro.js)
  - [CSS滤镜 CSSgram](http://una.im/CSSgram/)
