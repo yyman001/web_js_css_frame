@@ -682,10 +682,13 @@
 ####34. sass 库
 - [SpaceBase – 基于 Sass 的响应式 CSS 框架](http://spacebase.space150.com/) - [github](https://github.com/space150/spaceBase)
 - [breakpoint-sass 媒体查询库](http://breakpoint-sass.com/)
-- [@include-media diy媒体查询库-推荐](http://include-media.com/)
+- [@include-media diy媒体查询库](http://include-media.com/)
 - [sass-mediaqueries 媒体查询库-推荐](https://github.com/paranoida/sass-mediaqueries) -[demo](http://paranoida.github.io/sass-mediaqueries/demo.html)
+- [sass-mq Media Queries with superpowers-em单位媒体查询库](https://github.com/sass-mq/sass-mq) 
+
 ####34.1 分页
 - [jqPagination 分页插件](https://github.com/beneverard/jqPagination)
+
 ####35. 未知分类
  - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
  - [Reveal.JS - 替代PPT,演示文稿。](https://github.com/hakimel/reveal.js/)
@@ -726,7 +729,7 @@
 
  发布时间:2015-4-17日
 
- 修正更新时间:2015-7-24日
+ 修正更新时间:2016-4-12日
 
 
 
