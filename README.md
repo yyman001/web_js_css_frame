@@ -39,6 +39,7 @@
  - [设计规范 -强烈推荐看](http://shengxi.sinaapp.com/WS/content.html)
  - [腾讯团队web移动文章](http://tgideas.qq.com/)
  - [视觉设计师是怎样让前端工程师 100% 实现设计效果的？](http://www.zhihu.com/question/27743708#answer-17103050)
+ - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
