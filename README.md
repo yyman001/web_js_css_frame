@@ -16,6 +16,7 @@
 - [移动Web前端框架 ( 2014 ) ](http://www.jingwentian.com/t-135)
 - [移动端自适应方案-lib.flexible,淘宝手机版都是用这个框架](https://github.com/amfe/lib.flexible)
 - [iOS 微信 音频 视频自动播放](http://www.w3ctech.com/topic/1165#rd)
+- [解决ios下的微信打开的页面背景音乐无法自动播放](http://www.w3cmark.com/2016/434.html)
 - [微信JS-SDK说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html)
 - [微信js demo](http://203.195.235.76/jssdk/)
 - [QQ浏览器X5内核问题汇总](http://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
