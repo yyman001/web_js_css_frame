@@ -192,7 +192,7 @@
 - [WeX5开源前端][2]
 - [B-JUI][3]
 - [MUI 轻量级WEB框架](https://www.muicss.com/)
-
+- [jQuery WeUI - V0.7.1 WeUI 的jQuery实现版，提供了大量官方WeUI没有的组件, 同时兼容 jQuery 和 Zepto。](http://lihongxun945.github.io/jquery-weui/)
 ####5. 基础模版
 - 浏览器统一(Cross Browser)
   - [HTML5 BOILERPLATE](https://github.com/h5bp/html5-boilerplate)
@@ -606,6 +606,7 @@
 - [Vide - 视频背景](https://github.com/VodkaBears/Vide)
 - [winamp2-js](https://github.com/captbaritone/winamp2-js)
 - [Buzz - A Javascript HTML5 Audio library](https://github.com/jaysalvat/buzz)
+- [howler.js 是一个新的 JavaScript 库用于处理 Web 的音频，该库最初是为一个 HTML5 游戏引擎所开发，但也可用于其他的 Web 项目。] (https://github.com/goldfire/howler.js)
 
 ####26. 按钮
 
