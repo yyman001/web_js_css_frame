@@ -488,6 +488,7 @@
 
 ####16. 动画(Animate)
 - js动画库
+ - [GSAP.js 最屌的动画库](http://greensock.com/gsap)
  - [dynamics.js js动画-很屌的样子,支持svg](http://dynamicsjs.com/)
  - [snabbt.js - 简约的JavaScript动画库](http://daniel-lundin.github.io/snabbt.js/)
  - [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
