@@ -178,6 +178,7 @@
 - [The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework)
 - [CanvasEngine](https://github.com/RSamaium/CanvasEngine)
 - [Quintus](https://github.com/cykod/Quintus)
+- [LayaAir 引擎 国内游戏框架,跟白鹭比较??暂时不知道](http://layabox.com/)
 
 ####4. ui组件库
 
@@ -684,6 +685,7 @@
 - [swfobject](https://github.com/swfobject/swfobject)
 
 ####34. sass 库
+- [Family.scss - css3选择器简写框架,非常不错](http://lukyvj.github.io/family.scss/)
 - [SpaceBase – 基于 Sass 的响应式 CSS 框架](http://spacebase.space150.com/) - [github](https://github.com/space150/spaceBase)
 - [breakpoint-sass 媒体查询库](http://breakpoint-sass.com/)
 - [@include-media diy媒体查询库](http://include-media.com/)
