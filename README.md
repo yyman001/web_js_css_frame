@@ -67,6 +67,9 @@
  - [45个实用的JavaScript技巧、窍门和最佳实践](http://colobu.com/2014/09/23/45-Useful-JavaScript-Tips,-Tricks-and-Best-Practices/)
 -----------
 ###其他工具
+ - [SPARK动画平台 这是我们组做的一个动画效果平台，里面集合了所有的牛逼动画，可以让你灵感猛增！（目前已开放外网使用）](https://tonytony.club/spark/)
+ - [OneDiv 这是个神奇的网站，里面的所有细节都是用一个div元素通过复杂的Css3实现的，有空可以去开开脑洞噢](http://a.singlediv.com/)
+ - [贝塞尔曲线生成器 ](http://cubic-bezier.com/)
  - [HTML5 与 CSS3 技术应用评估](http://html5please.com/ "html5与css3技术应用评估")
  - [各种奇妙的hack](http://browserhacks.com/ "各种奇妙的hack")
  - [几乎所有设备的屏幕尺寸与像素密度表](http://en.wikipedia.org/wiki/List_of_displays_by_pixel_density "几乎所有设备的屏幕尺寸与像素密度表")
