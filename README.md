@@ -170,7 +170,7 @@
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [Vue.js - 数据驱动的组件化MVVM库](https://github.com/yyx990803/vue)
 
-####3. 前端游戏框架
+####3. 前端游戏框架(动画引擎)
 
 - [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
 - [Egret Engine](http://www.egret-labs.org/)
@@ -182,6 +182,8 @@
 - [CanvasEngine](https://github.com/RSamaium/CanvasEngine)
 - [Quintus](https://github.com/cykod/Quintus)
 - [LayaAir 引擎 国内游戏框架,跟白鹭比较??暂时不知道](http://layabox.com/)
+- [soya2d 一个 好学、易用、强大、开源的 H5游戏引擎 现在,有你掌控](http://soya2d.com)
+
 
 ####4. ui组件库
 
@@ -527,6 +529,7 @@
  - [SpinKit ??](https://github.com/tobiasahlin/SpinKit)
  - [JX.Animate - 腾讯css3动画库](http://alloyteam.github.io/JXAnimate/) - [github](https://github.com/AlloyTeam/JXAnimate)
 
+ 
 ####17. 本地存储
 
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
