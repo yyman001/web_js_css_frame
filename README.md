@@ -314,6 +314,7 @@
 - [Bonsai - 一个功能强大的JavaScript图形库](https://github.com/uxebu/bonsai)
 - [Epoch - 漂亮、平稳流畅和高性能可视化的图表库](http://fastly.github.io/epoch/)
 - [SVG 2D绘图](http://jonobr1.github.io/two.js/)
+- [SVG Morpheus - SVG图形变形动画](https://alexk111.github.io/SVG-Morpheus/)
 ####12. 日期格式化
 
 - [Moment.js - 日期处理](http://momentjs.com/)
@@ -399,6 +400,7 @@
 - [Waypoints](https://github.com/imakewebthings/waypoints)
 - [ScrollMagic - 像进度条一样使用滚动条](https://github.com/janpaepke/ScrollMagic)
 - [onScreen - 滚动加载,滚动固定](http://silvestreh.github.io/onScreen/)
+
 ######13.10 滚动加载更多/下拉刷新(Pull to Refresh)
 
 - [jScroll](https://github.com/pklauzinski/jscroll)
@@ -414,6 +416,7 @@
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 - [scrollUp](https://github.com/markgoodyear/scrollup)
 - [Elevator.js 一个模拟电梯运行“返回顶部”的 JS 插件 (Tim Holman) ](https://github.com/tholman/elevator.js)
+
 ######13.12 全屏滚动/全屏切换
 
 - [pagePiling.js - 全屏滚动效果](https://github.com/alvarotrigo/pagePiling.js)
@@ -422,6 +425,7 @@
 - [zepto.fullpage - 专注于移动端的fullPage.js](https://github.com/yanhaijing/zepto.fullpage)
 - [screenfull.js - 切换全屏模式](https://github.com/sindresorhus/screenfull.js)
 - [Space.js – HTML 驱动的页面 3D 滚动效果](http://www.slashie.org/space.js/) - [github](https://github.com/gopatrik/space.js)
+
 ######13.13 分屏滚动
 
 - [multiscroll.js - 分屏滚动效果](https://github.com/alvarotrigo/multiscroll.js)
@@ -444,6 +448,7 @@
 - [Sticky Mojo](http://mojotech.github.io/stickymojo/)
 - [Zebra Pin](https://github.com/stefangabos/Zebra_Pin)
 - [HC-Sticky](https://github.com/somewebmedia/hc-sticky)
+
 ######13.16 触控事件
 
 - [Hammer.js](https://github.com/hammerjs/hammer.js)
@@ -473,6 +478,7 @@
 - [jparallax](https://github.com/stephband/jparallax)
 - [StickyStack.js](http://codepen.io/mike-zarandona/full/Dasnw) [-github](https://github.com/mike-zarandona/StickyStack.js)
 - [jquery.superscrollorama.js 很酷的动画效果](https://github.com/johnpolacek/superscrollorama)
+
 ####14. 代码高亮插件/代码编辑器
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
@@ -721,6 +727,7 @@
  - [使用GUI快速创建SVG path](http://anthonydugois.com/svg-path-builder/)
  - [把CSS代码转成SASS的应用](http://css2sass.herokuapp.com/)
  - [resizr 测试  CSS media queries 的轻量级应用-需要线上地址,没有线上地址,可以搞个coding-git](http://resizr.co/)
+ - [在线ppt](http://yanshuo.io/)
 ---
 
 
