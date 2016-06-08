@@ -67,6 +67,7 @@
  - [45个实用的JavaScript技巧、窍门和最佳实践](http://colobu.com/2014/09/23/45-Useful-JavaScript-Tips,-Tricks-and-Best-Practices/)
 -----------
 ###其他工具
+ - [flexbox在线制作器](http://the-echoplex.net/flexyboxes/) 
  - [SPARK动画平台 这是我们组做的一个动画效果平台，里面集合了所有的牛逼动画，可以让你灵感猛增！（目前已开放外网使用）](https://tonytony.club/spark/)
  - [OneDiv 这是个神奇的网站，里面的所有细节都是用一个div元素通过复杂的Css3实现的，有空可以去开开脑洞噢](http://a.singlediv.com/)
  - [贝塞尔曲线生成器 ](http://cubic-bezier.com/)
@@ -94,6 +95,7 @@
  - [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
  - [HTML5 POLYFILLS](http://html5polyfill.com/ "HTML5 POLYFILLS")
  - [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+ 
 
 ###js插件网站
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
@@ -169,6 +171,8 @@
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [Vue.js - 数据驱动的组件化MVVM库](https://github.com/yyx990803/vue)
+  - [移动web开发调试工具AlloyLever介绍 - 打印信息](http://alloyteam.github.io/AlloyLever/)
+  -[vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
 
 ####3. 前端游戏框架(动画引擎)
 
@@ -682,6 +686,7 @@
 
 - 分隔面板(Split Panel)
   - [split-pane](https://github.com/shagstrom/split-pane)
+
 ####33. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
@@ -728,6 +733,7 @@
  - [把CSS代码转成SASS的应用](http://css2sass.herokuapp.com/)
  - [resizr 测试  CSS media queries 的轻量级应用-需要线上地址,没有线上地址,可以搞个coding-git](http://resizr.co/)
  - [在线ppt](http://yanshuo.io/)
+ 
 ---
 
 
