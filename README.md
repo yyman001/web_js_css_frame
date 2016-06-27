@@ -469,7 +469,8 @@
 - [oriDomi - 像指一样折叠Dom元素](https://github.com/dmotz/oriDomi)
 
 ######13.19 滚动条(Scrollbar)
-
+- [jQuery-slimScroll pc效果不错5k,手机端不建议是用](http://rocha.la/jQuery-slimScroll)
+- [jquery.mCustomScrollbar pc,苹果效果不错,安卓效果略差,大小较大](http://manos.malihu.gr/jquery-custom-content-scroller/)
 - [jScrollPane](https://github.com/vitch/jScrollPane)
 - [jquery.scrollbar](https://github.com/gromo/jquery.scrollbar)
 - [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar)
