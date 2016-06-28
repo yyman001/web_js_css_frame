@@ -24,6 +24,7 @@
 - [移动端响应式框架-测试阶段,不适用于复杂页面](https://github.com/peunzhang/pageResponse)
 
 ###学习资料/文章
+ - [渲染性能](https://github.com/sundway/blog/issues/2)
  - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
  - [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
  - [Github使用指南-从新手到专家 ](http://www.cnblogs.com/xirongliu/p/4589834.html)
@@ -506,6 +507,7 @@
 ####16. 动画(Animate)
 - js动画库
  - [GSAP.js 最屌的动画库](http://greensock.com/gsap)
+ - [anime.js 最近出的动画库,支持svg](https://github.com/juliangarnier/anime)
  - [dynamics.js js动画-很屌的样子,支持svg](http://dynamicsjs.com/)
  - [snabbt.js - 简约的JavaScript动画库](http://daniel-lundin.github.io/snabbt.js/)
  - [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
