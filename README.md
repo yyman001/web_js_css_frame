@@ -353,6 +353,7 @@
 - [lazyload.js](https://github.com/vvo/lazyload)
 - [waitForImages - 图片加载监听库](https://github.com/alexanderdickson/waitForImages)
 - [PxLoader - JS预加载库:实现图片、声音等各种文件的预加载功能](https://github.com/thinkpixellab/PxLoader)
+- [jQuery.preload - 预加载图片资源](https://github.com/htmlhero/jQuery.preload/blob/master/src/jquery.preload.js)
 - [bindWithDelay - jQuery Plugin For Delayed Event Execution](https://github.com/bgrins/bindWithDelay)
 - [TypeWatch - 停止输入时调用](https://github.com/dennyferra/TypeWatch)
 
