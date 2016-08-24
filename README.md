@@ -96,7 +96,7 @@
  - [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
  - [HTML5 POLYFILLS](http://html5polyfill.com/ "HTML5 POLYFILLS")
  - [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
- 
+ - [智图客户端 – 你的图片你做主,本地图片快速压缩工具](https://isux.tencent.com/zhitu-client.html)
 
 ###js插件网站
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
