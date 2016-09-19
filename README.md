@@ -97,7 +97,7 @@
  - [HTML5 POLYFILLS](http://html5polyfill.com/ "HTML5 POLYFILLS")
  - [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
  - [智图客户端 – 你的图片你做主,本地图片快速压缩工具](https://isux.tencent.com/zhitu-client.html)
-
+ - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
 ###js插件网站
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
  - [Query插件库--http://www.jq22.com/](http://www.jq22.com/)
@@ -510,6 +510,7 @@
 ####16. 动画(Animate)
 - js动画库
  - [GSAP.js 最屌的动画库](http://greensock.com/gsap)
+ - [Animate Plus  CSS/SVG 动画库](https://github.com/bendc/animateplus)
  - [anime.js 最近出的动画库,支持svg](https://github.com/juliangarnier/anime)
  - [dynamics.js js动画-很屌的样子,支持svg](http://dynamicsjs.com/)
  - [snabbt.js - 简约的JavaScript动画库](http://daniel-lundin.github.io/snabbt.js/)
