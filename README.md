@@ -9,6 +9,11 @@
 [库](https://github.com/dypsilon/frontend-dev-bookmarks)
 ####[常用库查询系统](http://hackr.io/)
 
+###文档
+-[avalon 2 中文文档](http://avalonjs.coding.me/) 
+-[vue1.0 中文文档](https://cn.vuejs.org/guide/) 
+-[vue2.0 中文文档](https://vuefe.cn/) 
+
 ###移动端资料
 - [支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
 - [移动前端系列——移动端页面坑与排坑技巧( 2014-12-08 )](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201411/290576.shtml)
@@ -42,6 +47,7 @@
  - [腾讯团队web移动文章](http://tgideas.qq.com/)
  - [视觉设计师是怎样让前端工程师 100% 实现设计效果的？](http://www.zhihu.com/question/27743708#answer-17103050)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+ - [vue 教程](http://www.cnblogs.com/keepfool/p/5619070.html)
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
