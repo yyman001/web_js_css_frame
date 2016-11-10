@@ -11,7 +11,7 @@
 
 ###文档
 -[avalon 2 中文文档](http://avalonjs.coding.me/) 
--[vue1.0 中文文档](https://cn.vuejs.org/guide/) 
+-[vue1.0 中文文档](http://vuejs.org.cn/guide/) 
 -[vue2.0 中文文档](https://vuefe.cn/) 
 
 ###移动端资料
@@ -116,6 +116,14 @@
 ###前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
+####vue ui组件库
+ - [微信UI Vux ](https://github.com/airyland/vux)
+ - [bootstrap风格 Vux ](https://github.com/yuche/vue-strap)
+ - [material风格 vue-mdl ](https://github.com/posva/vue-mdl)
+ - [Keen-UI ](https://github.com/JosephusPaye/Keen-UI)
+ - [Mint UI ](https://github.com/ElemeFE/mint-ui)
+ - [element UI 支持vue2.0](http://element.eleme.io)
+
 ####0. 前端自动化(Workflow)
 
 - 前端构建工具
@@ -153,6 +161,7 @@
 - [Fries](https://github.com/jaunesarmiento/fries)
 - [jQuery Mobile](http://jquerymobile.com/)
 - [H-ui 前端框架](http://h-ui.net/index.shtml)
+- [Skeleton](https://github.com/dhg/Skeleton)
 ####2. JavaScript 框架汇总
 
 - JavaScript 框架
