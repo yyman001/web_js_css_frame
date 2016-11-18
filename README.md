@@ -48,6 +48,8 @@
  - [视觉设计师是怎样让前端工程师 100% 实现设计效果的？](http://www.zhihu.com/question/27743708#answer-17103050)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  - [vue 教程](http://www.cnblogs.com/keepfool/p/5619070.html)
+ - [10 个原则让动画带你飞](https://github.com/xitu/gold-miner/blob/master/TODO/smooth-css-animations.md)
+ 
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -104,6 +106,7 @@
  - [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
  - [智图客户端 – 你的图片你做主,本地图片快速压缩工具](https://isux.tencent.com/zhitu-client.html)
  - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
+ 
 ###js插件网站
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
  - [Query插件库--http://www.jq22.com/](http://www.jq22.com/)
@@ -116,14 +119,20 @@
 ###前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
+####手势库
+ - [TouchSwipe ](http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html)
+
+
 ####vue ui组件库
- - [微信UI Vux ](https://github.com/airyland/vux)
- - [bootstrap风格 Vux ](https://github.com/yuche/vue-strap)
+ - [微信UI Vux 支持@^1.0.24](https://github.com/airyland/vux)
+ - [bootstrap风格 Vux 支持@v1.x.x](https://github.com/yuche/vue-strap)
  - [material风格 vue-mdl ](https://github.com/posva/vue-mdl)
  - [Keen-UI ](https://github.com/JosephusPaye/Keen-UI)
  - [Mint UI ](https://github.com/ElemeFE/mint-ui)
- - [element UI 支持vue2.0](http://element.eleme.io)
-
+ - [iView UI](https://github.com/iview/iview)
+ - [element UI 支持vue@2.0](http://element.eleme.io)
+ - [Muse-UI - 基于 Vue 2.0 和 Material Desigin 的 UI 组件库](https://museui.github.io/)
+ 
 ####0. 前端自动化(Workflow)
 
 - 前端构建工具
@@ -177,10 +186,12 @@
   - [Avalon](https://github.com/RubyLouvre/avalon)
   - [Sprint.js - 一个高性能、小体积的 DOM 操作库 (Benjamin De Cock) ](https://github.com/bendc/sprint)
   - [JSLite.js](http://jslite.io/)
+  
 - 轻量级JavaScript框架
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js)
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
   - [LAB.js 异步加载js]
+  
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
@@ -188,7 +199,7 @@
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [Vue.js - 数据驱动的组件化MVVM库](https://github.com/yyx990803/vue)
   - [移动web开发调试工具AlloyLever介绍 - 打印信息](http://alloyteam.github.io/AlloyLever/)
-  -[vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
+  - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
 
 ####3. 前端游戏框架(动画引擎)
 - [ Pixi.js 3.0.7 - WebGL 国外游戏引擎](http://www.pixijs.com/) https://github.com/pixijs/pixi.js
@@ -240,7 +251,7 @@
 - [chinese-copywriting-guidelines - 中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ####7. 网格系统
-
+- [flex.css - 快速入门，极速布局](https://github.com/lzxb/flex.css)
 - [grid](https://github.com/aekaplan/grid)
 - [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid)
 - [MasonJS - creating a perfect grid](https://github.com/DrewDahlman/Mason)
@@ -760,6 +771,7 @@
  ####36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
   - [create.js ](http://www.createjs.cc/) 
+  
 ---
 
 
@@ -780,8 +792,7 @@
 
  发布时间:2015-4-17日
 
- 修正更新时间:2016-4-12日
-
+ 
 
 
   [1]: http://zui.sexy/
