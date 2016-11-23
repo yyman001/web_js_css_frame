@@ -7,7 +7,13 @@
 有些虽已经年代久远，但仍然可以学到很多有用的东西,可以整理资料的链接和其他链接资料或许有重复......
 [-->>另外一个链接:分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/qingniao99/front-end-collect)
 [库](https://github.com/dypsilon/frontend-dev-bookmarks)
+
 ####[常用库查询系统](http://hackr.io/)
+####[常用库查询系统2 - 迷你库](http://microjs.com/)
+
+###扩展库
+- [es5-shim](https://github.com/es-shims/es5-shim)
+- [es6-promise] (https://github.com/stefanpenner/es6-promise)
 
 ###文档
 -[avalon 2 中文文档](http://avalonjs.coding.me/) 
