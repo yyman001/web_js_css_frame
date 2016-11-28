@@ -55,6 +55,8 @@
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  - [vue 教程](http://www.cnblogs.com/keepfool/p/5619070.html)
  - [10 个原则让动画带你飞](https://github.com/xitu/gold-miner/blob/master/TODO/smooth-css-animations.md)
+ - [React Native 中文网](http://reactnative.cn/)
+ - [大话设计模式](https://www.kancloud.cn/dengyigegushi/details-dahua/100439)
  
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
