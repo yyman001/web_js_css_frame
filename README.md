@@ -56,6 +56,7 @@
  - [vue 教程](http://www.cnblogs.com/keepfool/p/5619070.html)
  - [10 个原则让动画带你飞](https://github.com/xitu/gold-miner/blob/master/TODO/smooth-css-animations.md)
  - [React Native 中文网](http://reactnative.cn/)
+ - [cssreference.io](http://cssreference.io/)
  - [大话设计模式](https://www.kancloud.cn/dengyigegushi/details-dahua/100439)
  
 ###书籍资料
@@ -116,6 +117,7 @@
  - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
  
 ###js插件网站
+ - [jquer.in](http://jquer.in/)
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
  - [Query插件库--http://www.jq22.com/](http://www.jq22.com/)
  - [jquery之家--http://www.htmleaf.com/](http://www.htmleaf.com/)
@@ -425,6 +427,7 @@
 - [spin.js](https://github.com/fgnass/spin.js)
 - [sonic.js](https://github.com/padolsey/sonic.js)
 - [fakeLoader.js - 依赖jQ的全屏加载js](https://github.com/joaopereirawd/fakeLoader.js)
+- [Easy Pie Chart](https://github.com/rendro/easy-pie-chart)
 ######13.7 侧滑插件(offcancas)
 
 - [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
@@ -775,7 +778,7 @@
  - [resizr 测试  CSS media queries 的轻量级应用-需要线上地址,没有线上地址,可以搞个coding-git](http://resizr.co/)
  - [在线ppt](http://yanshuo.io/)
  - [flash文件转 canvas - Flash2x Tool](http://web.flash2x.org/) http://www.annie2x.com/docs/
- 
+ - [testcafe 浏览器测试工具-类似(测试单元工具)](https://github.com/DevExpress/testcafe)
  ####36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
   - [create.js ](http://www.createjs.cc/) 
