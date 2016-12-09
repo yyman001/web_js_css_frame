@@ -212,6 +212,8 @@
   - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
 
 ####3. 前端游戏框架(动画引擎)
+
+- [Hilo 跨终端的互动游戏解决方案 阿里出品](https://github.com/hiloteam/Hilo)
 - [ Pixi.js 3.0.7 - WebGL 国外游戏引擎](http://www.pixijs.com/) https://github.com/pixijs/pixi.js
 - [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
 - [Egret Engine](http://www.egret-labs.org/)
