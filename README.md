@@ -58,6 +58,7 @@
  - [React Native 中文网](http://reactnative.cn/)
  - [cssreference.io](http://cssreference.io/)
  - [大话设计模式](https://www.kancloud.cn/dengyigegushi/details-dahua/100439)
+ - [YOU MIGHT NOT NEED JQUERY - 是用原生写法代替jq](http://youmightnotneedjquery.com/)
  
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -134,6 +135,7 @@
 
 
 ####vue ui组件库
+ - [vue.js ie9+](http://cn.vuejs.org/)
  - [微信UI Vux 支持@^1.0.24](https://github.com/airyland/vux)
  - [bootstrap风格 Vux 支持@v1.x.x](https://github.com/yuche/vue-strap)
  - [material风格 vue-mdl ](https://github.com/posva/vue-mdl)
@@ -142,6 +144,10 @@
  - [iView UI](https://github.com/iview/iview)
  - [element UI 支持vue@2.0](http://element.eleme.io)
  - [Muse-UI - 基于 Vue 2.0 和 Material Desigin 的 UI 组件库](https://museui.github.io/)
+ - [Scroller for Vue 2.0](http://im.dahoo.wang/vue-scroller/#/)
+ - [Vue Material](https://github.com/marcosmoura/vue-material)
+
+ 
  
 ####0. 前端自动化(Workflow)
 
@@ -226,7 +232,7 @@
 - [Quintus](https://github.com/cykod/Quintus)
 - [LayaAir 引擎 国内游戏框架,跟白鹭比较??暂时不知道](http://layabox.com/)
 - [soya2d 一个 好学、易用、强大、开源的 H5游戏引擎 现在,有你掌控](http://soya2d.com)
-
+- [phina.js JavaScript游戏开发库](https://github.com/yrq110/odds-and-ends/blob/master/%E5%88%9D%E6%AC%A1%E4%BD%BF%E7%94%A8phina.js%20-%20JavaScript%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%BA%93.md)
 
 ####4. ui组件库
 
@@ -251,11 +257,17 @@
   - [Normalize.css](https://github.com/necolas/normalize.css/)
   - [cssFx - 为CSS3自动生成浏览器前缀](https://github.com/imsky/cssFx)
   - [-prefix-free - Break free from CSS prefix hell](https://github.com/LeaVerou/prefixfree)
+  
 - 响应式
   - [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
+  - [Spectre.css - 轻量级响应式 CSS 框架](https://picturepan2.github.io/spectre/)
+  - [Wing 是一个微型（压缩后仅有4KB）响应式的 CSS 框架，它提供了一个 12 列响应式网格以及基础的样式组件集](https://github.com/KingPixil/wing/)
+  - [Core.css 是一个用于构建响应式网站的轻量级框架。它压缩后仅有 1.3kb，同时它没有预先设定的元素和内置动画。所以适用于搭建任何小型的 Web 项目。](https://github.com/alecrios/core)
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
   - [Free Wall - 创建桌面，移动和平板的动态网格布局](https://github.com/kombai/freewall)
-
+  - [reframe.js 让非响应式元素响应的JavaScript插件。 Reframe对<iframe>和<video>元素特别有用](https://github.com/dollarshaveclub/reframe.js/)
+ 
+  
 ####6. 排版
 
 - [yue.css](https://github.com/lepture/yue.css)
@@ -263,6 +275,7 @@
 - [chinese-copywriting-guidelines - 中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ####7. 网格系统
+
 - [flex.css - 快速入门，极速布局](https://github.com/lzxb/flex.css)
 - [grid](https://github.com/aekaplan/grid)
 - [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid)
@@ -272,6 +285,8 @@
 - [flexible.gs 灵活的响应式栅格布局CSS框架](http://flexible.gs)
 - [Decorator - HTML, CSS, and JavaScrip 前端框架](http://decorator.codable.org)
 - [minigrid.js 只有2KB的零依赖栅格布局-瀑布流](http://alves.im/minigrid/)
+- [Reflexbox 用于React的Flexbox网格系统，提供Grid, Flex, 和Box组件用于开发](https://github.com/jxnblk/reflexbox/)
+
 ####8. HTML5 API 应用
 
 - [History.js - gracefully supports the HTML5 History/State APIs](https://github.com/browserstate/history.js)
@@ -298,6 +313,7 @@
 - [mailcheck - 用于检测email地址的域名](https://github.com/mailcheck/mailcheck)
 - [Floatlable.js - 输入时显示placeholder文本](https://github.com/clubdesign/floatlabels.js)
 - [jQuery Label Better](https://github.com/peachananr/label_better)
+- [2016 年最好用的表单验证库 SMValidator.js ](https://github.com/WLDragon/SMValidator)
 
 ######10.2 < select > 相关
 
@@ -360,6 +376,7 @@
 - [Epoch - 漂亮、平稳流畅和高性能可视化的图表库](http://fastly.github.io/epoch/)
 - [SVG 2D绘图](http://jonobr1.github.io/two.js/)
 - [SVG Morpheus - SVG图形变形动画](https://alexk111.github.io/SVG-Morpheus/)
+
 ####12. 日期格式化
 
 - [Moment.js - 日期处理](http://momentjs.com/)
@@ -398,6 +415,7 @@
 - [TypeWatch - 停止输入时调用](https://github.com/dennyferra/TypeWatch)
 
 ######13.4 图片轮播(幻灯片)/图片展示
+
 - [SuperSlide - 国产的幻灯片,功能集成比较多,我个人推荐](http://www.SuperSlide2.com/)
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
 - [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
@@ -408,6 +426,7 @@
 - [ImageLightbox.js - 灯箱效果](http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
 - [JQuery Panorama Viewer - 全景视图](https://github.com/peachananr/panorama_viewer)
 - [PhotoSwipe - 移动开发必备的 iOS 风格相册](http://photoswipe.com/) - [github](https://github.com/dimsemenov/photoswipe)
+- [lory.js ](http://meandmax.github.io/lory/)
 
 ######13.5 图片剪裁/图片处理
 
@@ -419,8 +438,10 @@
 - [Picturefill - 一个响应式图片 JS 插件 (Scott Jehl) ](http://scottjehl.github.io/picturefill/)
 - [jQuery picZoomer - 图片区域放大](http://www.jqueryscript.net/zoom/jQuery-Plugin-For-Image-Zoom-On-Hover-picZoomer.html)
 - [watermark.js 为图片添加水印](http://brianium.github.io/watermarkjs/)
-######13.6 进度条/加载动画(Loading)
 
+######13.6 进度条/加载动画(Loading)
+- [CSS Loader 是一个非常有用加载器。它允许开发人员利用纯 CSS 文件，以及一个空<div>元素便可以快速的创建加载指示器。](https://github.com/raphaelfabeni/css-loader)
+- [progressbar.js svg线条](https://github.com/kimmobrunfeldt/progressbar.js)
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 - [progress.js](https://github.com/usablica/progress.js)
 - [Pace - Automatic page load progress bar](https://github.com/HubSpot/pace)
@@ -430,6 +451,8 @@
 - [sonic.js](https://github.com/padolsey/sonic.js)
 - [fakeLoader.js - 依赖jQ的全屏加载js](https://github.com/joaopereirawd/fakeLoader.js)
 - [Easy Pie Chart](https://github.com/rendro/easy-pie-chart)
+
+
 ######13.7 侧滑插件(offcancas)
 
 - [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
@@ -447,6 +470,7 @@
 - [Waypoints](https://github.com/imakewebthings/waypoints)
 - [ScrollMagic - 像进度条一样使用滚动条](https://github.com/janpaepke/ScrollMagic)
 - [onScreen - 滚动加载,滚动固定](http://silvestreh.github.io/onScreen/)
+- [Choreographer.js 多帧动画处理 跟ScrollMagic 类似 ](https://github.com/christinecha/choreographer-js)
 
 ######13.10 滚动加载更多/下拉刷新(Pull to Refresh)
 
@@ -455,6 +479,8 @@
 - [pulltorefresh](https://github.com/dwcares/pulltorefresh)
 - [RubberBand.js - add pull-to-refresh functionality to any page.](https://github.com/ThrivingKings/RubberBand.js)
 - [infinity.js/∞ .js 无限下拉加载](http://airbnb.github.io/infinity/)
+- [pulltorefresh.js 下拉刷新](https://github.com/BoxFactura/pulltorefresh.js)
+
 
 ######13.11 平滑滚动插件(Smooth Scroll)
 
@@ -566,7 +592,9 @@
  - [Rekapi 关键帧动画库](http://rekapi.com/)
  - [favico.js v0.3.4 控制游览器标签小图标](http://lab.ejci.net/favico.js/) - [github](https://github.com/ejci/favico.js)
  - [dom-animator -注释动画](http://tholman.com/dom-animator/)
-
+ - [KUTE.js 支持SVG等动画-手机端性能不太好](https://github.com/thednp/kute.js)
+ - [Granim.js 简单易用的渐变动画库,纯JavaScript(< 10kB) 实现。](https://sarcadass.github.io/granim.js/)
+ 
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
  - [CSShake - css抖动库](http://elrumordelaluz.github.io/csshake/#1) - [github](https://github.com/elrumordelaluz/csshake)
@@ -584,7 +612,7 @@
  - [AniJS - 一个基于声明式语法的CSS动画库](https://github.com/anijs/anijs/)
  - [SpinKit ??](https://github.com/tobiasahlin/SpinKit)
  - [JX.Animate - 腾讯css3动画库](http://alloyteam.github.io/JXAnimate/) - [github](https://github.com/AlloyTeam/JXAnimate)
-
+ - [SpinThatShit 酷炫的Loading 动画sass库 https://matejkustec.github.io/SpinThatShit/](https://github.com/MatejKustec/SpinThatShit)
  
 ####17. 本地存储
 
@@ -594,7 +622,7 @@
 - [basil.js](https://github.com/Wisembly/basil.js)
 
 ####18. 模板引擎
-- [vue.js ie9+](http://cn.vuejs.org/)
+
 - [paperclip.js ie8+](https://github.com/crcn/paperclip.js)
 - [mustache.js](https://github.com/janl/mustache.js)
 - [Handlebars.js](http://www.jingwentian.com/t-66)
@@ -671,6 +699,7 @@
 - [winamp2-js](https://github.com/captbaritone/winamp2-js)
 - [Buzz - A Javascript HTML5 Audio library](https://github.com/jaysalvat/buzz)
 - [howler.js 是一个新的 JavaScript 库用于处理 Web 的音频，该库最初是为一个 HTML5 游戏引擎所开发，但也可用于其他的 Web 项目。] (https://github.com/goldfire/howler.js)
+- [Flv.js 实现了 FLV 格式视频的播放](https://github.com/Bilibili/flv.js)
 
 ####26. 按钮
 
@@ -717,6 +746,7 @@
 - [Bigfoot - 点击文章中的脚注弹窗显示](https://github.com/lemonmade/bigfoot)
 - [Annotator - 文本注解插件，可以包括注释、标签、用户等](https://github.com/openannotation/annotator)
 - [Succinct - 用作截断多行文本,后面添加省略号](https://github.com/micjamking/Succinct)
+- [Shave 是一个零依赖、轻量级的 JavaScript 插件，它能截断多行文本.](https://github.com/dollarshaveclub/shave/)
 - [Flowtype.js - 自动调整字体大小和行号](https://github.com/simplefocus/FlowType.JS)
 - [flat-shadow](https://github.com/peachananr/flat-shadow)
 - [FitText - A jQuery plugin for inflating web type](https://github.com/davatron5000/FitText.js)
@@ -758,6 +788,10 @@
 ####34.1 分页
 - [jqPagination 分页插件](https://github.com/beneverard/jqPagination)
 
+####34.2 模拟打字
+- [ jQuery.type-typetype](https://github.com/iamdanfox/typetype);
+- [typing.js 华丽的打字效果JS插件](https://github.com/coffeedeveloper/typing.js)
+
 ####35. 未知分类
  - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
  - [Reveal.JS - 替代PPT,演示文稿。](https://github.com/hakimel/reveal.js/)
@@ -781,10 +815,17 @@
  - [在线ppt](http://yanshuo.io/)
  - [flash文件转 canvas - Flash2x Tool](http://web.flash2x.org/) http://www.annie2x.com/docs/
  - [testcafe 浏览器测试工具-类似(测试单元工具)](https://github.com/DevExpress/testcafe)
+ - [Fuse.js 关键字-模糊查询](https://github.com/krisk/fuse)
+ - [Navigo 一个简单的简单的JavaScript路由，兼容老版本浏览器。](https://github.com/krasimir/navigo)
+ - [Wysiwyg.css 使用漂亮的主题从HTML或Markdown生成文档](http://jgthms.com/wysiwyg.css/)
+ - [sphinx.js 一个能够把字符串编码成png图片，或者从png图片中解码出字符串的超轻量级开源库](https://github.com/jrainlau/sphinx)
+ - [Wenk 是一个轻量级纯 CSS 写的文本工具提示库。](https://tiaanduplessis.github.io/wenk/)
+ - [CurrencyFormatter.js 是一款简单实用的纯 JS 格式化货币库。它支持 155 种不同国家的货币格式，以及超过 700 种不同语言的本地化设置。](https://github.com/osrec/currencyFormatter.js/)
+ 
  ####36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
   - [create.js ](http://www.createjs.cc/) 
-  
+  - [Canvas Gauges 是一个利用纯 JavaScript 和 HTML5 Canvas（画布）打造的可完全自定义的仪表，你可以用它来创建诸如机动车速度表、温度计等类型的测量设备。](https://github.com/Mikhus/canvas-gauges)
 ---
 
 
