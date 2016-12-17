@@ -607,6 +607,8 @@
  - [dom-animator -注释动画](http://tholman.com/dom-animator/)
  - [KUTE.js 支持SVG等动画-手机端性能不太好](https://github.com/thednp/kute.js)
  - [Granim.js 简单易用的渐变动画库,纯JavaScript(< 10kB) 实现。](https://sarcadass.github.io/granim.js/)
+ - [txt.wav.js 让文字飞起来](https://github.com/still-life-studio/txt.wav)
+ 
  
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
@@ -848,7 +850,9 @@
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
   - [create.js ](http://www.createjs.cc/) 
   - [Canvas Gauges 是一个利用纯 JavaScript 和 HTML5 Canvas（画布）打造的可完全自定义的仪表，你可以用它来创建诸如机动车速度表、温度计等类型的测量设备。](https://github.com/Mikhus/canvas-gauges)
----
+  - [APNG to Canvas 支持apng图片](https://github.com/davidmz/apng-canvas)	
+  
+  ---
 
 
 
