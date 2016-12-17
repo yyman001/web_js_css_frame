@@ -11,9 +11,6 @@
 ####[常用库查询系统](http://hackr.io/)
 ####[常用库查询系统2 - 迷你库](http://microjs.com/)
 
-###扩展库
-- [es5-shim](https://github.com/es-shims/es5-shim)
-- [es6-promise] (https://github.com/stefanpenner/es6-promise)
 
 ###文档
 -[avalon 2 中文文档](http://avalonjs.coding.me/) 
@@ -66,6 +63,11 @@
  - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
  - [git资料](https://github.com/xirong/my-git)
 
+ ###一些社区
+ 
+ - [Stack Overflow：Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。](http://stackoverflow.com/)
+ - [segmentfault：是中国领先的开发者技术社区。](https://segmentfault.com/)
+ 
 ###系列文章
  - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
  - [React-Native学习指南](https://github.com/ele828/react-native-guide)
@@ -187,6 +189,8 @@
 - [jQuery Mobile](http://jquerymobile.com/)
 - [H-ui 前端框架](http://h-ui.net/index.shtml)
 - [Skeleton](https://github.com/dhg/Skeleton)
+- [HaloJS](https://halojs.aotu.io/api/index.html)
+
 ####2. JavaScript 框架汇总
 
 - JavaScript 框架
@@ -202,21 +206,26 @@
   - [Avalon](https://github.com/RubyLouvre/avalon)
   - [Sprint.js - 一个高性能、小体积的 DOM 操作库 (Benjamin De Cock) ](https://github.com/bendc/sprint)
   - [JSLite.js](http://jslite.io/)
+  - [Ember.js：一个用于创建 web 应用的 JavaScript MVC 框架，采用基于字符串的Handlebars模板，支持双向绑定、观察者模式、计算属性（依赖其他属性动态变化）、自动更新模板、路由控制、状态机等。](http://emberjs.com/)
   
 - 轻量级JavaScript框架
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js)
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
-  - [LAB.js 异步加载js]
+  - [LAB.js 异步加载js](https://github.com/getify/LABjs)
   
-- JavaScript 工具库
-  - [underscore.js](https://github.com/jashkenas/underscore)
+- JavaScript 工具库[扩展库]
+  - [es5-shim](https://github.com/es-shims/es5-shim)
+  - [es6-promise] (https://github.com/stefanpenner/es6-promise)
+  - [underscore.js JavaScript实用库,提供了类似Prototype.js的一些功能,但是没有继承任何JavaScript内置对象。](https://github.com/jashkenas/underscore)
+  - [Lodash.js 一个 JavaScript 实用工具库,提供一致性,模块化,性能和配件等功能。](https://lodash.com/)
+  - [Babel.js 让浏览器支持新js ES6,其实就是把ES6,5的语法转换成旧的js形式](https://github.com/babel/babel)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
-  - [Vue.js - 数据驱动的组件化MVVM库](https://github.com/yyx990803/vue)
   - [移动web开发调试工具AlloyLever介绍 - 打印信息](http://alloyteam.github.io/AlloyLever/)
   - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
 
+  
 ####3. 前端游戏框架(动画引擎)
 
 - [Hilo 跨终端的互动游戏解决方案 阿里出品](https://github.com/hiloteam/Hilo)
@@ -338,6 +347,7 @@
 - [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
 - [FileAPI - 是文件上传（单个/多个）、拖放支持、图像裁剪、大小调整、应用过滤器和获取文件信息](http://mailru.github.io/FileAPI/)
 -[Resumable.JS 通过HTML5API提供了稳定可恢复的多文件上传功能。](http://www.resumablejs.com/)
+
 ######10.5 日期选择
 
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
@@ -345,6 +355,7 @@
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
 - [Pikaday - 日期选择器](https://github.com/dbushell/Pikaday)
 - [TimelineJS - 时间轴](http://timeline.knightlab.com/)
+
 ######10.6 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
@@ -370,18 +381,20 @@
 - [Chart.js - 基于HTML5的JavaScript图表](https://github.com/nnnick/Chart.js)
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
-- [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
+- [D3.js - D3是基于数据的文档操作javascript库,D3能够把数据和HTML、SVG、CSS结合起来,创造出可交互的数据图表。](https://github.com/d3/d3)
 - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3)
 - [Bonsai - 一个功能强大的JavaScript图形库](https://github.com/uxebu/bonsai)
 - [Epoch - 漂亮、平稳流畅和高性能可视化的图表库](http://fastly.github.io/epoch/)
 - [SVG 2D绘图](http://jonobr1.github.io/two.js/)
 - [SVG Morpheus - SVG图形变形动画](https://alexk111.github.io/SVG-Morpheus/)
+- [Sigma是一个专用于图形绘制的JavaScript库。](https://github.com/jacomyal/sigma.js)
 
 ####12. 日期格式化
 
 - [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 - [FormatJS – 让你的 Web 应用程序国际化](http://formatjs.io/)
+
 ####13. 页面交互
 
 ######13.1 Slider
@@ -619,7 +632,7 @@
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
 - [localForage](https://github.com/mozilla/localForage)
 - [pouchdb](https://github.com/pouchdb/pouchdb)
-- [basil.js](https://github.com/Wisembly/basil.js)
+- [basil.js 是一个 JavaScript 的数据持久化层库,实现了统一的 LocalStorage、Cookie 和 Session 存储。](https://github.com/Wisembly/basil.js)
 
 ####18. 模板引擎
 
@@ -633,7 +646,7 @@
 - [Juicer - A Light Javascript Templete Engine.](https://github.com/PaulGuo/Juicer)
 - [Tempo](https://github.com/twigkit/tempo)
 - [json2html](https://github.com/moappi/json2html)
-
+- [CMS.js是基于Jekyll的一个JavaScript网页生成器，使用普通的HTML，CSS和JavaScript的网站快捷的生成网页。](https://github.com/cdmedia/cms.js)
 
 ####19. 通知组件/弹框组件/模态窗口
 - [layer.js - 国产,也是集成很多功能,个人推荐](http://sentsin.com/jquery/layer/)
@@ -700,6 +713,8 @@
 - [Buzz - A Javascript HTML5 Audio library](https://github.com/jaysalvat/buzz)
 - [howler.js 是一个新的 JavaScript 库用于处理 Web 的音频，该库最初是为一个 HTML5 游戏引擎所开发，但也可用于其他的 Web 项目。] (https://github.com/goldfire/howler.js)
 - [Flv.js 实现了 FLV 格式视频的播放](https://github.com/Bilibili/flv.js)
+- [BIDEO.JS使得添加全屏背景视频更加容易。](https://github.com/rishabhp/bideo.js)
+- [loud links一个很小的JavaScript库,允许您通过HTML5添加交互式音频元素在网站播放mp3 / ogg文件，目前支持所有浏览器。](https://github.com/mahdif/loud-links/)
 
 ####26. 按钮
 
@@ -791,6 +806,7 @@
 ####34.2 模拟打字
 - [ jQuery.type-typetype](https://github.com/iamdanfox/typetype);
 - [typing.js 华丽的打字效果JS插件](https://github.com/coffeedeveloper/typing.js)
+- [superplaceholder.js 利用文本框的 placeholder 属性，以打字形式展示出自定义的文字，可用于提示。](https://github.com/chinchang/superplaceholder.js)
 
 ####35. 未知分类
  - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
@@ -821,6 +837,12 @@
  - [sphinx.js 一个能够把字符串编码成png图片，或者从png图片中解码出字符串的超轻量级开源库](https://github.com/jrainlau/sphinx)
  - [Wenk 是一个轻量级纯 CSS 写的文本工具提示库。](https://tiaanduplessis.github.io/wenk/)
  - [CurrencyFormatter.js 是一款简单实用的纯 JS 格式化货币库。它支持 155 种不同国家的货币格式，以及超过 700 种不同语言的本地化设置。](https://github.com/osrec/currencyFormatter.js/)
+ - [CCapture.js 可以使用固定的帧率实现对网页中 Canvas 的动画进行捕获，录制成视频。CCapture.js 依赖于 Whammy.js 和 gif.js。](https://github.com/spite/ccapture.js)
+ - [Base64.js](https://github.com/davidchambers/Base64.js)
+ - [Turntable.js 一款响应式 jQuery 滑块插件，可以创建一个类似3D图像旋转展示的效果。](https://github.com/PolarNotion/turntable)
+ - [Pressure是一个允许您通过一个API在Safari浏览器上同时使用Force Touch and 3D Touch的JavaScript库](https://github.com/stuyam/pressure)
+
+ 
  
  ####36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
