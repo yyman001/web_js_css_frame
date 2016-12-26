@@ -351,10 +351,11 @@
 ######10.5 日期选择
 
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
-- [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
-- [Mobiscroll](https://github.com/acidb/mobiscroll)
+- [Mobiscroll 超强扩展](https://github.com/acidb/mobiscroll)
 - [Pikaday - 日期选择器](https://github.com/dbushell/Pikaday)
 - [TimelineJS - 时间轴](http://timeline.knightlab.com/)
+- [mobile-calendar 移动端日历插件，不依赖其他第三方框架](https://github.com/rookie125/mobile-calendar)
+- [mobile_calendar jQuery手机移动端日历日期选择](https://github.com/Hancoson/mobile_calendar)
 
 ######10.6 取色
 
