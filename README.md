@@ -274,9 +274,9 @@
   - [Core.css 是一个用于构建响应式网站的轻量级框架。它压缩后仅有 1.3kb，同时它没有预先设定的元素和内置动画。所以适用于搭建任何小型的 Web 项目。](https://github.com/alecrios/core)
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
   - [Free Wall - 创建桌面，移动和平板的动态网格布局](https://github.com/kombai/freewall)
-  - [reframe.js 让非响应式元素响应的JavaScript插件。 Reframe对<iframe>和<video>元素特别有用](https://github.com/dollarshaveclub/reframe.js/)
- 
-  
+  - [reframe.js 让非响应式元素响应的JavaScript插件。 Reframe对`iframe`和`video`元素特别有用](https://github.com/dollarshaveclub/reframe.js/)
+
+
 ####6. 排版
 
 - [yue.css](https://github.com/lepture/yue.css)
