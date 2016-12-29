@@ -356,6 +356,7 @@
 - [TimelineJS - 时间轴](http://timeline.knightlab.com/)
 - [mobile-calendar 移动端日历插件，不依赖其他第三方框架](https://github.com/rookie125/mobile-calendar)
 - [mobile_calendar jQuery手机移动端日历日期选择](https://github.com/Hancoson/mobile_calendar)
+- [Flatpickr ：轻量级日期时间选择器，无依赖 (英文日期)](https://chmln.github.io/flatpickr)
 
 ######10.6 取色
 
@@ -372,6 +373,8 @@
 - [jquery-textcomplete - 智能搜索提示框/自动补全](https://github.com/yuku-t/jquery-textcomplete)
 - [typeahead.js - a fast and fully-featured autocomplete library](https://github.com/twitter/typeahead.js)
 - [Awesomplete - 零依赖的简单自动完成插件](http://leaverou.github.io/awesomplete/) - [github](https://github.com/LeaVerou/awesomplete)
+- [Algolia Places：给输入框添加地址自动补全功能](https://github.com/algolia/places/)
+
 
 ######10.9 样式修正
 - [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
@@ -590,7 +593,7 @@
 - js动画库
  - [GSAP.js 最屌的动画库](http://greensock.com/gsap)
  - [Animate Plus  CSS/SVG 动画库](https://github.com/bendc/animateplus)
- - [anime.js 最近出的动画库,支持svg](https://github.com/juliangarnier/anime)
+ - [anime.js 动画库,支持svg-一直在更新](https://github.com/juliangarnier/anime)
  - [dynamics.js js动画-很屌的样子,支持svg](http://dynamicsjs.com/)
  - [snabbt.js - 简约的JavaScript动画库](http://daniel-lundin.github.io/snabbt.js/)
  - [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
@@ -661,6 +664,8 @@
 - [PNotify](https://github.com/sciactive/pnotify)
 - [Notify.js - A simple, versatile notification library](https://github.com/jpillora/notifyjs)
 - [Remodal - 模态窗口插件](https://github.com/VodkaBears/Remodal)
+- [Popper.js：强大的浮动提示库（pop 即弹出层，popper 即弹出层的内容）](https://github.com/FezVrasta/popper.js)
+
 
 ####20. 提示控件(Tooltips)
 
