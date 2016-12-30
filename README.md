@@ -138,6 +138,7 @@
 
 ####vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
+ - [AT UI 由阿里通信技术团队打造基于Vue的Web组件库](http://aliqin.github.io/docs/atui/introduce)
  - [微信UI Vux 支持@^1.0.24](https://github.com/airyland/vux)
  - [bootstrap风格 Vux 支持@v1.x.x](https://github.com/yuche/vue-strap)
  - [material风格 vue-mdl ](https://github.com/posva/vue-mdl)
