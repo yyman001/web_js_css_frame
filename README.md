@@ -726,6 +726,7 @@
 - [Flv.js 实现了 FLV 格式视频的播放](https://github.com/Bilibili/flv.js)
 - [BIDEO.JS使得添加全屏背景视频更加容易。](https://github.com/rishabhp/bideo.js)
 - [loud links一个很小的JavaScript库,允许您通过HTML5添加交互式音频元素在网站播放mp3 / ogg文件，目前支持所有浏览器。](https://github.com/mahdif/loud-links/)
+- [Waud.js – 使用HTML5降级处理的Web音频库](https://github.com/waud/waud)
 
 ####26. 按钮
 
