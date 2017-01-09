@@ -36,6 +36,7 @@
  - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
  - [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
  - [Github使用指南-从新手到专家 ](http://www.cnblogs.com/xirongliu/p/4589834.html)
+ - [Git 学习目录](https://github.com/geeeeeeeeek/git-recipes/wiki)
  - [node.js中文资料导航](https://github.com/youyudehexie/node123)
  - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
  - [AngularJS ,一些关于 AngularJS 的博客，文章，视频，书籍等](https://github.com/justjavac/AngularJS-Learning-zh_CN)
