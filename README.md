@@ -13,10 +13,16 @@
 
 掘金:https://gold.xitu.io/
 
+前端收集:https://github.com/jikeytang/front-end-collect
+WEB前端知识库:https://github.com/imweb/FKB
+Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
+
 ###文档
+-[css属性详解 -各种参数有demo进行对比](http://cssreference.io)
 -[avalon 2 中文文档](http://avalonjs.coding.me/) 
 -[vue1.0 中文文档](http://vuejs.org.cn/guide/) 
 -[vue2.0 中文文档](https://vuefe.cn/) 
+
 
 ###移动端资料
 - [支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
@@ -64,7 +70,9 @@
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
  - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
  - [git资料](https://github.com/xirong/my-git)
-
+ - [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
+ 
+ 
  ###一些社区
  
  - [Stack Overflow：Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。](http://stackoverflow.com/)
@@ -362,6 +370,7 @@
 - [mobile-calendar 移动端日历插件，不依赖其他第三方框架](https://github.com/rookie125/mobile-calendar)
 - [mobile_calendar jQuery手机移动端日历日期选择](https://github.com/Hancoson/mobile_calendar)
 - [Flatpickr ：轻量级日期时间选择器，无依赖 (英文日期)](https://chmln.github.io/flatpickr)
+- [datePicker 一个适合移动端的日期选择插件，支持选择时间](https://github.com/ddd702/datePicker)
 
 ######10.6 取色
 
