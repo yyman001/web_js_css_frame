@@ -11,6 +11,7 @@
 ####[常用库查询系统](http://hackr.io/)
 ####[常用库查询系统2 - 迷你库](http://microjs.com/)
 
+掘金:https://gold.xitu.io/
 
 ###文档
 -[avalon 2 中文文档](http://avalonjs.coding.me/) 
@@ -151,7 +152,7 @@
  - [Scroller for Vue 2.0](http://im.dahoo.wang/vue-scroller/#/)
  - [Vue Material](https://github.com/marcosmoura/vue-material)
  - [vue-amap 基于Vue 2.0 和高德地图的地图组件](https://github.com/ElemeFE/vue-amap)
- 
+ - [Vueditor 基于Vue 2.0 的富文本编辑器](https://github.com/hifarer/Vueditor)
  
 ####0. 前端自动化(Workflow)
 
@@ -820,6 +821,7 @@
 - [ jQuery.type-typetype](https://github.com/iamdanfox/typetype);
 - [typing.js 华丽的打字效果JS插件](https://github.com/coffeedeveloper/typing.js)
 - [superplaceholder.js 利用文本框的 placeholder 属性，以打字形式展示出自定义的文字，可用于提示。](https://github.com/chinchang/superplaceholder.js)
+- [iTyped.js 实现打字效果](https://github.com/luisvinicius167/ityped)
 
 ####35. 未知分类
  - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
