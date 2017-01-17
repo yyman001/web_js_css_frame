@@ -201,6 +201,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [H-ui 前端框架](http://h-ui.net/index.shtml)
 - [Skeleton](https://github.com/dhg/Skeleton)
 - [HaloJS](https://halojs.aotu.io/api/index.html)
+- [QMUI Web 是一个专注 Web UI](https://github.com/QMUI/QMUI_Web) http://qmuiteam.com/web/page/index.html
 
 ####2. JavaScript 框架汇总
 
@@ -630,7 +631,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
- - [CSShake - css抖动库](http://elrumordelaluz.github.io/csshake/#1) - [github](https://github.com/elrumordelaluz/csshake)
+ - [CSShake - css抖动库](https://elrumordelaluz.github.io/csshake/) - [github](https://github.com/elrumordelaluz/csshake)
  - [animate.css - css3动画库](https://github.com/daneden/animate.css)
  - [all animation - 同上,有sass版本](http://clovisdasilvaneto.github.io/all-animation/) - [github](https://github.com/clovisdasilvaneto/all-animation)
  - [magic - CSS3动画特效](http://dreamsky.github.io/main/blog/magic-css.html) - [gihub](https://github.com/miniMAC/magic)
@@ -827,7 +828,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [jqPagination 分页插件](https://github.com/beneverard/jqPagination)
 
 ####34.2 模拟打字
-- [ jQuery.type-typetype](https://github.com/iamdanfox/typetype);
+- [ jQuery.type-typetype 用于textarea文本域](https://github.com/iamdanfox/typetype);
 - [typing.js 华丽的打字效果JS插件](https://github.com/coffeedeveloper/typing.js)
 - [superplaceholder.js 利用文本框的 placeholder 属性，以打字形式展示出自定义的文字，可用于提示。](https://github.com/chinchang/superplaceholder.js)
 - [iTyped.js 实现打字效果](https://github.com/luisvinicius167/ityped)
