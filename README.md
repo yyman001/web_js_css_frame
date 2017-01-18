@@ -649,7 +649,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [SpinThatShit 酷炫的Loading 动画sass库 https://matejkustec.github.io/SpinThatShit/](https://github.com/MatejKustec/SpinThatShit)
  
 ####17. 本地存储
-
+- [bowl.js 一个轻量级的前端资源缓存加载器](https://github.com/ElemeFE/bowl)
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
 - [localForage](https://github.com/mozilla/localForage)
 - [pouchdb](https://github.com/pouchdb/pouchdb)
