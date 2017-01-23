@@ -37,6 +37,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [QQ浏览器X5内核问题汇总](http://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
 - [手机分辨率查询](http://viewportsizes.com/)
 - [移动端响应式框架-测试阶段,不适用于复杂页面](https://github.com/peunzhang/pageResponse)
+- [视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
 
 ###学习资料/文章
  - [渲染性能](https://github.com/sundway/blog/issues/2)
@@ -128,6 +129,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
  - [智图客户端 – 你的图片你做主,本地图片快速压缩工具](https://isux.tencent.com/zhitu-client.html)
  - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
+ - [ELF 灵活可扩展的HTML5 构建工具](https://elf.aotu.io/)
  
 ###js插件网站
  - [jquer.in](http://jquer.in/)
@@ -866,7 +868,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [Base64.js](https://github.com/davidchambers/Base64.js)
  - [Turntable.js 一款响应式 jQuery 滑块插件，可以创建一个类似3D图像旋转展示的效果。](https://github.com/PolarNotion/turntable)
  - [Pressure是一个允许您通过一个API在Safari浏览器上同时使用Force Touch and 3D Touch的JavaScript库](https://github.com/stuyam/pressure)
-
+ - [苹果手机 视频内联播放 iphone-inline-video] (https://github.com/bfred-it/iphone-inline-video)
  
  
  ####36. Canvas库
