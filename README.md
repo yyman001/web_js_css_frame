@@ -825,6 +825,8 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [@include-media diy媒体查询库](http://include-media.com/)
 - [sass-mediaqueries 媒体查询库-推荐](https://github.com/paranoida/sass-mediaqueries) -[demo](http://paranoida.github.io/sass-mediaqueries/demo.html)
 - [sass-mq Media Queries with superpowers-em单位媒体查询库](https://github.com/sass-mq/sass-mq) 
+- [sass-svg 一个内联 SVG 的 SASS 库](https://github.com/leeenx/sass-svg)
+
 
 ####34.1 分页
 - [jqPagination 分页插件](https://github.com/beneverard/jqPagination)
