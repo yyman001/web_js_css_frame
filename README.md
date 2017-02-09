@@ -163,6 +163,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [Vue Material](https://github.com/marcosmoura/vue-material)
  - [vue-amap 基于Vue 2.0 和高德地图的地图组件](https://github.com/ElemeFE/vue-amap)
  - [Vueditor 基于Vue 2.0 的富文本编辑器](https://github.com/hifarer/Vueditor)
+ - [JRoll无限加载+下拉刷新 for Vue2 ](https://github.com/chjtx/JRoll/tree/master/extends/jroll-vue-infinite)
  
 ####0. 前端自动化(Workflow)
 
