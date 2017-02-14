@@ -164,6 +164,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [vue-amap 基于Vue 2.0 和高德地图的地图组件](https://github.com/ElemeFE/vue-amap)
  - [Vueditor 基于Vue 2.0 的富文本编辑器](https://github.com/hifarer/Vueditor)
  - [JRoll无限加载+下拉刷新 for Vue2 ](https://github.com/chjtx/JRoll/tree/master/extends/jroll-vue-infinite)
+ - [Vue-Core-Image-Upload 2.0 一款轻量级图片裁剪上传插件](https://github.com/Vanthink-UED/vue-core-image-upload)
  
 ####0. 前端自动化(Workflow)
 
@@ -410,6 +411,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [SVG 2D绘图](http://jonobr1.github.io/two.js/)
 - [SVG Morpheus - SVG图形变形动画](https://alexk111.github.io/SVG-Morpheus/)
 - [Sigma是一个专用于图形绘制的JavaScript库。](https://github.com/jacomyal/sigma.js)
+- [GraphicsJS ，一个轻量级的前端图形库 支持ie6](http://www.graphicsjs.org/)
 
 ####12. 日期格式化
 
