@@ -65,6 +65,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [cssreference.io](http://cssreference.io/)
  - [大话设计模式](https://www.kancloud.cn/dengyigegushi/details-dahua/100439)
  - [YOU MIGHT NOT NEED JQUERY - 是用原生写法代替jq](http://youmightnotneedjquery.com/)
+ - [全景漫游VR -（淘宝造物节背后的库）](http://tgask.qq.com/?/article/3)
  
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -147,6 +148,9 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 ####手势库
  - [TouchSwipe ](http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html)
 
+
+####vue专题
+https://www.awesomes.cn/subject/vue
 
 ####vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
@@ -872,6 +876,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [CCapture.js 可以使用固定的帧率实现对网页中 Canvas 的动画进行捕获，录制成视频。CCapture.js 依赖于 Whammy.js 和 gif.js。](https://github.com/spite/ccapture.js)
  - [Base64.js](https://github.com/davidchambers/Base64.js)
  - [Turntable.js 一款响应式 jQuery 滑块插件，可以创建一个类似3D图像旋转展示的效果。](https://github.com/PolarNotion/turntable)
+ - [css3d-engine 全景漫游VR](https://github.com/yyman001/css3d-engine)
  - [Pressure是一个允许您通过一个API在Safari浏览器上同时使用Force Touch and 3D Touch的JavaScript库](https://github.com/stuyam/pressure)
  - [苹果手机 视频内联播放 iphone-inline-video] (https://github.com/bfred-it/iphone-inline-video)
  
