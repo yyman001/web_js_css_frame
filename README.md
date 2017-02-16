@@ -170,6 +170,7 @@ https://www.awesomes.cn/subject/vue
  - [Vueditor 基于Vue 2.0 的富文本编辑器](https://github.com/hifarer/Vueditor)
  - [JRoll无限加载+下拉刷新 for Vue2 ](https://github.com/chjtx/JRoll/tree/master/extends/jroll-vue-infinite)
  - [Vue-Core-Image-Upload 2.0 一款轻量级图片裁剪上传插件](https://github.com/Vanthink-UED/vue-core-image-upload)
+ - [vue-datepicker 日期拾取组件](https://github.com/hsiaosiyuan0/vue-datepicker)
  
 ####0. 前端自动化(Workflow)
 
@@ -250,7 +251,7 @@ https://www.awesomes.cn/subject/vue
 ####3. 前端游戏框架(动画引擎)
 
 - [Hilo 跨终端的互动游戏解决方案 阿里出品](https://github.com/hiloteam/Hilo)
-- [ Pixi.js 3.0.7 - WebGL 国外游戏引擎](http://www.pixijs.com/) https://github.com/pixijs/pixi.js
+- [Pixi.js 3.0.7 - WebGL 国外游戏引擎](http://www.pixijs.com/) https://github.com/pixijs/pixi.js
 - [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
 - [Egret Engine](http://www.egret-labs.org/)
 - [LimeJS](https://github.com/digitalfruit/limejs)
@@ -263,6 +264,9 @@ https://www.awesomes.cn/subject/vue
 - [LayaAir 引擎 国内游戏框架,跟白鹭比较??暂时不知道](http://layabox.com/)
 - [soya2d 一个 好学、易用、强大、开源的 H5游戏引擎 现在,有你掌控](http://soya2d.com)
 - [phina.js JavaScript游戏开发库](https://github.com/yrq110/odds-and-ends/blob/master/%E5%88%9D%E6%AC%A1%E4%BD%BF%E7%94%A8phina.js%20-%20JavaScript%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%BA%93.md)
+- [melon.js](https://github.com/melonjs/melonjs)
+- [Phaser - HTML5 Game Framework](https://github.com/photonstorm/phaser)
+- [PlayCanvas WebGL Game Engine](https://github.com/playcanvas/engine)
 
 ####4. ui组件库
 
