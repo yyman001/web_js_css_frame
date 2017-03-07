@@ -850,6 +850,7 @@ https://www.awesomes.cn/subject/vue
 - [iTyped.js 实现打字效果](https://github.com/luisvinicius167/ityped)
 
 ####35. 未知分类
+ - [一个大小约 2k 的图片高斯模糊库 —— blurify.js](https://github.com/JustClear/blurify)
  - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
  - [Reveal.JS - 替代PPT,演示文稿。](https://github.com/hakimel/reveal.js/)
  - [Gif.JS 是一个能运行在你的浏览器中的JavaScript GIF编码器。](http://jnordberg.github.io/gif.js/)
