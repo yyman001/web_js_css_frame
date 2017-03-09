@@ -28,6 +28,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 
 
 ###移动端资料
+- [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html)
 - [支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
 - [移动前端系列——移动端页面坑与排坑技巧( 2014-12-08 )](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201411/290576.shtml)
 - [移动web最佳实践（2013）](http://www.ipresst.com/play/528892e11d0495f30f00762e)
