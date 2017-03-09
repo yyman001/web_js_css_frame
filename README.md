@@ -9,7 +9,7 @@
 [库](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 
-###[监控代码bug,报错及时通知你,现在是免费的](https://fundebug.com/)
+###[前端JavaScript错误监测,报错及时通知你,现在是免费的](https://fundebug.com/)
 
 ####[常用库查询系统](http://hackr.io/)
 ####[常用库查询系统2 - 迷你库](http://microjs.com/)
