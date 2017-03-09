@@ -8,6 +8,9 @@
 [-->>另外一个链接:分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/qingniao99/front-end-collect)
 [库](https://github.com/dypsilon/frontend-dev-bookmarks)
 
+
+###[监控代码bug,报错及时通知你,现在是免费的](https://fundebug.com/)
+
 ####[常用库查询系统](http://hackr.io/)
 ####[常用库查询系统2 - 迷你库](http://microjs.com/)
 
