@@ -248,6 +248,7 @@ https://github.com/opendigg/awesome-github-vue
   - [es6-promise] (https://github.com/stefanpenner/es6-promise)
   - [underscore.js JavaScript实用库,提供了类似Prototype.js的一些功能,但是没有继承任何JavaScript内置对象。](https://github.com/jashkenas/underscore)
   - [Lodash.js 一个 JavaScript 实用工具库,提供一致性,模块化,性能和配件等功能。](https://lodash.com/)
+  - [Lazy.js 性能超越underscore和Lodash的工具类库](https://github.com/dtao/lazy.js/)
   - [Babel.js 让浏览器支持新js ES6,其实就是把ES6,5的语法转换成旧的js形式](https://github.com/babel/babel)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
@@ -676,6 +677,7 @@ https://github.com/opendigg/awesome-github-vue
 - [localForage](https://github.com/mozilla/localForage)
 - [pouchdb](https://github.com/pouchdb/pouchdb)
 - [basil.js 是一个 JavaScript 的数据持久化层库,实现了统一的 LocalStorage、Cookie 和 Session 存储。](https://github.com/Wisembly/basil.js)
+- [store.js 公开了一个简单的接口来实现跨浏览器的本地存储。](https://github.com/marcuswestin/store.js)
 
 ####18. 模板引擎
 
