@@ -431,6 +431,7 @@ https://github.com/opendigg/awesome-github-vue
 - [SVG Morpheus - SVG图形变形动画](https://alexk111.github.io/SVG-Morpheus/)
 - [Sigma是一个专用于图形绘制的JavaScript库。](https://github.com/jacomyal/sigma.js)
 - [GraphicsJS ，一个轻量级的前端图形库 支持ie6](http://www.graphicsjs.org/)
+- [强大的矢量图形库：Raphael JS ](https://github.com/DmitryBaranovskiy/raphael/) http://www.jianshu.com/p/81c3fc5287d1
 
 ####12. 日期格式化
 
