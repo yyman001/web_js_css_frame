@@ -59,7 +59,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [一家伙（s5s5）学习css3动画的心得](https://github.com/s5s5/CSS-Animations)
  - [让WEB前端的变优雅的东东，如：代码规范，代码组织，最佳实践之类](https://github.com/iamjoel/be-grace-front-end-developer)
  - [前端工具推荐](https://github.com/codylindley/frontend-tools)
- - [设计规范 -强烈推荐看](http://shengxi.sinaapp.com/WS/content.html)
+ - [设计规范 -强烈推荐看](http://shengxi.sinaapp.com/WS/content.html) 链接失效
  - [腾讯团队web移动文章](http://tgideas.qq.com/)
  - [视觉设计师是怎样让前端工程师 100% 实现设计效果的？](http://www.zhihu.com/question/27743708#answer-17103050)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
@@ -155,11 +155,11 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 
 
 ####vue专题
-https://www.awesomes.cn/subject/vue
+- https://www.awesomes.cn/subject/vue
 
 ####Vue相关开源项目库汇总 
-http://www.opendigg.com/tags/front-vue
-https://github.com/opendigg/awesome-github-vue
+- http://www.opendigg.com/tags/front-vue
+- https://github.com/opendigg/awesome-github-vue
 
 ####vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
@@ -277,6 +277,9 @@ https://github.com/opendigg/awesome-github-vue
 - [melon.js](https://github.com/melonjs/melonjs)
 - [Phaser - HTML5 Game Framework](https://github.com/photonstorm/phaser)
 - [PlayCanvas WebGL Game Engine](https://github.com/playcanvas/engine)
+- [Popmotion.js – 小巧，灵活的 JavaScript 运动引擎](https://github.com/Popmotion/popmotion)
+- [Dynamics.js - 创建逼真的物理动画的 JS 库](https://github.com/michaelvillar/dynamics.js)
+- [Snabbt.js – 极简的 JavaScript 动画库](https://github.com/daniel-lundin/snabbt.js)
 
 ####4. ui组件库
 
@@ -395,6 +398,7 @@ https://github.com/opendigg/awesome-github-vue
 - [mobile_calendar jQuery手机移动端日历日期选择](https://github.com/Hancoson/mobile_calendar)
 - [Flatpickr ：轻量级日期时间选择器，无依赖 (英文日期)](https://chmln.github.io/flatpickr)
 - [datePicker 一个适合移动端的日期选择插件，支持选择时间](https://github.com/ddd702/datePicker)
+- [better-picker – 一款轻量级IOS风格的JavaScript选择器](https://github.com/ustbhuangyi/picker)
 
 ######10.6 取色
 
@@ -412,6 +416,9 @@ https://github.com/opendigg/awesome-github-vue
 - [typeahead.js - a fast and fully-featured autocomplete library](https://github.com/twitter/typeahead.js)
 - [Awesomplete - 零依赖的简单自动完成插件](http://leaverou.github.io/awesomplete/) - [github](https://github.com/LeaVerou/awesomplete)
 - [Algolia Places：给输入框添加地址自动补全功能](https://github.com/algolia/places/)
+
+#####10.8.1
+- [Cleave.js – 自动格式化表单输入框的文本内容](https://github.com/nosir/cleave.js/)
 
 
 ######10.9 样式修正
@@ -458,6 +465,8 @@ https://github.com/opendigg/awesome-github-vue
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 
 ######13.3 懒加载/加载监听/预加载
+- [basket.js – 基于 LocalStorage 的资源加载器](https://github.com/addyosmani/basket.js)
+- [imagesLoaded – 检测网页中的图片是否加载完成](https://github.com/desandro/imagesloaded)
 - [layzr.js - git关注蛮高的](http://callmecavs.github.io/layzr.js/) - [github](https://github.com/callmecavs/layzr.js)
 - [imagesLoaded](https://github.com/desandro/imagesloaded)
 - [Echo.js](https://github.com/toddmotto/echo)
@@ -484,6 +493,8 @@ https://github.com/opendigg/awesome-github-vue
 - [JQuery Panorama Viewer - 全景视图](https://github.com/peachananr/panorama_viewer)
 - [PhotoSwipe - 移动开发必备的 iOS 风格相册](http://photoswipe.com/) - [github](https://github.com/dimsemenov/photoswipe)
 - [lory.js ](http://meandmax.github.io/lory/)
+- [swipe2 – 非常轻量级的一个图片滑动切换效果库,跟3版本不一样,这个用于幻灯片](https://github.com/lyfeyaj/Swipe)
+
 
 ######13.5 图片剪裁/图片处理
 
@@ -528,6 +539,7 @@ https://github.com/opendigg/awesome-github-vue
 - [ScrollMagic - 像进度条一样使用滚动条](https://github.com/janpaepke/ScrollMagic)
 - [onScreen - 滚动加载,滚动固定](http://silvestreh.github.io/onScreen/)
 - [Choreographer.js 多帧动画处理 跟ScrollMagic 类似 ](https://github.com/christinecha/choreographer-js)
+- [moveTo.js 轻量级滚动到指定位置插件](https://github.com/hsnaydd/moveTo)
 
 ######13.10 滚动加载更多/下拉刷新(Pull to Refresh)
 
@@ -537,7 +549,7 @@ https://github.com/opendigg/awesome-github-vue
 - [RubberBand.js - add pull-to-refresh functionality to any page.](https://github.com/ThrivingKings/RubberBand.js)
 - [infinity.js/∞ .js 无限下拉加载](http://airbnb.github.io/infinity/)
 - [pulltorefresh.js 下拉刷新](https://github.com/BoxFactura/pulltorefresh.js)
-
+- [infinite-scroll – 一款滚动加载按需加载的轻量级插件](https://github.com/infinite-scroll/infinite-scroll)
 
 ######13.11 平滑滚动插件(Smooth Scroll)
 
@@ -681,6 +693,7 @@ https://github.com/opendigg/awesome-github-vue
 - [basil.js 是一个 JavaScript 的数据持久化层库,实现了统一的 LocalStorage、Cookie 和 Session 存储。](https://github.com/Wisembly/basil.js)
 - [store.js 公开了一个简单的接口来实现跨浏览器的本地存储。](https://github.com/marcuswestin/store.js)
 
+
 ####18. 模板引擎
 
 - [paperclip.js ie8+](https://github.com/crcn/paperclip.js)
@@ -715,6 +728,11 @@ https://github.com/opendigg/awesome-github-vue
 - [tooltipster - A jQuery tooltip plugin](https://github.com/iamceege/tooltipster)
 - [grumble.js - 气泡形状的提示（Tooltip）控件](https://github.com/jamescryer/grumble.js)
 - [Ouibounce - 离站提示控件](https://github.com/carlsednaoui/ouibounce)
+- [SweetAlert – 替代 Alert 的漂亮的提示效果](https://github.com/t4t5/sweetalert)
+- [SweetAlert2 - 不知道是不是克隆1的自己搞一个分支](https://github.com/limonte/sweetalert2)
+- [popper.js 纯 JS 写的轻量级位置计算引擎](https://github.com/FezVrasta/popper.js)
+- [Tippy.js A lightweight, pure JavaScript tooltip library 迷你提示框](https://github.com/atomiks/tippyjs)
+
 
 ####21. 对话框/遮罩层/弹出层(lightbox)
 
@@ -724,6 +742,7 @@ https://github.com/opendigg/awesome-github-vue
 - [artDialog - 经典的网页对话框组件](https://github.com/aui/artDialog)
 - [DialogEffects](https://github.com/codrops/DialogEffects)
 - [jQuery blockUI - Page or element overlay](https://github.com/malsup/blockui/)
+
 
 ####22. 文档/表格/PDF
 
@@ -891,12 +910,20 @@ https://github.com/opendigg/awesome-github-vue
  - [sphinx.js 一个能够把字符串编码成png图片，或者从png图片中解码出字符串的超轻量级开源库](https://github.com/jrainlau/sphinx)
  - [Wenk 是一个轻量级纯 CSS 写的文本工具提示库。](https://tiaanduplessis.github.io/wenk/)
  - [CurrencyFormatter.js 是一款简单实用的纯 JS 格式化货币库。它支持 155 种不同国家的货币格式，以及超过 700 种不同语言的本地化设置。](https://github.com/osrec/currencyFormatter.js/)
+ - [Numeral.js – 格式化和操作数字的 JavaScript 库](https://github.com/adamwdraper/Numeral-js)
  - [CCapture.js 可以使用固定的帧率实现对网页中 Canvas 的动画进行捕获，录制成视频。CCapture.js 依赖于 Whammy.js 和 gif.js。](https://github.com/spite/ccapture.js)
  - [Base64.js](https://github.com/davidchambers/Base64.js)
  - [Turntable.js 一款响应式 jQuery 滑块插件，可以创建一个类似3D图像旋转展示的效果。](https://github.com/PolarNotion/turntable)
  - [css3d-engine 全景漫游VR](https://github.com/yyman001/css3d-engine)
  - [Pressure是一个允许您通过一个API在Safari浏览器上同时使用Force Touch and 3D Touch的JavaScript库](https://github.com/stuyam/pressure)
  - [苹果手机 视频内联播放 iphone-inline-video] (https://github.com/bfred-it/iphone-inline-video)
+ - [Immutable.js – JavaScript 不可变数据集合（Facebook出品）](https://github.com/facebook/immutable-js)  [用处?](https://www.zhihu.com/question/28016223)
+ - [Fort.js – 时尚、现代的表单填写进度提示效果](https://github.com/idriskhenchil/Fort.js)
+ - [MagicSuggest – Bootstrap 主题的多选组合框](https://github.com/nicolasbize/magicsuggest)
+ - [Draggabilly – 轻松实现拖放功能（Drag & Drop）](https://github.com/desandro/draggabilly)
+ - [scrollReveal.js – 使元素以非常酷帅的方式进入画布 (Viewpoint)](https://github.com/jlmakes/scrollreveal) 
+ - [share.js 一键分享](https://github.com/overtrue/share.js)
+
  
  
  ####36. Canvas库
@@ -904,6 +931,8 @@ https://github.com/opendigg/awesome-github-vue
   - [create.js ](http://www.createjs.cc/) 
   - [Canvas Gauges 是一个利用纯 JavaScript 和 HTML5 Canvas（画布）打造的可完全自定义的仪表，你可以用它来创建诸如机动车速度表、温度计等类型的测量设备。](https://github.com/Mikhus/canvas-gauges)
   - [APNG to Canvas 支持apng图片](https://github.com/davidmz/apng-canvas)	
+  - [particles.js 背景的粒子动画生成库](https://github.com/VincentGarreau/particles.js)
+  - [Fabric.js 是一个简单而强大的 JavaScript Canvas 库](https://github.com/kangax/fabric.js)
   
   ---
 
