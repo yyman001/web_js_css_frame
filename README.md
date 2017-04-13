@@ -72,6 +72,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [全景漫游VR -（淘宝造物节背后的库）](http://tgask.qq.com/?/article/3)
  - [从零开始构建 JavaScript 技术栈](https://github.com/pd4d10/js-stack-from-scratch)
  
+ 
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -86,6 +87,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [segmentfault：是中国领先的开发者技术社区。](https://segmentfault.com/)
  
 ###系列文章
+ - [React.js 小书](http://huziketang.com/books/react/lesson1)
  - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
  - [React-Native学习指南](https://github.com/ele828/react-native-guide)
  - [html5 Canvas画图系列教程目录](http://jo2.org/html5-canvas-tutorial-list/)
