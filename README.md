@@ -26,6 +26,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 -[vue1.0 中文文档](http://vuejs.org.cn/guide/) 
 -[vue2.0 中文文档](https://vuefe.cn/) 
 
+[cooking更易上手的前端构建工具 for vue](http://elemefe.github.io/cooking/)
 
 ###移动端资料
 - [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html)
