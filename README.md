@@ -156,6 +156,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 
 ####vue专题
 - https://www.awesomes.cn/subject/vue
+- [『收藏』VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
 
 ####Vue相关开源项目库汇总 
 - http://www.opendigg.com/tags/front-vue
@@ -297,6 +298,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [jQuery WeUI - V0.7.1 WeUI 的jQuery实现版，提供了大量官方WeUI没有的组件, 同时兼容 jQuery 和 Zepto。](http://lihongxun945.github.io/jquery-weui/)
 - [Light7 手机ui组件](http://www.light7.cn/)
 - [bttn.css Awesome buttons for awesome projects](https://github.com/ganapativs/bttn.css)
+- [CSS Pressable 3D Buttons](https://github.com/iRaul/pushy-buttons)
  
 ####5. 基础模版
 - 浏览器统一(Cross Browser)
@@ -881,12 +883,14 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [iTyped.js 实现打字效果](https://github.com/luisvinicius167/ityped)
 
 ####35. 未知分类
+ - [使用 tictac.js 实现倒计时](https://github.com/keenwon/tictac)
  - [一个大小约 2k 的图片高斯模糊库 —— blurify.js](https://github.com/JustClear/blurify)
  - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
  - [Reveal.JS - 替代PPT,演示文稿。](https://github.com/hakimel/reveal.js/)
  - [Gif.JS 是一个能运行在你的浏览器中的JavaScript GIF编码器。](http://jnordberg.github.io/gif.js/)
  - [Sir Trevor是一个会完全重绘网页内容的工具：直观的编辑网页内容而不用假定任何关于它是如何重绘的事。](http://madebymany.github.io/sir-trevor-js/)
  - [feature.js 检测浏览器是否支持某属性](http://featurejs.com/)
+ - [a browser detector 检测浏览器类型,包括手机](https://github.com/ded/bowser)
  - [Mock.js 生成随机数据,拦截ajax](http://mockjs.com/)
  - [BookBlock 翻书特效](http://tympanus.net/Development/BookPreview/) - [github](https://github.com/codrops/BookBlock)
  - [intro.js 引导用户页面](https://github.com/usablica/intro.js)
@@ -923,8 +927,8 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [Draggabilly – 轻松实现拖放功能（Drag & Drop）](https://github.com/desandro/draggabilly)
  - [scrollReveal.js – 使元素以非常酷帅的方式进入画布 (Viewpoint)](https://github.com/jlmakes/scrollreveal) 
  - [share.js 一键分享](https://github.com/overtrue/share.js)
-
- 
+ - [Anchorme 是一个强大的 JavaScript 库，它可以接收任何字符串或文本文件，并检测其中的所有 URL 地址](https://github.com/alexcorvi/anchorme.js/)
+ - [500 个科幻主题的免费矢量图标网站](http://nagoshiashumari.github.io/Rpg-Awesome/)
  
  ####36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
