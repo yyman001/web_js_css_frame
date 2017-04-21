@@ -450,6 +450,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 - [FormatJS – 让你的 Web 应用程序国际化](http://formatjs.io/)
+- [一个轻量级的时间处理工具库 - dateformat.js](https://github.com/XuXiaoGH/dateformat.js)
 
 ####13. 页面交互
 
@@ -940,7 +941,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
   - [APNG to Canvas 支持apng图片](https://github.com/davidmz/apng-canvas)	
   - [particles.js 背景的粒子动画生成库](https://github.com/VincentGarreau/particles.js)
   - [Fabric.js 是一个简单而强大的 JavaScript Canvas 库](https://github.com/kangax/fabric.js)
-  
+  - [腾讯 AlloyTeam 正式发布 Canvas 魔幻线条 - curve.js](https://github.com/AlloyTeam/curvejs)
   ---
 
 
