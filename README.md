@@ -16,6 +16,9 @@
 
 掘金:https://gold.xitu.io/
 
+模拟数据最好方案Easy Mock,提供的功能非常强大
+https://www.easy-mock.com/
+
 前端收集:https://github.com/jikeytang/front-end-collect
 WEB前端知识库:https://github.com/imweb/FKB
 Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
