@@ -500,6 +500,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [PhotoSwipe - 移动开发必备的 iOS 风格相册](http://photoswipe.com/) - [github](https://github.com/dimsemenov/photoswipe)
 - [lory.js ](http://meandmax.github.io/lory/)
 - [swipe2 – 非常轻量级的一个图片滑动切换效果库,跟3版本不一样,这个用于幻灯片](https://github.com/lyfeyaj/Swipe)
+- [RefineSlide A 3D transform/CSS transition-enabled jQuery](https://github.com/webbart/refineslide)
 
 
 ######13.5 图片剪裁/图片处理
@@ -933,6 +934,8 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [share.js 一键分享](https://github.com/overtrue/share.js)
  - [Anchorme 是一个强大的 JavaScript 库，它可以接收任何字符串或文本文件，并检测其中的所有 URL 地址](https://github.com/alexcorvi/anchorme.js/)
  - [500 个科幻主题的免费矢量图标网站](http://nagoshiashumari.github.io/Rpg-Awesome/)
+ - [图片文字转真实文字](https://github.com/netpi/baidu-ocr-api)
+ - [WOWSlider css3幻灯片-软件生成](http://wowslider.com/ch/)
  
  ####36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
