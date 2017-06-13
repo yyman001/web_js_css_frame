@@ -777,6 +777,8 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 
 ####25. 音频/视频
+- [pizzicato.js](https://github.com/alemangui/pizzicato)
+- [webaudiox.js](https://github.com/jeromeetienne/webaudiox)
 - [jWebAudio](http://01org.github.io/jWebAudio/)
 - [jPlayer -  HTML5 Audio & Video for jQuery](https://github.com/happyworm/jPlayer)
 - [video.js - HTML5 & Flash video player](https://github.com/videojs/video.js)
@@ -794,6 +796,8 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [BIDEO.JS使得添加全屏背景视频更加容易。](https://github.com/rishabhp/bideo.js)
 - [loud links一个很小的JavaScript库,允许您通过HTML5添加交互式音频元素在网站播放mp3 / ogg文件，目前支持所有浏览器。](https://github.com/mahdif/loud-links/)
 - [Waud.js – 使用HTML5降级处理的Web音频库](https://github.com/waud/waud)
+- [Wad](https://github.com/rserota/wad)
+- [Tone.js](https://tonejs.github.io/)
 
 ####26. 按钮
 
