@@ -397,7 +397,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 -[Resumable.JS 通过HTML5API提供了稳定可恢复的多文件上传功能。](http://www.resumablejs.com/)
 
 ######10.5 日期选择
-
+- [超强日历](http://www.my97.net/dp/demo/index.htm)
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [Mobiscroll 超强扩展](https://github.com/acidb/mobiscroll)
 - [Pikaday - 日期选择器](https://github.com/dbushell/Pikaday)
