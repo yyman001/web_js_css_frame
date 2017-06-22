@@ -75,7 +75,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [YOU MIGHT NOT NEED JQUERY - 是用原生写法代替jq](http://youmightnotneedjquery.com/)
  - [全景漫游VR -（淘宝造物节背后的库）](http://tgask.qq.com/?/article/3)
  - [从零开始构建 JavaScript 技术栈](https://github.com/pd4d10/js-stack-from-scratch)
- 
+ - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
  
 ###书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
