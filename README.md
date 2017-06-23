@@ -1,44 +1,62 @@
-# 一些前端开发的干货
+ 一些前端开发的干货
 
-标签（空格分隔）： 资料
-#####出处:https://coding.net/u/f2e/p/Books/git/tree/master/%E7%A7%BB%E5%8A%A8Web
-######包含pc端,移动端js库,框架,css框架,工具等等...在原文基础上添加修改
 ----
 有些虽已经年代久远，但仍然可以学到很多有用的东西,可以整理资料的链接和其他链接资料或许有重复......
 [-->>另外一个链接:分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/qingniao99/front-end-collect)
 [库](https://github.com/dypsilon/frontend-dev-bookmarks)
 
+推荐
+> * [掘金](https://gold.xitu.io/)
+> * [Easy Mock 模拟数据](https://www.easy-mock.com/)
+> * [JavaScript错误监测](https://fundebug.com/)
 
-###[前端JavaScript错误监测,报错及时通知你,现在是免费的](https://fundebug.com/)
+前端库搜索
+> * [玩林-前端框架搜索](http://www.iwan0.com/)
+> * [awesomes-前端资源库](https://www.awesomes.cn/)
+> * [常用库查询系统](http://hackr.io/)
+> * [常用库查询系统2 - 迷你库](http://microjs.com/)
 
-####[常用库查询系统](http://hackr.io/)
-####[常用库查询系统2 - 迷你库](http://microjs.com/)
+前端导航
+> * [前端收集](https://github.com/jikeytang/front-end-collect)
+> * [WEB前端知识库](https://github.com/imweb/FKB)
+> * [jsdig](http://jsdig.com/)
+> * [前端笔记](http://www.w3cmark.com/mark/)
+> * [醉牛前端](http://f2er.club/)
+> * [前端收藏夹](http://collect.w3ctrain.com/)
+> * [web前端导航](http://guide.500lines.cc/)
+> * [F2E前端导航](http://fenav.com/#/index)
 
-掘金:https://gold.xitu.io/
+API文档
+> * [css手册](http://css.doyoe.com/)
+> * [webkitcss 属性查询文档](http://ued.ctrip.com/webkitcss/index.html)
+> * [(英文)css属性详解 -各种参数有demo进行对比](http://cssreference.io)
+> * [flex](http://yoksel.github.io/flex-cheatsheet/#flex-direction)
+> * [jQuery API 中文文档](http://www.css88.com/jqapi-1.9/)
+> * [jQuery UI API中文文档](http://www.css88.com/jquery-ui-api/)
+> * [Chrome 开发者工具](http://www.css88.com/doc/chrome-devtools/)
+> * [Sass (3.4.21) 中文文档](http://www.css88.com/doc/sass/)
+> * [ES6 手册](https://qiutc.me/post/es6-cheatsheet.html)
+> * [React 中文文档（V15.5.4）](http://www.css88.com/react/)
+> * [Zepto.js 中文文档](http://www.css88.com/doc/zeptojs_api/)
+> * [Backbone.js 中文文档](http://www.css88.com/doc/backbone/)
+> * [Underscore.js 中文文档](http://www.css88.com/doc/underscore/)
+> * [JSDoc中文文档](http://www.css88.com/doc/jsdoc/index.html)
+> * [Bootstrap 中文文档](http://bootstrap.css88.com/)
+> * [Lodash 中文文档 ](http://www.css88.com/doc/lodash/)
+> * [webpack 中文文档(2.2)](http://www.css88.com/doc/webpack2/)
+> * [avalon 2 中文文档](http://avalonjs.coding.me/) 
+> * [vue1.0 中文文档](http://vuejs.org.cn/guide/) 
+> * [vue2.0 中文文档](https://vuefe.cn/) 
 
-模拟数据最好方案Easy Mock,提供的功能非常强大
-https://www.easy-mock.com/
 
-前端收集:https://github.com/jikeytang/front-end-collect
-WEB前端知识库:https://github.com/imweb/FKB
-Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
-
-###文档
--[css属性详解 -各种参数有demo进行对比](http://cssreference.io)
--[avalon 2 中文文档](http://avalonjs.coding.me/) 
--[vue1.0 中文文档](http://vuejs.org.cn/guide/) 
--[vue2.0 中文文档](https://vuefe.cn/) 
-
-[cooking更易上手的前端构建工具 for vue](http://elemefe.github.io/cooking/)
-
-###移动端资料
+>移动端资料
 - [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html)
 - [支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
 - [移动前端系列——移动端页面坑与排坑技巧( 2014-12-08 )](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201411/290576.shtml)
 - [移动web最佳实践（2013）](http://www.ipresst.com/play/528892e11d0495f30f00762e)
 - [移动Web前端框架 ( 2014 ) ](http://www.jingwentian.com/t-135)
 - [移动端自适应方案-lib.flexible,淘宝手机版都是用这个框架](https://github.com/amfe/lib.flexible)
-- [iOS 微信 音频 视频自动播放](http://www.w3ctech.com/topic/1165#rd)
+- [iOS 微信 音频 视频自动播放](http://www.w3ctech.com/topic/1165rd)
 - [解决ios下的微信打开的页面背景音乐无法自动播放](http://www.w3cmark.com/2016/434.html)
 - [微信JS-SDK说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html)
 - [微信js demo](http://203.195.235.76/jssdk/)
@@ -47,7 +65,8 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [移动端响应式框架-测试阶段,不适用于复杂页面](https://github.com/peunzhang/pageResponse)
 - [视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
 
-###学习资料/文章
+>学习资料/文章
+ - [Study-Step-by-Step 书籍合集](https://github.com/qibaoguang/Study-Step-by-Step)
  - [渲染性能](https://github.com/sundway/blog/issues/2)
  - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
  - [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
@@ -65,7 +84,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [前端工具推荐](https://github.com/codylindley/frontend-tools)
  - [设计规范 -强烈推荐看](http://shengxi.sinaapp.com/WS/content.html) 链接失效
  - [腾讯团队web移动文章](http://tgideas.qq.com/)
- - [视觉设计师是怎样让前端工程师 100% 实现设计效果的？](http://www.zhihu.com/question/27743708#answer-17103050)
+ - [视觉设计师是怎样让前端工程师 100% 实现设计效果的？](http://www.zhihu.com/question/27743708answer-17103050)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  - [vue 教程](http://www.cnblogs.com/keepfool/p/5619070.html)
  - [10 个原则让动画带你飞](https://github.com/xitu/gold-miner/blob/master/TODO/smooth-css-animations.md)
@@ -77,7 +96,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [从零开始构建 JavaScript 技术栈](https://github.com/pd4d10/js-stack-from-scratch)
  - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
  
-###书籍资料
+>书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
  - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
@@ -85,12 +104,11 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
  
  
- ###一些社区
- 
+ >一些社区
  - [Stack Overflow：Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。](http://stackoverflow.com/)
  - [segmentfault：是中国领先的开发者技术社区。](https://segmentfault.com/)
  
-###系列文章
+>系列文章
  - [React.js 小书](http://huziketang.com/books/react/lesson1)
  - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
  - [React-Native学习指南](https://github.com/ele828/react-native-guide)
@@ -102,15 +120,15 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [深入理解JavaScripts设计模式系列：](http://bbs.html5cn.org/forum.php?mod=viewthread&tid=3335)
  - [设计模式总结,非js](http://www.cnblogs.com/chenssy/p/3357683.html)
  - [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
- - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/#5.2)
+ - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/5.2)
  - [前端之困 · XSS CookBook系列](http://zhuanlan.zhihu.com/wooyun/19756127)
  - [一个月时间整理《深入浅出Node.js》](https://cnodejs.org/topic/551200e6d792542a29789a43)
  - [【web必知必会】——图解HTTP](http://www.cnblogs.com/xing901022/p/4309840.html)
  - [廖雪峰-JavaScript基础教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
  - [MDN JavaScript基础教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
  - [45个实用的JavaScript技巧、窍门和最佳实践](http://colobu.com/2014/09/23/45-Useful-JavaScript-Tips,-Tricks-and-Best-Practices/)
------------
-###其他工具
+----
+>其他工具
  - [flexbox在线制作器](http://the-echoplex.net/flexyboxes/) 
  - [SPARK动画平台 这是我们组做的一个动画效果平台，里面集合了所有的牛逼动画，可以让你灵感猛增！（目前已开放外网使用）](https://tonytony.club/spark/)
  - [OneDiv 这是个神奇的网站，里面的所有细节都是用一个div元素通过复杂的Css3实现的，有空可以去开开脑洞噢](http://a.singlediv.com/)
@@ -131,7 +149,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [兼容性速查表](http://caniuse.com/ "兼容性速查表")
  - [浏览器的一些独特参数](http://www.browserscope.org/ "浏览器的一些独特参数")
  - [各种各样的媒体查询收集](http://nmsdvid.com/snippets/ "各种各样的媒体查询收集")
- - [sass @include-media 媒体查询库](http://include-media.com/) https://github.com/eduardoboucas/include-media
+ - [sass @include-media 媒体查询库](https://github.com/eduardoboucas/include-media) 
  - [css3 动画在线制作器](http://ecd.tencent.com/css3/tools.html "css3动画在线制作器")
  - [css3 渐变在线制作器](http://www.colorzilla.com/gradient-editor/ "css3渐变在线制作器")
  - [移动端手势表](http://ww1.sinaimg.cn/bmiddle/c2c57f68jw1e4fh7dmw12j20fi2w6qe1.jpg "移动端手势表")
@@ -143,7 +161,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
  - [ELF 灵活可扩展的HTML5 构建工具](https://elf.aotu.io/)
  
-###js插件网站
+>js插件网站
  - [jquer.in](http://jquer.in/)
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
  - [Query插件库--http://www.jq22.com/](http://www.jq22.com/)
@@ -153,22 +171,22 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [dowebok 做好网站--http://www.dowebok.com/ ](http://www.dowebok.com/)
  - [Web前端开发--http://www.zjgsq.com/](http://www.zjgsq.com/)
 
-###前端组件库
+前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
-####手势库
+>手势库
  - [TouchSwipe ](http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html)
 
-
-####vue专题
-- https://www.awesomes.cn/subject/vue
+>vue专题
+- [awesomes_vue](https://www.awesomes.cn/subject/vue)
 - [『收藏』VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
+- [cooking更易上手的前端构建工具 for vue](http://elemefe.github.io/cooking/)
 
-####Vue相关开源项目库汇总 
+>Vue相关开源项目库汇总 
 - http://www.opendigg.com/tags/front-vue
 - https://github.com/opendigg/awesome-github-vue
 
-####vue ui组件库
+>vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
  - [vue-axios - A small wrapper for integrating axios to Vuejs](https://github.com/imcvampire/vue-axios)
  - [AT UI 由阿里通信技术团队打造基于Vue的Web组件库](http://aliqin.github.io/docs/atui/introduce)
@@ -180,7 +198,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [iView UI](https://github.com/iview/iview)
  - [element UI 支持vue@2.0](http://element.eleme.io)
  - [Muse-UI - 基于 Vue 2.0 和 Material Desigin 的 UI 组件库](https://museui.github.io/)
- - [Scroller for Vue 2.0](http://im.dahoo.wang/vue-scroller/#/)
+ - [Scroller for Vue 2.0](http://im.dahoo.wang/vue-scroller//)
  - [Vue Material](https://github.com/marcosmoura/vue-material)
  - [vue-amap 基于Vue 2.0 和高德地图的地图组件](https://github.com/ElemeFE/vue-amap)
  - [Vueditor 基于Vue 2.0 的富文本编辑器](https://github.com/hifarer/Vueditor)
@@ -188,8 +206,10 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [Vue-Core-Image-Upload 2.0 一款轻量级图片裁剪上传插件](https://github.com/Vanthink-UED/vue-core-image-upload)
  - [vue-datepicker 日期拾取组件](https://github.com/hsiaosiyuan0/vue-datepicker)
  
-####0. 前端自动化(Workflow)
-
+>0. 前端自动化(Workflow)
+- 依赖安装
+  - [yarn](http://yarnpkg.top/)
+  - [npm](https://www.npmjs.com/)
 - 前端构建工具
   - [Yeoman - a set of tools for automating development workflow](https://github.com/yeoman/yeoman)
   - [gulp - The streaming build system](http://gulpjs.com/)
@@ -204,12 +224,12 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
   - [Sea.js](http://seajs.org/)
   - [webpack](http://webpack.github.io/docs/)
 - css预处理器
-  - [Less - Less is More , Than CSS](http://lesscss.org/)
   - [Sass - Syntactically Awesome Style Sheets](http://sass-lang.com/)
+  - [Less - Less is More , Than CSS](http://lesscss.org/)
   - [Stylus - Expressive, dynamic, robust CSS](http://learnboost.github.io/stylus/)
 
-####1. 前端框架(Frameworks)
-- [Material-UI 移动端ui框架,效果好](http://material-ui.com/#/components/appbar) [github](https://github.com/callemall/material-ui)
+>1. 前端框架(Frameworks)
+- [Material-UI 移动端ui框架,效果好](http://material-ui.com//components/appbar) [github](https://github.com/callemall/material-ui)
 - [Frozen UI 腾讯移动UI框架](http://frozenui.github.io/)
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [Foundation](https://github.com/zurb/foundation)
@@ -227,9 +247,9 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [H-ui 前端框架](http://h-ui.net/index.shtml)
 - [Skeleton](https://github.com/dhg/Skeleton)
 - [HaloJS](https://halojs.aotu.io/api/index.html)
-- [QMUI Web 是一个专注 Web UI](https://github.com/QMUI/QMUI_Web) http://qmuiteam.com/web/page/index.html
+- [QMUI Web 是一个专注 Web UI](https://github.com/QMUI/QMUI_Web)
 
-####2. JavaScript 框架汇总
+>2. JavaScript 框架汇总
 
 - JavaScript 框架
   - [react](https://github.com/facebook/react)
@@ -265,7 +285,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
   - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
 
   
-####3. 前端游戏框架(动画引擎)
+>3. 前端游戏框架(动画引擎)
 
 - [Hilo 跨终端的互动游戏解决方案 阿里出品](https://github.com/hiloteam/Hilo)
 - [Pixi.js 3.0.7 - WebGL 国外游戏引擎](http://www.pixijs.com/) https://github.com/pixijs/pixi.js
@@ -288,7 +308,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Dynamics.js - 创建逼真的物理动画的 JS 库](https://github.com/michaelvillar/dynamics.js)
 - [Snabbt.js – 极简的 JavaScript 动画库](https://github.com/daniel-lundin/snabbt.js)
 
-####4. ui组件库
+>4. ui组件库
 
 - [GMU - 基于zepto的ui组件库，适用于移动端](https://github.com/fex-team/GMU)
 - [FrozenUI - 腾讯移动端组件库](https://github.com/frozenui/frozenui)
@@ -306,7 +326,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [bttn.css Awesome buttons for awesome projects](https://github.com/ganapativs/bttn.css)
 - [CSS Pressable 3D Buttons](https://github.com/iRaul/pushy-buttons)
  
-####5. 基础模版
+>5. 基础模版
 - 浏览器统一(Cross Browser)
   - [HTML5 BOILERPLATE](https://github.com/h5bp/html5-boilerplate)
   - [Modernizr](https://github.com/Modernizr/Modernizr)
@@ -325,13 +345,13 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
   - [reframe.js 让非响应式元素响应的JavaScript插件。 Reframe对`iframe`和`video`元素特别有用](https://github.com/dollarshaveclub/reframe.js/)
 
 
-####6. 排版
+>6. 排版
 
 - [yue.css](https://github.com/lepture/yue.css)
 - [typo.css](https://github.com/sofish/typo.css)
 - [chinese-copywriting-guidelines - 中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
-####7. 网格系统
+>7. 网格系统
 
 - [flex.css - 快速入门，极速布局](https://github.com/lzxb/flex.css)
 - [grid](https://github.com/aekaplan/grid)
@@ -344,20 +364,20 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [minigrid.js 只有2KB的零依赖栅格布局-瀑布流](http://alves.im/minigrid/)
 - [Reflexbox 用于React的Flexbox网格系统，提供Grid, Flex, 和Box组件用于开发](https://github.com/jxnblk/reflexbox/)
 
-####8. HTML5 API 应用
+>8. HTML5 API 应用
 
 - [History.js - gracefully supports the HTML5 History/State APIs](https://github.com/browserstate/history.js)
 - [jquery-pjax - pushState+ajax](https://github.com/defunkt/jquery-pjax)
 - [jquery-address - Deep Linking](https://github.com/asual/jquery-address)
 - [Notify.js(Web Notifications API)](https://github.com/alexgibson/notify.js)
 
-####9. UA 识别
+>9. UA 识别
 
 - [detector](https://github.com/hotoo/detector)
 
-####10. 表单处理
+>10. 表单处理
 
-######10.1 表单验证(Form Validator)/表单提示
+>10.1 表单验证(Form Validator)/表单提示
 
 - [Validator](https://github.com/niceue/validator)
 - [Parsley](https://github.com/guillaumepotier/Parsley.js)
@@ -372,17 +392,17 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [jQuery Label Better](https://github.com/peachananr/label_better)
 - [2016 年最好用的表单验证库 SMValidator.js ](https://github.com/WLDragon/SMValidator)
 
-######10.2 < select > 相关
+>10.2 < select > 相关
 
 - [Chosen](https://github.com/harvesthq/chosen)
 - [Select2](https://github.com/select2/select2)
 - [bootstrap-select](https://github.com/silviomoreto/bootstrap-select)
 
-######10.3 单选框/复选框相关
+>10.3 单选框/复选框相关
 
 - [iCheck - 增强复选框和单选按钮](https://github.com/fronteed/iCheck)
 
-######10.4 上传组件
+>10.4 上传组件
 
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
@@ -396,7 +416,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [FileAPI - 是文件上传（单个/多个）、拖放支持、图像裁剪、大小调整、应用过滤器和获取文件信息](http://mailru.github.io/FileAPI/)
 -[Resumable.JS 通过HTML5API提供了稳定可恢复的多文件上传功能。](http://www.resumablejs.com/)
 
-######10.5 日期选择
+>10.5 日期选择
 - [超强日历](http://www.my97.net/dp/demo/index.htm)
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [Mobiscroll 超强扩展](https://github.com/acidb/mobiscroll)
@@ -408,16 +428,16 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [datePicker 一个适合移动端的日期选择插件，支持选择时间](https://github.com/ddd702/datePicker)
 - [better-picker – 一款轻量级IOS风格的JavaScript选择器](https://github.com/ustbhuangyi/picker)
 
-######10.6 取色
+>10.6 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
 
-######10.7 标签插件(Tag)
+>10.7 标签插件(Tag)
 
 - [TaggingJS – 可以灵活定制的 jQuery 标签系统插件](https://github.com/sniperwolf/taggingJS)
 - [selectize.js](https://github.com/brianreavis/selectize.js)
 
-######10.8 自动完成插件
+>10.8 自动完成插件
 
 - [At.js - 一个Twitter/微博样式的@自动完成插件](https://github.com/ichord/At.js)
 - [jquery-textcomplete - 智能搜索提示框/自动补全](https://github.com/yuku-t/jquery-textcomplete)
@@ -425,14 +445,14 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Awesomplete - 零依赖的简单自动完成插件](http://leaverou.github.io/awesomplete/) - [github](https://github.com/LeaVerou/awesomplete)
 - [Algolia Places：给输入框添加地址自动补全功能](https://github.com/algolia/places/)
 
-#####10.8.1
+>10.8.1
 - [Cleave.js – 自动格式化表单输入框的文本内容](https://github.com/nosir/cleave.js/)
 
 
-######10.9 样式修正
+>10.9 样式修正
 - [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
 
-####11. 图表绘制/图形库(Graphics)
+>11. 图表绘制/图形库(Graphics)
 
 - [Highcharts](https://github.com/highslide-software/highcharts.com)
 - [Chart.js - 基于HTML5的JavaScript图表](https://github.com/nnnick/Chart.js)
@@ -448,32 +468,32 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [GraphicsJS ，一个轻量级的前端图形库 支持ie6](http://www.graphicsjs.org/)
 - [强大的矢量图形库：Raphael JS ](https://github.com/DmitryBaranovskiy/raphael/) http://www.jianshu.com/p/81c3fc5287d1
 
-####12. 日期格式化
+>12. 日期格式化
 
 - [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 - [FormatJS – 让你的 Web 应用程序国际化](http://formatjs.io/)
 - [一个轻量级的时间处理工具库 - dateformat.js](https://github.com/XuXiaoGH/dateformat.js)
 
-####13. 页面交互
+>13. 页面交互
 
-######13.1 Slider
+>13.1 Slider
 
 - [slick - the last carousel you'll ever need](https://github.com/kenwheeler/slick/)
 - [Swipe - the most accurate touch slider](https://github.com/thebird/Swipe)
-- [Swiper - 移动端/pc端滑动组件比较强大](http://www.idangero.us/swiper/demos/#.VUCEQUYr_pA) - [github](https://github.com/nolimits4web/Swiper)
+- [Swiper - 移动端/pc端滑动组件比较强大](http://www.idangero.us/swiper/demos/.VUCEQUYr_pA) - [github](https://github.com/nolimits4web/Swiper)
 - [iscroll - 简约模拟滑动层](https://github.com/cubiq/iscroll)
 - [iSlider - 移动端滑动组件](https://github.com/BE-FE/iSlider)
 - [OwlCarousel - create beautiful responsive carousel slider](https://github.com/OwlFonk/OwlCarousel)
 - [jquery-mousewheel - jQuery鼠标滚轮滚动侦测插件](https://github.com/jquery/jquery-mousewheel/)
 - [Glide.js - 轻量级滑块组件](https://github.com/jedrzejchalubek/Glide.js)
 
-######13.2 瀑布流
+>13.2 瀑布流
 
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 
-######13.3 懒加载/加载监听/预加载
+>13.3 懒加载/加载监听/预加载
 - [basket.js – 基于 LocalStorage 的资源加载器](https://github.com/addyosmani/basket.js)
 - [imagesLoaded – 检测网页中的图片是否加载完成](https://github.com/desandro/imagesloaded)
 - [layzr.js - git关注蛮高的](http://callmecavs.github.io/layzr.js/) - [github](https://github.com/callmecavs/layzr.js)
@@ -489,7 +509,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [bindWithDelay - jQuery Plugin For Delayed Event Execution](https://github.com/bgrins/bindWithDelay)
 - [TypeWatch - 停止输入时调用](https://github.com/dennyferra/TypeWatch)
 
-######13.4 图片轮播(幻灯片)/图片展示
+>13.4 图片轮播(幻灯片)/图片展示
 
 - [SuperSlide - 国产的幻灯片,功能集成比较多,我个人推荐](http://www.SuperSlide2.com/)
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
@@ -506,7 +526,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [RefineSlide A 3D transform/CSS transition-enabled jQuery](https://github.com/webbart/refineslide)
 
 
-######13.5 图片剪裁/图片处理
+>13.5 图片剪裁/图片处理
 
 - [Jcrop -  Image Cropping Plugin for jQuery](https://github.com/tapmodo/Jcrop)
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
@@ -517,7 +537,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [jQuery picZoomer - 图片区域放大](http://www.jqueryscript.net/zoom/jQuery-Plugin-For-Image-Zoom-On-Hover-picZoomer.html)
 - [watermark.js 为图片添加水印](http://brianium.github.io/watermarkjs/)
 
-######13.6 进度条/加载动画(Loading)
+>13.6 进度条/加载动画(Loading)
 - [CSS Loader 是一个非常有用加载器。它允许开发人员利用纯 CSS 文件，以及一个空<div>元素便可以快速的创建加载指示器。](https://github.com/raphaelfabeni/css-loader)
 - [progressbar.js svg线条](https://github.com/kimmobrunfeldt/progressbar.js)
 - [NProgress.js](http://ricostacruz.com/nprogress/)
@@ -531,17 +551,17 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Easy Pie Chart](https://github.com/rendro/easy-pie-chart)
 
 
-######13.7 侧滑插件(offcancas)
+>13.7 侧滑插件(offcancas)
 
 - [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
 - [Slideout.js - 一个用于移动 Web 应用的触摸滑出式导航菜单](https://github.com/mango/slideout)
 
-######13.8 菜单(Menu)
+>13.8 菜单(Menu)
 
 - [SuperFish - 基于jQuery的级联下拉菜单](https://github.com/joeldbirch/superfish)
 - [Responsive Nav - 响应式导航](https://github.com/viljamis/responsive-nav.js)
 
-######13.9 滚动侦测(ScrollSpy)
+>13.9 滚动侦测(ScrollSpy)
 
 - [jquery-scrollspy(1)](https://github.com/sxalexander/jquery-scrollspy)
 - [jquery-scrollspy(2)](https://github.com/thesmart/jquery-scrollspy)
@@ -551,7 +571,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Choreographer.js 多帧动画处理 跟ScrollMagic 类似 ](https://github.com/christinecha/choreographer-js)
 - [moveTo.js 轻量级滚动到指定位置插件](https://github.com/hsnaydd/moveTo)
 
-######13.10 滚动加载更多/下拉刷新(Pull to Refresh)
+>13.10 滚动加载更多/下拉刷新(Pull to Refresh)
 
 - [jScroll](https://github.com/pklauzinski/jscroll)
 - [web-pull-to-refresh](https://github.com/apeatling/web-pull-to-refresh)
@@ -561,7 +581,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [pulltorefresh.js 下拉刷新](https://github.com/BoxFactura/pulltorefresh.js)
 - [infinite-scroll – 一款滚动加载按需加载的轻量级插件](https://github.com/infinite-scroll/infinite-scroll)
 
-######13.11 平滑滚动插件(Smooth Scroll)
+>13.11 平滑滚动插件(Smooth Scroll)
 
 - [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 - [jquery.scrollTo - 平滑滚动到页面指定位置](https://github.com/flesler/jquery.scrollTo)
@@ -569,7 +589,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [scrollUp](https://github.com/markgoodyear/scrollup)
 - [Elevator.js 一个模拟电梯运行“返回顶部”的 JS 插件 (Tim Holman) ](https://github.com/tholman/elevator.js)
 
-######13.12 全屏滚动/全屏切换
+>13.12 全屏滚动/全屏切换
 
 - [pagePiling.js - 全屏滚动效果](https://github.com/alvarotrigo/pagePiling.js)
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js/)
@@ -578,15 +598,15 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [screenfull.js - 切换全屏模式](https://github.com/sindresorhus/screenfull.js)
 - [Space.js – HTML 驱动的页面 3D 滚动效果](http://www.slashie.org/space.js/) - [github](https://github.com/gopatrik/space.js)
 
-######13.13 分屏滚动
+>13.13 分屏滚动
 
 - [multiscroll.js - 分屏滚动效果](https://github.com/alvarotrigo/multiscroll.js)
 
-######13.14 转场效果
+>13.14 转场效果
 
 - [Animsition - 页面切换时的过渡效果](https://github.com/blivesta/animsition)
 
-######13.15 固定元素(Sticky)
+>13.15 固定元素(Sticky)
 - [Sticky-Kit 比较出名,功能强大,个人推荐](http://leafo.net/sticky-kit/)
 - [ Sticky Navbar -可定点](http://www.jozefbutko.com/stickynavbar/)
 - [Waypoints](http://imakewebthings.com/waypoints/)
@@ -601,22 +621,22 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Zebra Pin](https://github.com/stefangabos/Zebra_Pin)
 - [HC-Sticky](https://github.com/somewebmedia/hc-sticky)
 
-######13.16 触控事件
+>13.16 触控事件
 
 - [Hammer.js](https://github.com/hammerjs/hammer.js)
 - [jquery.event.move.js](https://github.com/stephband/jquery.event.move)
 
-######13.17 拖拽组件
+>13.17 拖拽组件
 
 - [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
 
-######13.18 隐藏或展示页面元素
+>13.18 隐藏或展示页面元素
 
 - [Headroom.js - 在不需要页头时将其隐藏](http://www.bootcss.com/p/headroom.js/)
 - [Readmore.js - 内容显示与隐藏插件](https://github.com/jedfoster/Readmore.js)
 - [oriDomi - 像指一样折叠Dom元素](https://github.com/dmotz/oriDomi)
 
-######13.19 滚动条(Scrollbar)
+>13.19 滚动条(Scrollbar)
 - [jQuery-slimScroll pc效果不错5k,手机端不建议是用](http://rocha.la/jQuery-slimScroll)
 - [jquery.mCustomScrollbar pc,苹果效果不错,安卓效果略差,大小较大](http://manos.malihu.gr/jquery-custom-content-scroller/)
 - [jScrollPane](https://github.com/vitch/jScrollPane)
@@ -625,14 +645,14 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [nanoScrollerJS](https://github.com/jamesflorentino/nanoScrollerJS)
 - [tinyscrollbar](https://github.com/wieringen/tinyscrollbar)
 
-######13.20 视差滚动(Parallax Scrolling)
+>13.20 视差滚动(Parallax Scrolling)
 - [MidnightJS 效果很赞](http://aerolab.github.io/midnight.js/)
 - [parallax.js](https://github.com/wagerfield/parallax)
 - [jparallax](https://github.com/stephband/jparallax)
 - [StickyStack.js](http://codepen.io/mike-zarandona/full/Dasnw) [-github](https://github.com/mike-zarandona/StickyStack.js)
 - [jquery.superscrollorama.js 很酷的动画效果](https://github.com/johnpolacek/superscrollorama)
 
-####14. 代码高亮插件/代码编辑器
+>14. 代码高亮插件/代码编辑器
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
 - [highlight.js](https://highlightjs.org/)
@@ -642,7 +662,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Crayon Syntax Highlighter](https://github.com/aramk/crayon-syntax-highlighter)
 - [prism - Lightweight, robust, elegant syntax highlighting.](https://github.com/PrismJS/prism)
 
-####15. UI Icon 组件
+>15. UI Icon 组件
 
 - [Font Awesome](http://fontawesome.io/icons/)
 - [Glyphter: The SVG Font Machine](http://glyphter.com/)
@@ -651,7 +671,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Cikonss - 纯CSS实现的响应式Icon](http://www.bootcss.com/p/cikonss/)
 - [Simple Icons](https://github.com/danleech/simple-icons)
 
-####16. 动画(Animate)
+>16. 动画(Animate)
 - js动画库
  - [GSAP.js 最屌的动画库](http://greensock.com/gsap)
  - [Animate Plus  CSS/SVG 动画库](https://github.com/bendc/animateplus)
@@ -667,7 +687,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [jQuery Interactive 3D - 使用图片创建一个3D模型](https://github.com/peachananr/interactive_3d)
  - [AnimateScroll - 动画滚动,应该是定点导航动画](https://github.com/ramswaroop/animatescroll.js)
  - [jq 元素抖动库](http://jackrugile.com/jrumble/)
- - [Tween JS  JavaScript 补间动画库 canvas](http://www.createjs.com/#!/CreateJS)
+ - [Tween JS  JavaScript 补间动画库 canvas](http://www.createjs.com/!/CreateJS)
  - [Rekapi 关键帧动画库](http://rekapi.com/)
  - [favico.js v0.3.4 控制游览器标签小图标](http://lab.ejci.net/favico.js/) - [github](https://github.com/ejci/favico.js)
  - [dom-animator -注释动画](http://tholman.com/dom-animator/)
@@ -687,7 +707,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [css-loaders - 同上](https://github.com/lukehaas/css-loaders)
  - [Hover.css](http://ianlunn.github.io/Hover/) - [github](https://github.com/IanLunn/Hover)
  - [Effeckt.css - 手机动画库](https://github.com/h5bp/Effeckt.css)
- - [NEC动画库](http://nec.netease.com/library/category/#animation)
+ - [NEC动画库](http://nec.netease.com/library/category/animation)
  - [uilang - a minimal, ui-focused programming language for web designers](http://uilang.com/)
  - [csshake 带有sass版本](https://github.com/elrumordelaluz/csshake)
  - [AniJS - 一个基于声明式语法的CSS动画库](https://github.com/anijs/anijs/)
@@ -695,7 +715,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [JX.Animate - 腾讯css3动画库](http://alloyteam.github.io/JXAnimate/) - [github](https://github.com/AlloyTeam/JXAnimate)
  - [SpinThatShit 酷炫的Loading 动画sass库 https://matejkustec.github.io/SpinThatShit/](https://github.com/MatejKustec/SpinThatShit)
  
-####17. 本地存储
+>17. 本地存储
 - [bowl.js 一个轻量级的前端资源缓存加载器](https://github.com/ElemeFE/bowl)
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
 - [localForage](https://github.com/mozilla/localForage)
@@ -704,7 +724,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [store.js 公开了一个简单的接口来实现跨浏览器的本地存储。](https://github.com/marcuswestin/store.js)
 
 
-####18. 模板引擎
+>18. 模板引擎
 
 - [paperclip.js ie8+](https://github.com/crcn/paperclip.js)
 - [mustache.js](https://github.com/janl/mustache.js)
@@ -718,7 +738,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [json2html](https://github.com/moappi/json2html)
 - [CMS.js是基于Jekyll的一个JavaScript网页生成器，使用普通的HTML，CSS和JavaScript的网站快捷的生成网页。](https://github.com/cdmedia/cms.js)
 
-####19. 通知组件/弹框组件/模态窗口
+>19. 通知组件/弹框组件/模态窗口
 - [layer.js - 国产,也是集成很多功能,个人推荐](http://sentsin.com/jquery/layer/)
 - [AnimatedModal.js - CSS3  全屏模态窗口,支持 Firefox、Chrome、Safari、Opera 和 IE 10+](http://joaopereirawd.github.io/animatedModal.js/)
 - [alertify.js](https://github.com/fabien-d/alertify.js)
@@ -731,7 +751,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Popper.js：强大的浮动提示库（pop 即弹出层，popper 即弹出层的内容）](https://github.com/FezVrasta/popper.js)
 
 
-####20. 提示控件(Tooltips)
+>20. 提示控件(Tooltips)
 
 - [qTip2 - Pretty powerful tooltips](https://github.com/qTip2/qTip2)
 - [tooltip - CSS Tooltips](https://github.com/HubSpot/tooltip)
@@ -744,7 +764,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Tippy.js A lightweight, pure JavaScript tooltip library 迷你提示框](https://github.com/atomiks/tippyjs)
 
 
-####21. 对话框/遮罩层/弹出层(lightbox)
+>21. 对话框/遮罩层/弹出层(lightbox)
 
 - [fancyBox - Fancy jQuery lightbox](https://github.com/fancyapps/fancyBox)
 - [jquery-lightbox - The popular lightbox script, ported to jQuery](https://github.com/krewenki/jquery-lightbox)
@@ -754,7 +774,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [jQuery blockUI - Page or element overlay](https://github.com/malsup/blockui/)
 
 
-####22. 文档/表格/PDF
+>22. 文档/表格/PDF
 
 - [handsontable - 在线可编辑excel表格](https://github.com/handsontable/handsontable)
 - [jQuery Bootgrid - 用于ajax生成动态表格](https://github.com/rstaib/jquery-bootgrid)
@@ -764,19 +784,19 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Recline.js - 灵活操作和展示数据](https://github.com/okfn/recline/)
 - [Dynatable - 交互式表格插件](https://github.com/alfajango/jquery-dynatable)
 
-####23. 目录树插件
+>23. 目录树插件
 
 - [zTree_v3 - jQuery Tree Plugin](https://github.com/zTree/zTree_v3)
 - [jstree - jQuery Tree Plugin](https://github.com/vakata/jstree)
 - [fancytree - Tree plugin for jQuery](https://github.com/mar10/fancytree)
 
-####24. Ajax模块
+>24. Ajax模块
 
 - [fetch - A window.fetch JavaScript polyfill](https://github.com/github/fetch)
 - [reqwest - browser asynchronous http requests](https://github.com/ded/reqwest)
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 
-####25. 音频/视频
+>25. 音频/视频
 - [pizzicato.js](https://github.com/alemangui/pizzicato)
 - [webaudiox.js](https://github.com/jeromeetienne/webaudiox)
 - [jWebAudio](http://01org.github.io/jWebAudio/)
@@ -799,7 +819,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Wad](https://github.com/rserota/wad)
 - [Tone.js](https://tonejs.github.io/)
 
-####26. 按钮
+>26. 按钮
 
 - [Buttons - A CSS button library](https://github.com/alexwolfe/Buttons)
 - [ButtonComponentMorph](https://github.com/codrops/ButtonComponentMorph)
@@ -808,7 +828,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [CSS3 buttons](https://github.com/ubuwaits/css3-buttons)
 - [jquery.onoff - Interactive, accessible toggle switches for the web.](https://github.com/timmywil/jquery.onoff)
 
-####27. 富文本编辑器/Markdown编辑器/Markdown解析器
+>27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
 - [Simditor - 简单快速的富文本编辑器](https://github.com/mycolorway/simditor)
 - [BachEditor - 一个有情怀的编辑器](https://github.com/Integ/BachEditor)
@@ -819,26 +839,26 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Markdown Plus](https://github.com/tylingsoft/markdown-plus)
 - [Editor.md - 开源在线Markdown编辑器](https://github.com/pandao/editor.md)
 
-####28. 内容提取(Readability)
+>28. 内容提取(Readability)
 
 - [Readability](https://code.google.com/p/arc90labs-readability/)
 - [json.human.js - Json Formatting for Human Beings](https://github.com/marianoguerra/json.human.js)
 
-####29. 颜色(CSS Colors)/SVG
+>29. 颜色(CSS Colors)/SVG
 
 - [CSS Colours](http://colours.neilorangepeel.com/)
 - [SVGeneration](http://www.svgeneration.com/)
 - [SVGMagic - 自动的创建PNG来兼容不支持SVG的浏览器](https://github.com/dirkgroenen/SVGMagic)
 - [Adaptive Backgrounds - 从图片抽取主要颜色和应用到父元素](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)
 
-####30. 选项卡(Tabs)
+>30. 选项卡(Tabs)
 
 - [Easy Responsive Tabs to Accordion](https://github.com/samsono/Easy-Responsive-Tabs-to-Accordion)
 - [Responsive-Tabs](https://github.com/jellekralt/Responsive-Tabs)
 - [ion.tabs - jQuery tabs plugin](https://github.com/IonDen/ion.tabs)
 - [jQuery-EasyTabs](https://github.com/JangoSteve/jQuery-EasyTabs)
 
-####31. 文本处理
+>31. 文本处理
 
 - [ZeroClipboard - 文本复制插件](https://github.com/zeroclipboard/zeroclipboard)
 - [Bigfoot - 点击文章中的脚注弹窗显示](https://github.com/lemonmade/bigfoot)
@@ -856,12 +876,12 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [jQSlickWrap 是一个jQuery插件，让您可以轻松而准确地环绕浮动图像里的内容文字。](http://www.jwf.us/projects/jQSlickWrap/)
 - [TypeButter 使您能为您的字体设置透明度和字间距。](http://typebutter.com/)
 
-####32. 布局(Layout)
+>32. 布局(Layout)
 
 - 分隔面板(Split Panel)
   - [split-pane](https://github.com/shagstrom/split-pane)
 
-####33. 实用工具/其他插件
+>33. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
@@ -875,7 +895,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [Fallback.js - JavaScript library for dynamically loading CSS and JS files.](https://github.com/dolox/fallback/)
 - [swfobject](https://github.com/swfobject/swfobject)
 
-####34. sass 库
+>34. sass 库
 - [Family.scss - css3选择器简写框架,非常不错](http://lukyvj.github.io/family.scss/)
 - [SpaceBase – 基于 Sass 的响应式 CSS 框架](http://spacebase.space150.com/) - [github](https://github.com/space150/spaceBase)
 - [breakpoint-sass 媒体查询库](http://breakpoint-sass.com/)
@@ -885,16 +905,16 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 - [sass-svg 一个内联 SVG 的 SASS 库](https://github.com/leeenx/sass-svg)
 
 
-####34.1 分页
+>34.1 分页
 - [jqPagination 分页插件](https://github.com/beneverard/jqPagination)
 
-####34.2 模拟打字
+>34.2 模拟打字
 - [ jQuery.type-typetype 用于textarea文本域](https://github.com/iamdanfox/typetype);
 - [typing.js 华丽的打字效果JS插件](https://github.com/coffeedeveloper/typing.js)
 - [superplaceholder.js 利用文本框的 placeholder 属性，以打字形式展示出自定义的文字，可用于提示。](https://github.com/chinchang/superplaceholder.js)
 - [iTyped.js 实现打字效果](https://github.com/luisvinicius167/ityped)
 
-####35. 未知分类
+>35. 未知分类
  - [使用 tictac.js 实现倒计时](https://github.com/keenwon/tictac)
  - [一个大小约 2k 的图片高斯模糊库 —— blurify.js](https://github.com/JustClear/blurify)
  - [Rainyday.js - 实现雨滴效果](http://maroslaw.github.io/rainyday.js/)
@@ -944,7 +964,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
  - [图片文字转真实文字](https://github.com/netpi/baidu-ocr-api)
  - [WOWSlider css3幻灯片-软件生成](http://wowslider.com/ch/)
  
- ####36. Canvas库
+ >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
   - [create.js ](http://www.createjs.cc/) 
   - [Canvas Gauges 是一个利用纯 JavaScript 和 HTML5 Canvas（画布）打造的可完全自定义的仪表，你可以用它来创建诸如机动车速度表、温度计等类型的测量设备。](https://github.com/Mikhus/canvas-gauges)
@@ -957,7 +977,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 
 
 
-####前端参考集
+前端参考集
 
 - [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 - [Codrops - Useful resources](https://github.com/codrops)
@@ -968,7 +988,7 @@ Study-Step-by-Step:https://github.com/qibaoguang/Study-Step-by-Step
 还有一大波干货待整理...
 
 ----
-欢迎分享你的好东西给我
+欢迎分享你的好东西给我[@黑色技术](http://weibo.com/yyman001)
 
  发布时间:2015-4-17日
 
