@@ -66,6 +66,7 @@ API文档
 - [视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
 
 >学习资料/文章
+ - [前端基础进阶系列](http://www.jianshu.com/p/cd3fee40ef59)
  - [Study-Step-by-Step 书籍合集](https://github.com/qibaoguang/Study-Step-by-Step)
  - [渲染性能](https://github.com/sundway/blog/issues/2)
  - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
@@ -95,7 +96,8 @@ API文档
  - [全景漫游VR -（淘宝造物节背后的库）](http://tgask.qq.com/?/article/3)
  - [从零开始构建 JavaScript 技术栈](https://github.com/pd4d10/js-stack-from-scratch)
  - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
- 
+ - [《一起学 Node.js》彻底重写完毕](https://github.com/nswbmw/N-blog)
+
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -223,6 +225,7 @@ API文档
   - [RequireJS](http://requirejs.org/)
   - [Sea.js](http://seajs.org/)
   - [webpack](http://webpack.github.io/docs/)
+  - [ESL](https://github.com/ecomfe/esl)是一个浏览器端、符合AMD的标准加载器，适合用于现代Web浏览器端应用的入口与模块管理。
 - css预处理器
   - [Sass - Syntactically Awesome Style Sheets](http://sass-lang.com/)
   - [Less - Less is More , Than CSS](http://lesscss.org/)
@@ -694,7 +697,7 @@ API文档
  - [KUTE.js 支持SVG等动画-手机端性能不太好](https://github.com/thednp/kute.js)
  - [Granim.js 简单易用的渐变动画库,纯JavaScript(< 10kB) 实现。](https://sarcadass.github.io/granim.js/)
  - [txt.wav.js 让文字飞起来](https://github.com/still-life-studio/txt.wav)
- 
+ - [jquery.path 动画路径](https://github.com/weepy/jquery.path)
  
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
