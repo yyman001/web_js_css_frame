@@ -975,6 +975,7 @@ API文档
   - [particles.js 背景的粒子动画生成库](https://github.com/VincentGarreau/particles.js)
   - [Fabric.js 是一个简单而强大的 JavaScript Canvas 库](https://github.com/kangax/fabric.js)
   - [腾讯 AlloyTeam 正式发布 Canvas 魔幻线条 - curve.js](https://github.com/AlloyTeam/curvejs)
+  - [Fanvas 一键把swf转为html5 canvas动画](https://github.com/TencentOpen/Fanvas/)
   ---
 
 
