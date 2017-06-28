@@ -47,7 +47,7 @@ API文档
 > * [avalon 2 中文文档](http://avalonjs.coding.me/) 
 > * [vue1.0 中文文档](http://vuejs.org.cn/guide/) 
 > * [vue2.0 中文文档](https://vuefe.cn/) 
-
+> * [Express 4.x API 中文手册](http://www.expressjs.com.cn/4x/api.html)
 
 >移动端资料
 - [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html)
