@@ -346,7 +346,7 @@ API文档
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
   - [Free Wall - 创建桌面，移动和平板的动态网格布局](https://github.com/kombai/freewall)
   - [reframe.js 让非响应式元素响应的JavaScript插件。 Reframe对`iframe`和`video`元素特别有用](https://github.com/dollarshaveclub/reframe.js/)
-
+  - [Grid—A—Licious](http://suprb.com/apps/gridalicious/)
 
 >6. 排版
 
@@ -364,7 +364,7 @@ API文档
 - [Neutron 创建灵化、简洁网页布局的SASS框架](http://neutroncss.com/)
 - [flexible.gs 灵活的响应式栅格布局CSS框架](http://flexible.gs)
 - [Decorator - HTML, CSS, and JavaScrip 前端框架](http://decorator.codable.org)
-- [minigrid.js 只有2KB的零依赖栅格布局-瀑布流](http://alves.im/minigrid/)
+- [minigrid.js 只有2KB的零依赖栅格布局-瀑布流](https://github.com/henriquea/minigrid)
 - [Reflexbox 用于React的Flexbox网格系统，提供Grid, Flex, 和Box组件用于开发](https://github.com/jxnblk/reflexbox/)
 
 >8. HTML5 API 应用
@@ -494,8 +494,9 @@ API文档
 
 >13.2 瀑布流
 
-- [Masonry](http://masonry.desandro.com/)
+- [Masonry](http://masonry.desandro.com/) 推荐
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
+- [Wookmark-jQuery ](https://github.com/GBKS/Wookmark-jQuery)
 
 >13.3 懒加载/加载监听/预加载
 - [basket.js – 基于 LocalStorage 的资源加载器](https://github.com/addyosmani/basket.js)
