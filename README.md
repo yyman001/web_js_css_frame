@@ -48,6 +48,7 @@ API文档
 > * [vue1.0 中文文档](http://vuejs.org.cn/guide/) 
 > * [vue2.0 中文文档](https://vuefe.cn/) 
 > * [Express 4.x API 中文手册](http://www.expressjs.com.cn/4x/api.html)
+> * [rollup.js 中文文档](https://www.kancloud.cn/yunye/rollup/327462)
 
 >移动端资料
 - [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html)
@@ -629,11 +630,12 @@ API文档
 >13.16 触控事件
 
 - [Hammer.js](https://github.com/hammerjs/hammer.js)
-- [jquery.event.move.js](https://github.com/stephband/jquery.event.move)
+
 
 >13.17 拖拽组件
 
 - [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
+- [jquery.event.move.js](https://github.com/stephband/jquery.event.move)
 
 >13.18 隐藏或展示页面元素
 
@@ -862,6 +864,7 @@ API文档
 - [Responsive-Tabs](https://github.com/jellekralt/Responsive-Tabs)
 - [ion.tabs - jQuery tabs plugin](https://github.com/IonDen/ion.tabs)
 - [jQuery-EasyTabs](https://github.com/JangoSteve/jQuery-EasyTabs)
+- [以多标签页载入页面的功能插件 bTabs.js](https://github.com/TerryZ/bTabs)
 
 >31. 文本处理
 
