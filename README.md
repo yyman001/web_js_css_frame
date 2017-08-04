@@ -293,7 +293,7 @@ API文档
 >3. 前端游戏框架(动画引擎)
 
 - [Hilo 跨终端的互动游戏解决方案 阿里出品](https://github.com/hiloteam/Hilo)
-- [Pixi.js 3.0.7 - WebGL 国外游戏引擎](http://www.pixijs.com/) https://github.com/pixijs/pixi.js
+- [Pixi.js v4 - WebGL 国外游戏引擎](http://www.pixijs.com/) 
 - [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
 - [Egret Engine](http://www.egret-labs.org/)
 - [LimeJS](https://github.com/digitalfruit/limejs)
@@ -703,6 +703,8 @@ API文档
  - [Granim.js 简单易用的渐变动画库,纯JavaScript(< 10kB) 实现。](https://sarcadass.github.io/granim.js/)
  - [txt.wav.js 让文字飞起来](https://github.com/still-life-studio/txt.wav)
  - [jquery.path 动画路径](https://github.com/weepy/jquery.path)
+ - [Vivus.js](http://maxwellito.github.io/vivus/) 是一个轻量级的JavaScript类(完全无依赖) 来允许你创建 SVG 动画，让他们显示被画出来的轨迹。 Vivus提供很多不同种类的动画。 另外还有选项，你可以按你的想法来创建一个定制的脚本来创建你的SVG动画。
+ - [mo.js](http://mojs.io/)
  
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
@@ -974,7 +976,8 @@ API文档
  - [图片文字转真实文字](https://github.com/netpi/baidu-ocr-api)
  - [WOWSlider css3幻灯片-软件生成](http://wowslider.com/ch/)
  - [marky.js 性能分析](https://github.com/nolanlawson/marky)
- 
+ - [opentype.js](https://opentype.js.org/) web字体设计?
+  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
   - [create.js ](http://www.createjs.cc/) 
