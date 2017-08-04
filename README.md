@@ -49,6 +49,7 @@ API文档
 > * [vue2.0 中文文档](https://vuefe.cn/) 
 > * [Express 4.x API 中文手册](http://www.expressjs.com.cn/4x/api.html)
 > * [rollup.js 中文文档](https://www.kancloud.cn/yunye/rollup/327462)
+> * [Angular 中文文档](https://angular.cn/docs/ts/latest/)
 
 >移动端资料
 - [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html)
@@ -721,6 +722,7 @@ API文档
  - [SpinKit ??](https://github.com/tobiasahlin/SpinKit)
  - [JX.Animate - 腾讯css3动画库](http://alloyteam.github.io/JXAnimate/) - [github](https://github.com/AlloyTeam/JXAnimate)
  - [SpinThatShit 酷炫的Loading 动画sass库 https://matejkustec.github.io/SpinThatShit/](https://github.com/MatejKustec/SpinThatShit)
+ - [OBNOXIOUS.CSS 冲击视觉的效果](http://tholman.com/obnoxious/)
  
 >17. 本地存储
 - [bowl.js 一个轻量级的前端资源缓存加载器](https://github.com/ElemeFE/bowl)
@@ -971,6 +973,7 @@ API文档
  - [500 个科幻主题的免费矢量图标网站](http://nagoshiashumari.github.io/Rpg-Awesome/)
  - [图片文字转真实文字](https://github.com/netpi/baidu-ocr-api)
  - [WOWSlider css3幻灯片-软件生成](http://wowslider.com/ch/)
+ - [marky.js 性能分析](https://github.com/nolanlawson/marky)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
