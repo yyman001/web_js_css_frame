@@ -99,7 +99,9 @@ API文档
  - [从零开始构建 JavaScript 技术栈](https://github.com/pd4d10/js-stack-from-scratch)
  - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
  - [《一起学 Node.js》彻底重写完毕](https://github.com/nswbmw/N-blog)
-
+ - [TypeScript 入门教程](https://ts.xcatliu.com/)
+ - [TypeScript 官方文档](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+ 
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
