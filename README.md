@@ -979,7 +979,9 @@ API文档
  - [WOWSlider css3幻灯片-软件生成](http://wowslider.com/ch/)
  - [marky.js 性能分析](https://github.com/nolanlawson/marky)
  - [opentype.js](https://opentype.js.org/) web字体设计?
-  
+ - [gka 是一款简单的、高效的帧动画生成工具，图片处理工具,快速制作高性能帧动画解决方案](https://github.com/gkajs/gka)
+ - [Valine 留言板系统](https://github.com/xCss/Valine)
+ 
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
   - [create.js ](http://www.createjs.cc/) 
