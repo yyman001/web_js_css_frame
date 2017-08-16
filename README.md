@@ -68,6 +68,8 @@ API文档
 - [视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
 
 >学习资料/文章
+ - [React 入门教程-中文](https://doc.react-china.org/)
+ - [什么是正则表达式?](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
  - [前端基础进阶系列](http://www.jianshu.com/p/cd3fee40ef59)
  - [Study-Step-by-Step 书籍合集](https://github.com/qibaoguang/Study-Step-by-Step)
  - [渲染性能](https://github.com/sundway/blog/issues/2)
@@ -291,6 +293,7 @@ API文档
   - [移动web开发调试工具AlloyLever介绍 - 打印信息](http://alloyteam.github.io/AlloyLever/)
   - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
   - [Hotkeys.js 捕获键盘输入和输入的组合键快捷键](https://github.com/jaywcjlove/hotkeys)
+  - [keymaster.js 同上](https://github.com/madrobby/keymaster)
   
 >3. 前端游戏框架(动画引擎)
 
