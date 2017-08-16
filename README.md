@@ -290,7 +290,7 @@ API文档
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [移动web开发调试工具AlloyLever介绍 - 打印信息](http://alloyteam.github.io/AlloyLever/)
   - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
-
+  - [Hotkeys.js 捕获键盘输入和输入的组合键快捷键](https://github.com/jaywcjlove/hotkeys)
   
 >3. 前端游戏框架(动画引擎)
 
@@ -398,6 +398,7 @@ API文档
 - [Floatlable.js - 输入时显示placeholder文本](https://github.com/clubdesign/floatlabels.js)
 - [jQuery Label Better](https://github.com/peachananr/label_better)
 - [2016 年最好用的表单验证库 SMValidator.js ](https://github.com/WLDragon/SMValidator)
+- [SMValidator](https://wldragon.github.io/SMValidator/)
 
 >10.2 < select > 相关
 
