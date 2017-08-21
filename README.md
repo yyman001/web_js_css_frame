@@ -593,6 +593,7 @@ API文档
 - [infinity.js/∞ .js 无限下拉加载](http://airbnb.github.io/infinity/)
 - [pulltorefresh.js 下拉刷新](https://github.com/BoxFactura/pulltorefresh.js)
 - [infinite-scroll – 一款滚动加载按需加载的轻量级插件](https://github.com/infinite-scroll/infinite-scroll)
+- [better-scroll 移动端滚动插件](https://github.com/ustbhuangyi/better-scroll)
 
 >13.11 平滑滚动插件(Smooth Scroll)
 
