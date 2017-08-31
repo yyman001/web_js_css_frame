@@ -391,7 +391,7 @@ API文档
 >10. 表单处理
 
 >10.1 表单验证(Form Validator)/表单提示
-
+- [validate.js](https://github.com/rickharrison/validate.js/)
 - [Validator](https://github.com/niceue/validator)
 - [Parsley](https://github.com/guillaumepotier/Parsley.js)
 - [jquery.form.js - jQuery Form Plugin](https://github.com/malsup/form)
