@@ -6,6 +6,7 @@
 [库](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 推荐
+> * [公众账号推荐](https://github.com/jaywcjlove/handbook/blob/master/other/%E5%85%AC%E4%BC%97%E8%B4%A6%E5%8F%B7%E6%8E%A8%E8%8D%90.md)
 > * [掘金](https://gold.xitu.io/)
 > * [Easy Mock 模拟数据](https://www.easy-mock.com/)
 > * [JavaScript错误监测](https://fundebug.com/)
@@ -405,7 +406,6 @@ API文档
 - [Floatlable.js - 输入时显示placeholder文本](https://github.com/clubdesign/floatlabels.js)
 - [jQuery Label Better](https://github.com/peachananr/label_better)
 - [2016 年最好用的表单验证库 SMValidator.js ](https://github.com/WLDragon/SMValidator)
-- [SMValidator](https://wldragon.github.io/SMValidator/)
 
 >10.2 < select > 相关
 
