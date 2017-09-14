@@ -170,10 +170,11 @@ API文档
  - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
  - [ELF 灵活可扩展的HTML5 构建工具](https://elf.aotu.io/)
  
->js插件网站
+> js插件网站
+ - [Unheap](http://www.unheap.com/)
  - [jquer.in](http://jquer.in/)
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
- - [Query插件库--http://www.jq22.com/](http://www.jq22.com/)
+ - [jQuery插件库--http://www.jq22.com/](http://www.jq22.com/)
  - [jquery之家--http://www.htmleaf.com/](http://www.htmleaf.com/)
  - [分享天空--http://www.sharetk.com/](http://www.sharetk.com/)
  - [jQuery Script--http://www.jqueryscript.net/](http://www.jqueryscript.net/)
