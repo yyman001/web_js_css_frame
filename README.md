@@ -264,6 +264,7 @@ API文档
 
 - JavaScript 框架
   - [react](https://github.com/facebook/react)
+  - [preact (react的代替者)](https://github.com/developit/preact/)
   - [Angular](https://github.com/angular/angular)
   - [jQuery](https://github.com/jquery/jquery)
   - [Backbone.js](https://github.com/jashkenas/backbone)
