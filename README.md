@@ -825,6 +825,7 @@ API文档
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 
 >25. 音频/视频
+- [Chimee 组件化H5播放器框架-mp4、m3u8、flv ](http://chimee.org/)
 - [pizzicato.js](https://github.com/alemangui/pizzicato)
 - [webaudiox.js](https://github.com/jeromeetienne/webaudiox)
 - [jWebAudio](http://01org.github.io/jWebAudio/)
