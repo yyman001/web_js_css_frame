@@ -202,6 +202,7 @@ API文档
 >vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
  - [vue-axios - A small wrapper for integrating axios to Vuejs](https://github.com/imcvampire/vue-axios)
+ - [滴滴 Web 移动端组件库 cube-ui](https://github.com/didi/cube-ui)
  - [AT UI 由阿里通信技术团队打造基于Vue的Web组件库](http://aliqin.github.io/docs/atui/introduce)
  - [微信UI Vux 支持@^1.0.24](https://github.com/airyland/vux)
  - [bootstrap风格 Vux 支持@v1.x.x](https://github.com/yuche/vue-strap)
