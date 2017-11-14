@@ -997,6 +997,7 @@ API文档
  - [opentype.js](https://opentype.js.org/) web字体设计?
  - [gka 是一款简单的、高效的帧动画生成工具，图片处理工具,快速制作高性能帧动画解决方案](https://github.com/gkajs/gka)
  - [Valine 留言板系统](https://github.com/xCss/Valine)
+ - [easyXDM.js 完美解决前端跨域](https://github.com/oyvindkinsey/easyXDM)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
