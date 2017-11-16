@@ -194,6 +194,7 @@ API文档
 - [awesomes_vue](https://www.awesomes.cn/subject/vue)
 - [『收藏』VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
 - [cooking更易上手的前端构建工具 for vue](http://elemefe.github.io/cooking/)
+- [一个记录使用了vue技术的网站列表-made with vue.js](https://madewithvuejs.com/)
 
 >Vue相关开源项目库汇总 
 - http://www.opendigg.com/tags/front-vue
