@@ -51,7 +51,9 @@ API文档
 > * [avalon 2 中文文档](http://avalonjs.coding.me/) 
 > * [vue1.0 中文文档](http://vuejs.org.cn/guide/) 
 > * [vue2.0 中文文档](https://vuefe.cn/) 
+> * [vuex 中文文档](https://vuex.vuejs.org/zh-cn/) 
 > * [Express 4.x API 中文手册](http://www.expressjs.com.cn/4x/api.html)
+> * [koa](https://koa.bootcss.com/)
 > * [rollup.js 中文文档](https://www.kancloud.cn/yunye/rollup/327462)
 > * [Angular 中文文档](https://angular.cn/docs/ts/latest/)
 
@@ -999,6 +1001,7 @@ API文档
  - [gka 是一款简单的、高效的帧动画生成工具，图片处理工具,快速制作高性能帧动画解决方案](https://github.com/gkajs/gka)
  - [Valine 留言板系统](https://github.com/xCss/Valine)
  - [easyXDM.js 完美解决前端跨域](https://github.com/oyvindkinsey/easyXDM)
+ - [Emergence.js 是一个轻量级，高性能的 JS 插件，用于检测和操作浏览器中的元素。](https://github.com/xtianmiller/emergence.js)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
