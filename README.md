@@ -222,6 +222,7 @@ API文档
  - [JRoll无限加载+下拉刷新 for Vue2 ](https://github.com/chjtx/JRoll/tree/master/extends/jroll-vue-infinite)
  - [Vue-Core-Image-Upload 2.0 一款轻量级图片裁剪上传插件](https://github.com/Vanthink-UED/vue-core-image-upload)
  - [vue-datepicker 日期拾取组件](https://github.com/hsiaosiyuan0/vue-datepicker)
+ - [一个生成 svg 图标组件的工具 (vue2.x)](https://github.com/MMF-FE/vue-svgicon)
  
 >0. 前端自动化(Workflow)
 - 依赖安装
