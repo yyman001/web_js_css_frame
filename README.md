@@ -47,6 +47,7 @@ API文档
 > * [JSDoc中文文档](http://www.css88.com/doc/jsdoc/index.html)
 > * [Bootstrap 中文文档](http://bootstrap.css88.com/)
 > * [Lodash 中文文档 ](http://www.css88.com/doc/lodash/)
+> * [webpack 官方中文文档](https://doc.webpack-china.org/guides/getting-started)
 > * [webpack 中文文档(2.2)](http://www.css88.com/doc/webpack2/)
 > * [avalon 2 中文文档](http://avalonjs.coding.me/) 
 > * [vue1.0 中文文档](http://vuejs.org.cn/guide/) 
