@@ -851,6 +851,7 @@ API文档
 - [Waud.js – 使用HTML5降级处理的Web音频库](https://github.com/waud/waud)
 - [Wad](https://github.com/rserota/wad)
 - [Tone.js](https://tonejs.github.io/)
+- [PearPlayer.js 一个支持多协议、多源、混合P2P-CDN的流媒体播放器](https://github.com/PearInc/PearPlayer.js)
 
 >26. 按钮
 
