@@ -14,6 +14,9 @@
 > * [JavaScript错误监测](https://fundebug.com/)
 > * [个人常用开发工具](https://github.com/yyman001/web_tools)
 
+编码规范
+> * [百度前端编码规范](https://github.com/ecomfe/spec)
+
 前端库搜索
 > * [玩林-前端框架搜索](http://www.iwan0.com/)
 > * [awesomes-前端资源库](https://www.awesomes.cn/)
