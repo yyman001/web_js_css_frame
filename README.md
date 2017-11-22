@@ -501,6 +501,7 @@ API文档
 - [FormatJS – 让你的 Web 应用程序国际化](http://formatjs.io/)
 - [一个轻量级的时间处理工具库 - dateformat.js](https://github.com/XuXiaoGH/dateformat.js)
 - [timeago a jQuery plugin 返回类型xxx时间之前发表,支持18种语言](http://timeago.yarp.com/)
+- [date-fns 时间格式化](https://github.com/date-fns/date-fns)
 
 >13. 页面交互
 
