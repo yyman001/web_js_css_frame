@@ -1009,6 +1009,7 @@ API文档
  - [Valine 留言板系统](https://github.com/xCss/Valine)
  - [easyXDM.js 完美解决前端跨域](https://github.com/oyvindkinsey/easyXDM)
  - [Emergence.js 是一个轻量级，高性能的 JS 插件，用于检测和操作浏览器中的元素。](https://github.com/xtianmiller/emergence.js)
+ - [FECS 基于 Node.js 的前端代码检查工具](http://fecs.baidu.com/)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
