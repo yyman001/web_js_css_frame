@@ -197,7 +197,7 @@ API文档
  - [TouchSwipe ](http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html)
 
 >vue专题
-- [awesomes_vue](https://www.awesomes.cn/subject/vue)
+- [awesomes vue 各种组件](https://www.awesomes.cn/subject/vue)
 - [『收藏』VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
 - [cooking更易上手的前端构建工具 for vue](http://elemefe.github.io/cooking/)
 - [一个记录使用了vue技术的网站列表-made with vue.js](https://madewithvuejs.com/)
@@ -208,7 +208,6 @@ API文档
 
 >vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
- - [vue-axios - A small wrapper for integrating axios to Vuejs](https://github.com/imcvampire/vue-axios)
  - [滴滴 Web 移动端组件库 cube-ui](https://github.com/didi/cube-ui)
  - [AT UI 由阿里通信技术团队打造基于Vue的Web组件库](http://aliqin.github.io/docs/atui/introduce)
  - [微信UI Vux 支持@^1.0.24](https://github.com/airyland/vux)
@@ -219,14 +218,21 @@ API文档
  - [iView UI](https://github.com/iview/iview)
  - [element UI 支持vue@2.0](http://element.eleme.io)
  - [Muse-UI - 基于 Vue 2.0 和 Material Desigin 的 UI 组件库](https://museui.github.io/)
- - [Scroller for Vue 2.0](http://im.dahoo.wang/vue-scroller//)
  - [Vue Material](https://github.com/marcosmoura/vue-material)
+ - [vant 有赞开发的基于 Vue.js 2.0 的 UI 组件库](https://github.com/youzan/vant)
+ - [vue-beauty 基于 ant design 的漂亮的 vue 组件库](https://github.com/FE-Driver/vue-beauty)
+ 
+ >vue 其他插件组件
+ - [vue-axios](https://github.com/imcvampire/vue-axios)
+ - [Vue-Lazyload 图片延迟加载](https://github.com/hilongjw/vue-lazyload)
  - [vue-amap 基于Vue 2.0 和高德地图的地图组件](https://github.com/ElemeFE/vue-amap)
  - [Vueditor 基于Vue 2.0 的富文本编辑器](https://github.com/hifarer/Vueditor)
+ - [Scroller for Vue 2.0](http://im.dahoo.wang/vue-scroller//)
  - [JRoll无限加载+下拉刷新 for Vue2 ](https://github.com/chjtx/JRoll/tree/master/extends/jroll-vue-infinite)
  - [Vue-Core-Image-Upload 2.0 一款轻量级图片裁剪上传插件](https://github.com/Vanthink-UED/vue-core-image-upload)
  - [vue-datepicker 日期拾取组件](https://github.com/hsiaosiyuan0/vue-datepicker)
  - [一个生成 svg 图标组件的工具 (vue2.x)](https://github.com/MMF-FE/vue-svgicon)
+ 
  
 >0. 前端自动化(Workflow)
 - 依赖安装
