@@ -8,6 +8,7 @@
 
 
 推荐
+> * [bird.so 用不了谷歌搜索可以用这个](http://bird.so/)
 > * [公众账号推荐](https://github.com/jaywcjlove/handbook/blob/master/other/%E5%85%AC%E4%BC%97%E8%B4%A6%E5%8F%B7%E6%8E%A8%E8%8D%90.md)
 > * [掘金](https://gold.xitu.io/)
 > * [Easy Mock 模拟数据](https://www.easy-mock.com/)
@@ -66,6 +67,7 @@ API文档
 > * [Angular 中文文档](https://angular.cn/docs/ts/latest/)
 
 >移动端资料
+- [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
 - [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html)
 - [支付宝无线Web开发经验谈](http://am-team.github.io/amg/dev-exp-doc.html)
 - [移动前端系列——移动端页面坑与排坑技巧( 2014-12-08 )](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7106/m5723/201411/290576.shtml)
