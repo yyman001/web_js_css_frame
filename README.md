@@ -1,10 +1,10 @@
  一些前端开发的干货
 
 ----
-有些虽已经年代久远，但仍然可以学到很多有用的东西,可以整理资料的链接和其他链接资料或许有重复......
-[-->>另外一个链接:分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/qingniao99/front-end-collect)
-[库](https://github.com/dypsilon/frontend-dev-bookmarks)
+`资料或许有重复!` `资料或许有重复!` `资料或许有重复!`,我也只是一个搬运工！
 
+[库?](https://github.com/dypsilon/frontend-dev-bookmarks)
+[目前最全的前端开发面试题及答案](https://github.com/HerbertKarajan/Fe-Interview-questions)
 
 
 推荐
@@ -1034,8 +1034,8 @@ API文档
   - [Fanvas 一键把swf转为html5 canvas动画](https://github.com/TencentOpen/Fanvas/)
   ---
 
-
-
+#### 其他
+- [README文件语法解读](https://github.com/guodongxiaren/README) 
 
 #### 前端参考集
 - [Codrops - Useful resources](https://github.com/codrops)
