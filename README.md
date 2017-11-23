@@ -13,9 +13,13 @@
 > * [Easy Mock 模拟数据](https://www.easy-mock.com/)
 > * [JavaScript错误监测](https://fundebug.com/)
 > * [个人常用开发工具](https://github.com/yyman001/web_tools)
+> * [HEAD 能够放在文档的 <head> 中的各种配置元素,mate列表大全](https://github.com/joshbuchea/HEAD) [中文](https://www.awesomes.cn/repo/joshbuchea/head)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
+> * [vue 风格指南 (beta)](https://cn.vuejs.org/v2/style-guide/)
+> * [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
+> * [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 
 前端库搜索
 > * [玩林-前端框架搜索](http://www.iwan0.com/)
@@ -1031,21 +1035,18 @@ API文档
 
 
 
-前端参考集
-
-- [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
+#### 前端参考集
 - [Codrops - Useful resources](https://github.com/codrops)
 - [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
 - [Clusterize.js 可以优化你的大型数据表格的性能](http://nexts.github.io/Clusterize.js/)
 还有一大波干货待整理...
 
 ----
 欢迎分享你的好东西给我[@黑色技术](http://weibo.com/yyman001)
 
- 发布时间:2015-4-17日
-
+ 发布时间:2015-04-17
+ 更新时间:2017-11-23
  
 
 
