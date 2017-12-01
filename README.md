@@ -812,7 +812,7 @@ API文档
 - [SweetAlert2 - 不知道是不是克隆1的自己搞一个分支](https://github.com/limonte/sweetalert2)
 - [popper.js 纯 JS 写的轻量级位置计算引擎](https://github.com/FezVrasta/popper.js)
 - [Tippy.js A lightweight, pure JavaScript tooltip library 迷你提示框](https://github.com/atomiks/tippyjs)
-
+- [tata.js 一款提示窗口](https://github.com/xrr2016/tata)
 
 >21. 对话框/遮罩层/弹出层(lightbox)
 
