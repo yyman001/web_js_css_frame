@@ -121,6 +121,7 @@ API文档
  - [TypeScript 官方文档](https://zhongsp.gitbooks.io/typescript-handbook/content/)
  - [第一本 PWA 中文书](https://github.com/SangKa/PWA-Book-CN)
  
+
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -152,6 +153,8 @@ API文档
  - [廖雪峰-JavaScript基础教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
  - [MDN JavaScript基础教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
  - [45个实用的JavaScript技巧、窍门和最佳实践](http://colobu.com/2014/09/23/45-Useful-JavaScript-Tips,-Tricks-and-Best-Practices/)
+ - [Must-Watch JavaScript 需要翻墙](https://github.com/AllThingsSmitty/must-watch-javascript)
+ - [Must-Watch CSS 需要翻墙](https://github.com/AllThingsSmitty/must-watch-css)
 ----
 >其他工具
  - [flexbox在线制作器](http://the-echoplex.net/flexyboxes/) 
