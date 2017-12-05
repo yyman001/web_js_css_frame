@@ -65,6 +65,7 @@ API文档
 > * [koa](https://koa.bootcss.com/)
 > * [rollup.js 中文文档](https://www.kancloud.cn/yunye/rollup/327462)
 > * [Angular 中文文档](https://angular.cn/docs/ts/latest/)
+> * [weex](https://weex.apache.org/cn/references/)
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
