@@ -190,6 +190,7 @@ API文档
  - [智图客户端 – 你的图片你做主,本地图片快速压缩工具](https://isux.tencent.com/zhitu-client.html)
  - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
  - [ELF 灵活可扩展的HTML5 构建工具](https://elf.aotu.io/)
+ - [让小程序支持组件化开发的框架-类型vue组件开发](https://github.com/Tencent/wepy)
  
 > js插件网站
  - [Unheap](http://www.unheap.com/)
@@ -245,6 +246,8 @@ API文档
  - [vue-datepicker 日期拾取组件](https://github.com/hsiaosiyuan0/vue-datepicker)
  - [一个生成 svg 图标组件的工具 (vue2.x)](https://github.com/MMF-FE/vue-svgicon)
  
+ > React 相关
+ - [ANT DESIGN](http://ant-design.gitee.io/index-cn)
  
 >0. 前端自动化(Workflow)
 - 依赖安装
@@ -461,7 +464,7 @@ API文档
 - [flow.js](https://github.com/flowjs/flow.js)
 - [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
 - [FileAPI - 是文件上传（单个/多个）、拖放支持、图像裁剪、大小调整、应用过滤器和获取文件信息](http://mailru.github.io/FileAPI/)
--[Resumable.JS 通过HTML5API提供了稳定可恢复的多文件上传功能。](http://www.resumablejs.com/)
+- [Resumable.JS 通过HTML5API提供了稳定可恢复的多文件上传功能。](http://www.resumablejs.com/)
 
 >10.5 日期选择
 - [超强日历](http://www.my97.net/dp/demo/index.htm)
