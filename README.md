@@ -248,6 +248,7 @@ API文档
  
  > React 相关
  - [ANT DESIGN](http://ant-design.gitee.io/index-cn)
+ - [reactSPA](https://github.com/JasonBai007/reactSPA)
  
 >0. 前端自动化(Workflow)
 - 依赖安装
@@ -393,7 +394,8 @@ API文档
   - [Free Wall - 创建桌面，移动和平板的动态网格布局](https://github.com/kombai/freewall)
   - [reframe.js 让非响应式元素响应的JavaScript插件。 Reframe对`iframe`和`video`元素特别有用](https://github.com/dollarshaveclub/reframe.js/)
   - [Grid—A—Licious](http://suprb.com/apps/gridalicious/)
-
+  - [MUURI - Responsive, sortable, filterable and draggable grid layouts , ie9+](https://github.com/haltu/muuri)
+  
 >6. 排版
 
 - [yue.css](https://github.com/lepture/yue.css)
@@ -1058,7 +1060,6 @@ API文档
 欢迎分享你的好东西给我[@黑色技术](http://weibo.com/yyman001)
 
  发布时间:2015-04-17
- 更新时间:2017-11-23
  
 
 
