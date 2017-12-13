@@ -67,6 +67,7 @@ API文档
 > * [rollup.js 中文文档](https://www.kancloud.cn/yunye/rollup/327462)
 > * [Angular 中文文档](https://angular.cn/docs/ts/latest/)
 > * [weex](https://weex.apache.org/cn/references/)
+> * [Electron 中文文档](https://github.com/amhoho/electron-cn-docs)
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
@@ -87,6 +88,8 @@ API文档
 
 >学习资料/文章
  - [React 入门教程-中文](https://doc.react-china.org/)
+ - [[译]看漫画理解Flux](https://medium.com/@icyfish/%E8%AF%91-%E7%9C%8B%E6%BC%AB%E7%94%BB%E7%90%86%E8%A7%A3flux-4e4aa508eade)
+ - [《看漫画，学 Redux》 —— A cartoon intro to Redux](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
  - [什么是正则表达式?](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
  - [前端基础进阶系列](http://www.jianshu.com/p/cd3fee40ef59)
  - [Study-Step-by-Step 书籍合集](https://github.com/qibaoguang/Study-Step-by-Step)
@@ -157,6 +160,8 @@ API文档
  - [45个实用的JavaScript技巧、窍门和最佳实践](http://colobu.com/2014/09/23/45-Useful-JavaScript-Tips,-Tricks-and-Best-Practices/)
  - [Must-Watch JavaScript 需要翻墙](https://github.com/AllThingsSmitty/must-watch-javascript)
  - [Must-Watch CSS 需要翻墙](https://github.com/AllThingsSmitty/must-watch-css)
+ - [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
+ 
 ----
 >其他工具
  - [flexbox在线制作器](http://the-echoplex.net/flexyboxes/) 
@@ -1034,6 +1039,7 @@ API文档
  - [Emergence.js 是一个轻量级，高性能的 JS 插件，用于检测和操作浏览器中的元素。](https://github.com/xtianmiller/emergence.js)
  - [FECS 基于 Node.js 的前端代码检查工具](http://fecs.baidu.com/)
  - [一个绘制制svg图标的集合for react](https://dmfrancisco.github.io/react-icons/)
+ - [accounting.js 数字格式化](https://github.com/openexchangerates/accounting.js)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
