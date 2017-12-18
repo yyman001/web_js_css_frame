@@ -254,6 +254,8 @@ API文档
  > React 相关
  - [ANT DESIGN](http://ant-design.gitee.io/index-cn)
  - [reactSPA](https://github.com/JasonBai007/reactSPA)
+ - [ReCharts 是一个 React 图表组件库](http://recharts.org/#/en-US/)
+ - [React-Bootstrap](https://react-bootstrap.github.io/)
  
 >0. 前端自动化(Workflow)
 - 依赖安装
@@ -298,6 +300,11 @@ API文档
 - [Skeleton](https://github.com/dhg/Skeleton)
 - [HaloJS](https://halojs.aotu.io/api/index.html)
 - [QMUI Web 是一个专注 Web UI](https://github.com/QMUI/QMUI_Web)
+
+>1.2 后端UI框架
+- [Layui](http://www.layui.com/)
+- [BUI](http://www.builive.com/)
+
 
 >2. JavaScript 框架汇总
 
