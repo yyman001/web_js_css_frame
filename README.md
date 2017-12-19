@@ -1047,6 +1047,7 @@ API文档
  - [FECS 基于 Node.js 的前端代码检查工具](http://fecs.baidu.com/)
  - [一个绘制制svg图标的集合for react](https://dmfrancisco.github.io/react-icons/)
  - [accounting.js 数字格式化](https://github.com/openexchangerates/accounting.js)
+ - [加载动画库 loading.io](https://loading.io/)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
