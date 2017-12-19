@@ -223,6 +223,7 @@ API文档
 >Vue相关开源项目库汇总 
 - http://www.opendigg.com/tags/front-vue
 - https://github.com/opendigg/awesome-github-vue
+- https://vuejsexamples.com/
 
 >vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
