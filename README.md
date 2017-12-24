@@ -1059,6 +1059,7 @@ API文档
   - [Fabric.js 是一个简单而强大的 JavaScript Canvas 库](https://github.com/kangax/fabric.js)
   - [腾讯 AlloyTeam 正式发布 Canvas 魔幻线条 - curve.js](https://github.com/AlloyTeam/curvejs)
   - [Fanvas 一键把swf转为html5 canvas动画](https://github.com/TencentOpen/Fanvas/)
+  - [inMap 是 一款基于 canvas 的大数据可视化库](https://github.com/TalkingData/inmap)
   ---
 
 #### 其他
