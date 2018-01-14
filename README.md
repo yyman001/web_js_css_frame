@@ -1062,6 +1062,9 @@ API文档
   - [inMap 是 一款基于 canvas 的大数据可视化库](https://github.com/TalkingData/inmap)
   ---
 
+### webpack 插件 
+- [jarvis - A very intelligent browser based Webpack dashboard/美化监听错误图界面](https://github.com/zouhir/jarvis)
+  
 #### 其他
 - [README文件语法解读](https://github.com/guodongxiaren/README) 
 
