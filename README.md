@@ -16,6 +16,7 @@
 > * [个人常用开发工具](https://github.com/yyman001/web_tools)
 > * [HEAD 能够放在文档的 <head> 中的各种配置元素,mate列表大全](https://github.com/joshbuchea/HEAD) [中文](https://www.awesomes.cn/repo/joshbuchea/head)
 > * [ScriptOJ 是首个 Web 前端开发评测系统](https://scriptoj.com/)
+> * [项目规范-avaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
