@@ -225,6 +225,7 @@ API文档
 - http://www.opendigg.com/tags/front-vue
 - https://github.com/opendigg/awesome-github-vue
 - https://vuejsexamples.com/
+- [Vue.js Script](http://www.vuescript.com/)
 
 >vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
