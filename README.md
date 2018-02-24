@@ -41,6 +41,7 @@
 > * [F2E前端导航](http://fenav.com/#/index)
 
 API文档
+> * [Vue Docs 中文文档翻译合集](https://github.com/vuejs/vue-docs-zh-cn)
 > * [css手册](http://css.doyoe.com/)
 > * [webkitcss 属性查询文档](http://ued.ctrip.com/webkitcss/index.html)
 > * [(英文)css属性详解 -各种参数有demo进行对比](http://cssreference.io)
@@ -127,7 +128,7 @@ API文档
  - [TypeScript 入门教程](https://ts.xcatliu.com/)
  - [TypeScript 官方文档](https://zhongsp.gitbooks.io/typescript-handbook/content/)
  - [第一本 PWA 中文书](https://github.com/SangKa/PWA-Book-CN)
- 
+ - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -568,7 +569,6 @@ API文档
 - [basket.js – 基于 LocalStorage 的资源加载器](https://github.com/addyosmani/basket.js)
 - [imagesLoaded – 检测网页中的图片是否加载完成](https://github.com/desandro/imagesloaded)
 - [layzr.js - git关注蛮高的](http://callmecavs.github.io/layzr.js/) - [github](https://github.com/callmecavs/layzr.js)
-- [imagesLoaded](https://github.com/desandro/imagesloaded)
 - [Echo.js](https://github.com/toddmotto/echo)
 - [lazySizes](https://github.com/aFarkas/lazysizes)
 - [jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
@@ -641,6 +641,7 @@ API文档
 - [onScreen - 滚动加载,滚动固定](http://silvestreh.github.io/onScreen/)
 - [Choreographer.js 多帧动画处理 跟ScrollMagic 类似 ](https://github.com/christinecha/choreographer-js)
 - [moveTo.js 轻量级滚动到指定位置插件](https://github.com/hsnaydd/moveTo)
+- [basicScroll](https://github.com/electerious/basicScroll)
 
 >13.10 滚动加载更多/下拉刷新(Pull to Refresh)
 
@@ -1052,6 +1053,8 @@ API文档
  - [一个绘制制svg图标的集合for react](https://dmfrancisco.github.io/react-icons/)
  - [accounting.js 数字格式化](https://github.com/openexchangerates/accounting.js)
  - [加载动画库 loading.io](https://loading.io/)
+ - [A JavaScript NES emulator/NES 模拟器](https://github.com/bfirsh/jsnes)
+ - [proton-native - A React environment for cross platform native desktop apps](https://github.com/kusti8/proton-native)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
