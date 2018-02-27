@@ -1055,6 +1055,7 @@ API文档
  - [加载动画库 loading.io](https://loading.io/)
  - [A JavaScript NES emulator/NES 模拟器](https://github.com/bfirsh/jsnes)
  - [proton-native - A React environment for cross platform native desktop apps](https://github.com/kusti8/proton-native)
+ - [FRANXX(js路由) - A vanilla JavaScript router that works everywhere](https://github.com/egoist/franxx)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
