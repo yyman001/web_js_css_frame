@@ -959,8 +959,14 @@ API文档
 >32. 布局(Layout)
 
 - 分隔面板(Split Panel)
-  - [split-pane](https://github.com/shagstrom/split-pane)
-
+  - [jQuery Split Pane plugin](https://github.com/shagstrom/split-pane)
+  - [Split.js (推荐)](https://github.com/nathancahill/Split.js)
+  - [React Split Pane](https://github.com/tomkp/react-split-pane)
+  - [Vue Split Pane](https://github.com/PanJiaChen/vue-split-pane)
+  - [Vue Split Pane](https://github.com/dangvanthanh/vue-split-pane)
+  - [vue-resize-split-pane](https://github.com/raven78/vue-resize-split-pane)
+  - [vue-multipane](https://github.com/yansern/vue-multipane)
+  
 >33. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
@@ -993,6 +999,9 @@ API文档
 - [typing.js 华丽的打字效果JS插件](https://github.com/coffeedeveloper/typing.js)
 - [superplaceholder.js 利用文本框的 placeholder 属性，以打字形式展示出自定义的文字，可用于提示。](https://github.com/chinchang/superplaceholder.js)
 - [iTyped.js 实现打字效果](https://github.com/luisvinicius167/ityped)
+
+>34.3 字数统计
+- [Countable.js：这个脚本可以添加实时段落，文字和字符数到一个html元素](http://radlikewhoa.github.io/Countable)
 
 >35. 未知分类
  - [使用 tictac.js 实现倒计时](https://github.com/keenwon/tictac)
