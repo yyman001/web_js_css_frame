@@ -17,6 +17,7 @@
 > * [HEAD 能够放在文档的 <head> 中的各种配置元素,mate列表大全](https://github.com/joshbuchea/HEAD) [中文](https://www.awesomes.cn/repo/joshbuchea/head)
 > * [ScriptOJ 是首个 Web 前端开发评测系统](https://scriptoj.com/)
 > * [项目规范-avaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
+> * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
@@ -771,6 +772,8 @@ API文档
  - [jquery.path 动画路径](https://github.com/weepy/jquery.path)
  - [Vivus.js](http://maxwellito.github.io/vivus/) 是一个轻量级的JavaScript类(完全无依赖) 来允许你创建 SVG 动画，让他们显示被画出来的轨迹。 Vivus提供很多不同种类的动画。 另外还有选项，你可以按你的想法来创建一个定制的脚本来创建你的SVG动画。
  - [mo.js](http://mojs.io/)
+ - [micron.js Micron是一个允许你为DOM元素添加不同的CSS增强动画的库](https://github.com/webkul/micron)
+ - [Direction Reveal （方向展示）](https://github.com/NigelOToole/direction-reveal)
  
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
