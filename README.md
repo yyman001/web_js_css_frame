@@ -803,6 +803,9 @@ API文档
 - [basil.js 是一个 JavaScript 的数据持久化层库,实现了统一的 LocalStorage、Cookie 和 Session 存储。](https://github.com/Wisembly/basil.js)
 - [store.js 公开了一个简单的接口来实现跨浏览器的本地存储。](https://github.com/marcuswestin/store.js)
 
+>17.1 数据库
+- [nedb ](https://github.com/louischatriot/nedb)
+- [lowdb](https://github.com/typicode/lowdb)
 
 >18. 模板引擎
 
@@ -840,7 +843,6 @@ API文档
 - [Ouibounce - 离站提示控件](https://github.com/carlsednaoui/ouibounce)
 - [SweetAlert – 替代 Alert 的漂亮的提示效果](https://github.com/t4t5/sweetalert)
 - [SweetAlert2 - 不知道是不是克隆1的自己搞一个分支](https://github.com/limonte/sweetalert2)
-- [popper.js 纯 JS 写的轻量级位置计算引擎](https://github.com/FezVrasta/popper.js)
 - [Tippy.js A lightweight, pure JavaScript tooltip library 迷你提示框](https://github.com/atomiks/tippyjs)
 - [tata.js 一款提示窗口](https://github.com/xrr2016/tata)
 
