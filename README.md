@@ -247,6 +247,7 @@ API文档
  - [vue-beauty 基于 ant design 的漂亮的 vue 组件库](https://github.com/FE-Driver/vue-beauty)
  
  >vue 其他插件组件
+ - [PortalVue ， anywhere in the document/普通开发使用组件](https://github.com/LinusBorg/portal-vue)
  - [mpvue vue转微信小程序](https://github.com/Meituan-Dianping/mpvue)
  - [vue-axios](https://github.com/imcvampire/vue-axios)
  - [Vue-Lazyload 图片延迟加载](https://github.com/hilongjw/vue-lazyload)
