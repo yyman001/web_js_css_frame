@@ -258,6 +258,7 @@ API文档
  - [Vue-Core-Image-Upload 2.0 一款轻量级图片裁剪上传插件](https://github.com/Vanthink-UED/vue-core-image-upload)
  - [vue-datepicker 日期拾取组件](https://github.com/hsiaosiyuan0/vue-datepicker)
  - [一个生成 svg 图标组件的工具 (vue2.x)](https://github.com/MMF-FE/vue-svgicon)
+ - [vue GUI generator](https://github.com/vuegg/vuegg)
  
  > React 相关
  - [ANT DESIGN](http://ant-design.gitee.io/index-cn)
@@ -487,7 +488,7 @@ API文档
 - [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
 - [FileAPI - 是文件上传（单个/多个）、拖放支持、图像裁剪、大小调整、应用过滤器和获取文件信息](http://mailru.github.io/FileAPI/)
 - [Resumable.JS 通过HTML5API提供了稳定可恢复的多文件上传功能。](http://www.resumablejs.com/)
-
+- [filepond.js - A Flexible and Fun JavaScript File Upload Library](https://github.com/pqina/filepond)
 >10.5 日期选择
 - [超强日历](http://www.my97.net/dp/demo/index.htm)
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
@@ -776,7 +777,7 @@ API文档
  - [mo.js](http://mojs.io/)
  - [micron.js Micron是一个允许你为DOM元素添加不同的CSS增强动画的库](https://github.com/webkul/micron)
  - [Direction Reveal （方向展示）](https://github.com/NigelOToole/direction-reveal)
- 
+ - [Rythm.js 让页面跳舞](https://github.com/Okazari/Rythm.js)
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
  - [CSShake - css抖动库](https://elrumordelaluz.github.io/csshake/) - [github](https://github.com/elrumordelaluz/csshake)
@@ -1072,6 +1073,8 @@ API文档
  - [A JavaScript NES emulator/NES 模拟器](https://github.com/bfirsh/jsnes)
  - [proton-native - A React environment for cross platform native desktop apps](https://github.com/kusti8/proton-native)
  - [FRANXX(js路由) - A vanilla JavaScript router that works everywhere](https://github.com/egoist/franxx)
+ - [driver.js 引导用户页面操作](https://github.com/kamranahmedse/driver.js)
+ 
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
@@ -1083,6 +1086,7 @@ API文档
   - [腾讯 AlloyTeam 正式发布 Canvas 魔幻线条 - curve.js](https://github.com/AlloyTeam/curvejs)
   - [Fanvas 一键把swf转为html5 canvas动画](https://github.com/TencentOpen/Fanvas/)
   - [inMap 是 一款基于 canvas 的大数据可视化库](https://github.com/TalkingData/inmap)
+  - [Rough.js 手绘风格](https://github.com/pshihn/rough)
   ---
 
 ### webpack 插件 
