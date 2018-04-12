@@ -71,6 +71,7 @@ API文档
 > * [Angular 中文文档](https://angular.cn/docs/ts/latest/)
 > * [weex](https://weex.apache.org/cn/references/)
 > * [Electron 中文文档](https://github.com/amhoho/electron-cn-docs)
+> * [SuperAgent中文使用文档](https://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
@@ -1087,6 +1088,7 @@ API文档
   - [Fanvas 一键把swf转为html5 canvas动画](https://github.com/TencentOpen/Fanvas/)
   - [inMap 是 一款基于 canvas 的大数据可视化库](https://github.com/TalkingData/inmap)
   - [Rough.js 手绘风格](https://github.com/pshihn/rough)
+  - [merge-images - canvas简单图片合成 ]()
   ---
 
 ### webpack 插件 
