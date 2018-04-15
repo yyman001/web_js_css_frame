@@ -72,6 +72,7 @@ API文档
 > * [weex](https://weex.apache.org/cn/references/)
 > * [Electron 中文文档](https://github.com/amhoho/electron-cn-docs)
 > * [SuperAgent中文使用文档](https://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
+> * [Flutter中文网](https://flutterchina.club/)
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
@@ -132,6 +133,7 @@ API文档
  - [第一本 PWA 中文书](https://github.com/SangKa/PWA-Book-CN)
  - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 
+ 
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -810,6 +812,9 @@ API文档
 >17.1 数据库
 - [nedb ](https://github.com/louischatriot/nedb)
 - [lowdb](https://github.com/typicode/lowdb)
+- [localForage](https://github.com/localForage/localForage)
+- [Dexie.js](https://github.com/dfahlander/Dexie.js)
+- [ZangoDB](https://github.com/erikolson186/zangodb)
 
 >18. 模板引擎
 
@@ -1075,7 +1080,7 @@ API文档
  - [proton-native - A React environment for cross platform native desktop apps](https://github.com/kusti8/proton-native)
  - [FRANXX(js路由) - A vanilla JavaScript router that works everywhere](https://github.com/egoist/franxx)
  - [driver.js 引导用户页面操作](https://github.com/kamranahmedse/driver.js)
- 
+ - [gitmoji - An emoji guide for your commit messages](https://github.com/carloscuesta/gitmoji/)
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
