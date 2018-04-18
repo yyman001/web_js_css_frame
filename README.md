@@ -725,6 +725,7 @@ API文档
 - [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar)
 - [nanoScrollerJS](https://github.com/jamesflorentino/nanoScrollerJS)
 - [tinyscrollbar](https://github.com/wieringen/tinyscrollbar)
+- [gemini-scrollbar](https://github.com/noeldelgado/gemini-scrollbar)
 
 >13.20 视差滚动(Parallax Scrolling)
 - [MidnightJS 效果很赞](http://aerolab.github.io/midnight.js/)
