@@ -94,6 +94,7 @@ API文档
 
 >学习资料/文章
  - [React 入门教程-中文](https://doc.react-china.org/)
+ - [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
  - [[译]看漫画理解Flux](https://medium.com/@icyfish/%E8%AF%91-%E7%9C%8B%E6%BC%AB%E7%94%BB%E7%90%86%E8%A7%A3flux-4e4aa508eade)
  - [《看漫画，学 Redux》 —— A cartoon intro to Redux](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
  - [什么是正则表达式?](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
@@ -546,6 +547,7 @@ API文档
 
 >12. 日期格式化
 
+- [Day.js 2kB超轻量时间库 和Moment.js一样的API](https://github.com/xx45/dayjs)
 - [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 - [FormatJS – 让你的 Web 应用程序国际化](http://formatjs.io/)
