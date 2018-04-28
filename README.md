@@ -489,7 +489,7 @@ API文档
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 - [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
 - [flow.js](https://github.com/flowjs/flow.js)
-- [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
+- [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG)
 - [FileAPI - 是文件上传（单个/多个）、拖放支持、图像裁剪、大小调整、应用过滤器和获取文件信息](http://mailru.github.io/FileAPI/)
 - [Resumable.JS 通过HTML5API提供了稳定可恢复的多文件上传功能。](http://www.resumablejs.com/)
 - [filepond.js - A Flexible and Fun JavaScript File Upload Library](https://github.com/pqina/filepond)
@@ -616,6 +616,12 @@ API文档
 - [Picturefill - 一个响应式图片 JS 插件 (Scott Jehl) ](http://scottjehl.github.io/picturefill/)
 - [jQuery picZoomer - 图片区域放大](http://www.jqueryscript.net/zoom/jQuery-Plugin-For-Image-Zoom-On-Hover-picZoomer.html)
 - [watermark.js 为图片添加水印](http://brianium.github.io/watermarkjs/)
+- [image-compressor 图片压缩](https://github.com/xkeshi/image-compressor)
+
+>13.6 图片放大镜
+- [EasyZoom for jQuery](https://github.com/i-like-robots/EasyZoom)
+- [ZooMove for jQuery](https://github.com/thompsonemerson/zoomove)
+- [Magnifier.js](https://github.com/mark-rolich/Magnifier.js)
 
 >13.6 进度条/加载动画(Loading)
 - [CSS Loader 是一个非常有用加载器。它允许开发人员利用纯 CSS 文件，以及一个空<div>元素便可以快速的创建加载指示器。](https://github.com/raphaelfabeni/css-loader)
@@ -712,6 +718,7 @@ API文档
 
 - [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
 - [jquery.event.move.js](https://github.com/stephband/jquery.event.move)
+- [ScrollBooster 轻量级拖拽滚动](https://github.com/ilyashubin/scrollbooster)
 
 >13.18 隐藏或展示页面元素
 
@@ -1096,7 +1103,7 @@ API文档
   - [Fanvas 一键把swf转为html5 canvas动画](https://github.com/TencentOpen/Fanvas/)
   - [inMap 是 一款基于 canvas 的大数据可视化库](https://github.com/TalkingData/inmap)
   - [Rough.js 手绘风格](https://github.com/pshihn/rough)
-  - [merge-images - canvas简单图片合成 ]()
+  - [merge-images - canvas简单图片合成 ](https://github.com/lukechilds/merge-images)
   ---
 
 ### webpack 插件 
