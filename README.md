@@ -8,7 +8,7 @@
 
 
 推荐
-> * [bird.so 用不了谷歌搜索可以用这个](http://bird.so/)
+> * [bird.so 用不了谷歌搜索可以用这个](http://caup.cn/)
 > * [公众账号推荐](https://github.com/jaywcjlove/handbook/blob/master/other/%E5%85%AC%E4%BC%97%E8%B4%A6%E5%8F%B7%E6%8E%A8%E8%8D%90.md)
 > * [掘金](https://gold.xitu.io/)
 > * [Easy Mock 模拟数据](https://www.easy-mock.com/)
@@ -71,9 +71,8 @@ API文档
 > * [Angular 中文文档](https://angular.cn/docs/ts/latest/)
 > * [weex](https://weex.apache.org/cn/references/)
 > * [Electron 中文文档](https://github.com/amhoho/electron-cn-docs)
-> * [SuperAgent 中文使用文档](https://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
-> * [Flutter 中文网](https://flutterchina.club/)
-> * [Flow 中文网](https://zhenyong.github.io/flowtype/)
+> * [SuperAgent中文使用文档](https://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
+> * [Flutter中文网](https://flutterchina.club/)
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
@@ -134,7 +133,7 @@ API文档
  - [TypeScript 官方文档](https://zhongsp.gitbooks.io/typescript-handbook/content/)
  - [第一本 PWA 中文书](https://github.com/SangKa/PWA-Book-CN)
  - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
- 
+
  
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
