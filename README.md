@@ -15,7 +15,7 @@
 > * [JavaScript错误监测](https://fundebug.com/)
 > * [个人常用开发工具](https://github.com/yyman001/web_tools)
 > * [HEAD 能够放在文档的 <head> 中的各种配置元素,mate列表大全](https://github.com/joshbuchea/HEAD) [中文](https://www.awesomes.cn/repo/joshbuchea/head)
-> * [ScriptOJ 是首个 Web 前端开发评测系统](https://scriptoj.com/)
+> * [ScriptOJ 是首个 Web 前端开发评测系统](http://scriptoj.mangojuice.top/)
 > * [项目规范-avaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 > * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
@@ -1091,6 +1091,8 @@ API文档
  - [FRANXX(js路由) - A vanilla JavaScript router that works everywhere](https://github.com/egoist/franxx)
  - [driver.js 引导用户页面操作](https://github.com/kamranahmedse/driver.js)
  - [gitmoji - An emoji guide for your commit messages](https://github.com/carloscuesta/gitmoji/)
+ - [pico.js: a face-detection library in 200 lines of JavaScript- 人脸识别](https://github.com/tehnokv/picojs)
+ 
  
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
