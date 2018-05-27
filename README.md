@@ -133,7 +133,7 @@ API文档
  - [TypeScript 官方文档](https://zhongsp.gitbooks.io/typescript-handbook/content/)
  - [第一本 PWA 中文书](https://github.com/SangKa/PWA-Book-CN)
  - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
-
+ - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
  
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
