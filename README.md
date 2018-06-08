@@ -553,6 +553,7 @@ API文档
 >12. 日期格式化
 
 - [Day.js 2kB超轻量时间库 和Moment.js一样的API](https://github.com/xx45/dayjs)
+- [Miment.js 轻量级的时间库](https://github.com/noahlam/Miment/blob/master/README-cn.md)
 - [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 - [FormatJS – 让你的 Web 应用程序国际化](http://formatjs.io/)
