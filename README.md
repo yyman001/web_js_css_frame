@@ -94,6 +94,7 @@ API文档
 - [LAVAS 基于 Vue.js 的 PWA 解决方案 帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题](https://lavas.baidu.com/?qq-pf-to=pcqq.group)
 
 >学习资料/文章
+ - [面向对象的JavaScript编程：原理与实践](https://github.com/haitaoxin/jsoo)
  - [React 入门教程-中文](https://doc.react-china.org/)
  - [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
  - [[译]看漫画理解Flux](https://medium.com/@icyfish/%E8%AF%91-%E7%9C%8B%E6%BC%AB%E7%94%BB%E7%90%86%E8%A7%A3flux-4e4aa508eade)
