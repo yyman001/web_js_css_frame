@@ -18,6 +18,7 @@
 > * [ScriptOJ 是首个 Web 前端开发评测系统](http://scriptoj.mangojuice.top/)
 > * [项目规范-avaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 > * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+> * [Zan Proxy - 本地代码调试线上页面，环境再也不是问题](https://github.com/youzan/zan-proxy)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
