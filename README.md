@@ -26,6 +26,7 @@
 > * [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
 > * [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 > * [Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md)
+> * [CSS 创作指南（Beta）](https://github.com/cssdream/css-creating)
 
 前端库搜索
 > * [玩林-前端框架搜索](http://www.iwan0.com/)
