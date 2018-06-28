@@ -20,6 +20,7 @@
 > * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 > * [Zan Proxy - 本地代码调试线上页面，环境再也不是问题](https://github.com/youzan/zan-proxy)
 
+
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
 > * [vue 风格指南 (beta)](https://cn.vuejs.org/v2/style-guide/)
@@ -27,6 +28,10 @@
 > * [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 > * [Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md)
 > * [CSS 创作指南（Beta）](https://github.com/cssdream/css-creating)
+> * [JavaScript Standard Style ](https://github.com/standard/standard/blob/master/docs/README-zhtw.md)
+> * [AlloyTeam代码规范](https://github.com/AlloyTeam/CodeGuide)
+> * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+> * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 
 前端库搜索
 > * [玩林-前端框架搜索](http://www.iwan0.com/)
@@ -76,6 +81,8 @@ API文档
 > * [Electron 中文文档](https://github.com/amhoho/electron-cn-docs)
 > * [SuperAgent中文使用文档](https://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
 > * [Flutter中文网](https://flutterchina.club/)
+> * [Linux 命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
+> * [Koa 的中文文档](https://github.com/guo-yu/koa-guide)
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
@@ -96,6 +103,7 @@ API文档
 - [LAVAS 基于 Vue.js 的 PWA 解决方案 帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题](https://lavas.baidu.com/?qq-pf-to=pcqq.group)
 
 >学习资料/文章
+ - [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
  - [面向对象的JavaScript编程：原理与实践](https://github.com/haitaoxin/jsoo)
  - [React 入门教程-中文](https://doc.react-china.org/)
  - [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
@@ -138,6 +146,10 @@ API文档
  - [第一本 PWA 中文书](https://github.com/SangKa/PWA-Book-CN)
  - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
  - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+ - [《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
+ - [learnVue - Vue.js源码分析](https://github.com/answershuto/learnVue)
+ - [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
+ 
  
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -145,13 +157,20 @@ API文档
  - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
  - [git资料](https://github.com/xirong/my-git)
  - [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
- 
- 
+ - [运维实践指南](https://github.com/meetbill/op_practice_book)
+ - [《微服务：从设计到部署》](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)
+ - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+  
  >一些社区
  - [Stack Overflow：Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。](http://stackoverflow.com/)
  - [segmentfault：是中国领先的开发者技术社区。](https://segmentfault.com/)
  
 >系列文章
+ - [《深入理解Node.js：核心思想与源码分析》](https://github.com/yjhjstz/deep-into-node)
+ - [性能专栏](https://github.com/barretlee/performance-column)
+ - [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
+ - [Nginx开发从入门到精通](https://github.com/taobao/nginx-book)
+ - [React Cookbook](https://github.com/shimohq/react-cookbook)
  - [React.js 小书](http://huziketang.com/books/react/lesson1)
  - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
  - [React-Native学习指南](https://github.com/ele828/react-native-guide)
@@ -173,6 +192,10 @@ API文档
  - [Must-Watch JavaScript 需要翻墙](https://github.com/AllThingsSmitty/must-watch-javascript)
  - [Must-Watch CSS 需要翻墙](https://github.com/AllThingsSmitty/must-watch-css)
  - [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
+ - [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
+ - [如何提高英语技能](https://github.com/byoungd/english-level-up-tips-for-Chinese)
+ - [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
+ - [《JavaScript 闯关记》](https://github.com/stone0090/javascript-lessons)
  
 ----
 >其他工具
@@ -208,6 +231,7 @@ API文档
  - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
  - [ELF 灵活可扩展的HTML5 构建工具](https://elf.aotu.io/)
  - [让小程序支持组件化开发的框架-类型vue组件开发](https://github.com/Tencent/wepy)
+ 
  
 > js插件网站
  - [Unheap](http://www.unheap.com/)
