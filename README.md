@@ -162,6 +162,7 @@ API文档
  - [运维实践指南](https://github.com/meetbill/op_practice_book)
  - [《微服务：从设计到部署》](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)
  - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+ - [【编程随想】收藏的电子书清单](https://github.com/programthink/books) 
   
  >一些社区
  - [Stack Overflow：Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。](http://stackoverflow.com/)
