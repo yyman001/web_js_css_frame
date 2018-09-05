@@ -151,7 +151,7 @@ API文档
  - [《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
  - [learnVue - Vue.js源码分析](https://github.com/answershuto/learnVue)
  - [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
- 
+ - [全栈工程师之路-Node.js](https://i5ting.github.io/nodejs-fullstack/)
  
 >书籍资料
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
