@@ -108,6 +108,7 @@ API文档
  - [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
  - [面向对象的JavaScript编程：原理与实践](https://github.com/haitaoxin/jsoo)
  - [React 入门教程-中文](https://doc.react-china.org/)
+ - [React Bits - 有关React，你需要知道的一切](https://github.com/hateonion/react-bits-CN)
  - [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
  - [[译]看漫画理解Flux](https://medium.com/@icyfish/%E8%AF%91-%E7%9C%8B%E6%BC%AB%E7%94%BB%E7%90%86%E8%A7%A3flux-4e4aa508eade)
  - [《看漫画，学 Redux》 —— A cartoon intro to Redux](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
