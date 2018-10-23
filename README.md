@@ -24,7 +24,7 @@
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
-> * [vue 风格指南 (beta)](https://cn.vuejs.org/v2/style-guide/)
+> * [vue 风格指南](https://cn.vuejs.org/v2/style-guide/)
 > * [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
 > * [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 > * [Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md)
@@ -106,6 +106,7 @@ API文档
 - [LAVAS 基于 Vue.js 的 PWA 解决方案 帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题](https://lavas.baidu.com/?qq-pf-to=pcqq.group)
 
 >学习资料/文章
+ - [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
  - [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS)
  - [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
  - [面向对象的JavaScript编程：原理与实践](https://github.com/haitaoxin/jsoo)
@@ -185,7 +186,7 @@ API文档
  - [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
  - [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
  - [JavaScript模式集合](http://shichuan.github.io/javascript-patterns/)
- - [深入理解JavaScripts设计模式系列：](http://bbs.html5cn.org/forum.php?mod=viewthread&tid=3335)
+ - [深入理解JavaScripts设计模式系列：](http://wiki.jikexueyuan.com/project/javascript-depth-understanding/model-design-one.html)
  - [设计模式总结,非js](http://www.cnblogs.com/chenssy/p/3357683.html)
  - [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
  - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/5.2)
