@@ -86,6 +86,7 @@ API文档
 > * [Koa 的中文文档](https://github.com/guo-yu/koa-guide)
 > * [CSS 种植手册](http://csscode.itcast.cn/#/README)
 > * [Jest 测试单元文档](https://jestjs.io/zh-Hans/)
+> * [three.js 中文手册](https://threejs.org/docs/)
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
