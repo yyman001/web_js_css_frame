@@ -20,7 +20,7 @@
 > * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 > * [Zan Proxy - 本地代码调试线上页面，环境再也不是问题](https://github.com/youzan/zan-proxy)
 > * [最全前端资源汇集](https://jeffjade.com/2016/03/30/104-front-end-tutorial/)
-
+> * [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
