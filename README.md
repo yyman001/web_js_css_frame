@@ -306,12 +306,17 @@ API文档
  - [reactSPA](https://github.com/JasonBai007/reactSPA)
  - [ReCharts 是一个 React 图表组件库](http://recharts.org/#/en-US/)
  - [React-Bootstrap](https://react-bootstrap.github.io/)
+ - [anu.js 是一个高级兼容React16的迷你React 框架](https://rubylouvre.github.io/anu/ch/index.html)
  
  > Weex 
  - [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
  
  > Node
  - [egg.js ](https://github.com/eggjs/egg)
+ 
+ > 小程序相关
+ - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
+ 
  
 >0. 前端自动化(Workflow)
 - 依赖安装
