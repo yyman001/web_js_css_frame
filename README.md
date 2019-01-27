@@ -317,6 +317,9 @@ API文档
  > 小程序相关
  - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
  
+ > Nginx
+ - [Nginx 入门教程](https://github.com/xuexb/learn-nginx)
+ 
  
 >0. 前端自动化(Workflow)
 - 依赖安装
