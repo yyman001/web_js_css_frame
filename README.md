@@ -8,6 +8,8 @@
 
 
 推荐
+> * [渗透攻击10年系列](https://github.com/Micropoor/Micro8)
+> * [阮一峰每周分享摘录](https://wanmaoor.github.io/ryfWeekly/)
 > * [bird.so 用不了谷歌搜索可以用这个](http://caup.cn/)
 > * [公众账号推荐](https://github.com/jaywcjlove/handbook/blob/master/other/%E5%85%AC%E4%BC%97%E8%B4%A6%E5%8F%B7%E6%8E%A8%E8%8D%90.md)
 > * [掘金](https://gold.xitu.io/)
@@ -21,6 +23,7 @@
 > * [Zan Proxy - 本地代码调试线上页面，环境再也不是问题](https://github.com/youzan/zan-proxy)
 > * [最全前端资源汇集](https://jeffjade.com/2016/03/30/104-front-end-tutorial/)
 > * [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
+> * [看图学算法](https://github.com/MisterBooo/LeetCodeAnimation)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
