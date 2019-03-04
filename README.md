@@ -24,6 +24,8 @@
 > * [最全前端资源汇集](https://jeffjade.com/2016/03/30/104-front-end-tutorial/)
 > * [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
 > * [看图学算法](https://github.com/MisterBooo/LeetCodeAnimation)
+> * [OI-wiki 编程竞赛相关知识教程](https://github.com/24OI/OI-WIKI)
+
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
@@ -163,6 +165,7 @@ API文档
  - [全栈工程师之路-Node.js](https://i5ting.github.io/nodejs-fullstack/)
  
 >书籍资料
+ - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
  - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
@@ -243,6 +246,7 @@ API文档
  - [网站视频/音乐 扒神器](https://github.com/soimort/you-get)
  - [ELF 灵活可扩展的HTML5 构建工具](https://elf.aotu.io/)
  - [让小程序支持组件化开发的框架-类型vue组件开发](https://github.com/Tencent/wepy)
+ - [APIJSON - API 服务的框架 ](https://github.com/TommyLemon/APIJSON)
  
  
 > js插件网站
