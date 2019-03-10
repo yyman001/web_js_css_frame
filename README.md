@@ -25,6 +25,7 @@
 > * [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
 > * [看图学算法](https://github.com/MisterBooo/LeetCodeAnimation)
 > * [OI-wiki 编程竞赛相关知识教程](https://github.com/24OI/OI-WIKI)
+> * [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
 
 
 编码规范
