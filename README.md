@@ -113,6 +113,8 @@ API文档
 - [LAVAS 基于 Vue.js 的 PWA 解决方案 帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题](https://lavas.baidu.com/?qq-pf-to=pcqq.group)
 
 >学习资料/文章
+ - [ChromeAppHeroes - Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~](https://github.com/zhaoolee/ChromeAppHeroes)
+ - [数据结构和算法动态可视化](https://visualgo.net/zh)
  - [git可视化教程，通俗易懂](https://learngitbranching.js.org/?demo)
  - [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
  - [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS)
