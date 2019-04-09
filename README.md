@@ -93,6 +93,8 @@ API文档
 > * [CSS 种植手册](http://csscode.itcast.cn/#/README)
 > * [Jest 测试单元文档](https://jestjs.io/zh-Hans/)
 > * [three.js 中文手册](https://threejs.org/docs/)
+> * [Nest.js 中文教程](https://docs.nestjs.cn/6/introduction)
+
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
@@ -250,7 +252,7 @@ API文档
  - [ELF 灵活可扩展的HTML5 构建工具](https://elf.aotu.io/)
  - [让小程序支持组件化开发的框架-类型vue组件开发](https://github.com/Tencent/wepy)
  - [APIJSON - API 服务的框架 ](https://github.com/TommyLemon/APIJSON)
- 
+ - [sentry-javascript - Official Sentry SDKs for Javascript 错误日志打点统计](https://github.com/getsentry/sentry-javascript)
  
 > js插件网站
  - [Unheap](http://www.unheap.com/)
@@ -323,6 +325,7 @@ API文档
  
  > Node
  - [egg.js ](https://github.com/eggjs/egg)
+ - [Nest 是一个用于构建高效，可扩展的 Node.js 服务器端应用程序的框架。](https://github.com/nestjs/nest)
  
  > 小程序相关
  - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
