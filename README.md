@@ -168,6 +168,7 @@ API文档
  - [learnVue - Vue.js源码分析](https://github.com/answershuto/learnVue)
  - [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
  - [全栈工程师之路-Node.js](https://i5ting.github.io/nodejs-fullstack/)
+ - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
  
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
