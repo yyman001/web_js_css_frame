@@ -27,6 +27,8 @@
 > * [OI-wiki 编程竞赛相关知识教程](https://github.com/24OI/OI-WIKI)
 > * [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
 
+周刊
+> * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
@@ -965,6 +967,7 @@ API文档
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 
 >25. 音频/视频
+- [A HTML5 video player with a parser that saves traffic 西瓜播放器](https://github.com/bytedance/xgplayer)
 - [Chimee 组件化H5播放器框架-mp4、m3u8、flv ](http://chimee.org/)
 - [pizzicato.js](https://github.com/alemangui/pizzicato)
 - [webaudiox.js](https://github.com/jeromeetienne/webaudiox)
