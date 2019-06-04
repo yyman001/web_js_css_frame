@@ -29,6 +29,7 @@
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
+> * [前端精读周刊](https://github.com/dt-fe/weekly)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
