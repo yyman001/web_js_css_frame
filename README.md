@@ -26,6 +26,7 @@
 > * [看图学算法](https://github.com/MisterBooo/LeetCodeAnimation)
 > * [OI-wiki 编程竞赛相关知识教程](https://github.com/24OI/OI-WIKI)
 > * [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
+> * [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
