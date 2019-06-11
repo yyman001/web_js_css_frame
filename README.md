@@ -185,6 +185,7 @@ API文档
  - [《微服务：从设计到部署》](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)
  - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
  - [【编程随想】收藏的电子书清单](https://github.com/programthink/books) 
+ - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
   
  >一些社区
  - [Stack Overflow：Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。](http://stackoverflow.com/)
