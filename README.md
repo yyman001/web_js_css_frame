@@ -27,10 +27,12 @@
 > * [OI-wiki 编程竞赛相关知识教程](https://github.com/24OI/OI-WIKI)
 > * [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
 > * [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)
+> * [Algorithm Visualizer 算法展示](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
 > * [前端精读周刊](https://github.com/dt-fe/weekly)
+> * [《阿里云前端技术周刊》](https://github.com/aliyunfe/weekly)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
@@ -222,6 +224,7 @@ API文档
  - [如何提高英语技能](https://github.com/byoungd/english-level-up-tips-for-Chinese)
  - [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
  - [《JavaScript 闯关记》](https://github.com/stone0090/javascript-lessons)
+ - [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
  
 ----
 >其他工具
