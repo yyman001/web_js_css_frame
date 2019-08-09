@@ -99,6 +99,7 @@ API文档
 > * [CSS 种植手册](http://csscode.itcast.cn/#/README)
 > * [Jest 测试单元文档](https://jestjs.io/zh-Hans/)
 > * [three.js 中文手册](https://threejs.org/docs/)
+> * [three.js 部分中文教程](https://threejsfundamentals.org/threejs/lessons/zh_cn/)
 > * [Nest.js 中文教程](https://docs.nestjs.cn/6/introduction)
 
 
