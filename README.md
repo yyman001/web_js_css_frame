@@ -177,6 +177,7 @@ API文档
  - [全栈工程师之路-Node.js](https://i5ting.github.io/nodejs-fullstack/)
  - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
  - [css-gif 一个动图，一个CSS知识点](https://github.com/qdlaoyao/css-gif)
+ - [《Flutter 实战》](https://book.flutterchina.club/)
  
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
