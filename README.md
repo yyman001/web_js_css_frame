@@ -265,6 +265,7 @@ API文档
  - [让小程序支持组件化开发的框架-类型vue组件开发](https://github.com/Tencent/wepy)
  - [APIJSON - API 服务的框架 ](https://github.com/TommyLemon/APIJSON)
  - [sentry-javascript - Official Sentry SDKs for Javascript 错误日志打点统计](https://github.com/getsentry/sentry-javascript)
+ - [GitHub issues 备份工具](https://github.com/gissue/gissue.github.io/)
  
 > js插件网站
  - [Unheap](http://www.unheap.com/)
