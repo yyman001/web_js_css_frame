@@ -622,6 +622,7 @@ API文档
 - [Sigma是一个专用于图形绘制的JavaScript库。](https://github.com/jacomyal/sigma.js)
 - [GraphicsJS ，一个轻量级的前端图形库 支持ie6](http://www.graphicsjs.org/)
 - [强大的矢量图形库：Raphael JS ](https://github.com/DmitryBaranovskiy/raphael/) http://www.jianshu.com/p/81c3fc5287d1
+- [chart.xkcd - xkcd 风格(手绘风格)的图表库](https://github.com/timqian/chart.xkcd)
 
 >12. 日期格式化
 
@@ -870,6 +871,8 @@ API文档
  - [micron.js Micron是一个允许你为DOM元素添加不同的CSS增强动画的库](https://github.com/webkul/micron)
  - [Direction Reveal （方向展示）](https://github.com/NigelOToole/direction-reveal)
  - [Rythm.js 让页面跳舞](https://github.com/Okazari/Rythm.js)
+ - [一个 JavaScript 的 3D 设计和动画制作库](https://github.com/metafizzy/zdog)
+ 
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
  - [CSShake - css抖动库](https://elrumordelaluz.github.io/csshake/) - [github](https://github.com/elrumordelaluz/csshake)
