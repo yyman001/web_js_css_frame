@@ -178,6 +178,7 @@ API文档
  - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
  - [css-gif 一个动图，一个CSS知识点](https://github.com/qdlaoyao/css-gif)
  - [《Flutter 实战》](https://book.flutterchina.club/)
+ - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
  
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
