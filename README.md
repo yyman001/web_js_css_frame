@@ -100,6 +100,7 @@ API文档
 > * [CSS 种植手册](http://csscode.itcast.cn/#/README)
 > * [Jest 测试单元文档](https://jestjs.io/zh-Hans/)
 > * [three.js 中文手册](https://threejs.org/docs/)
+> * [three.js 部分中文教程](https://threejsfundamentals.org/threejs/lessons/zh_cn/)
 > * [Nest.js 中文教程](https://docs.nestjs.cn/6/introduction)
 
 
@@ -176,6 +177,9 @@ API文档
  - [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
  - [全栈工程师之路-Node.js](https://i5ting.github.io/nodejs-fullstack/)
  - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+ - [css-gif 一个动图，一个CSS知识点](https://github.com/qdlaoyao/css-gif)
+ - [《Flutter 实战》](https://book.flutterchina.club/)
+ - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
  
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
@@ -263,6 +267,7 @@ API文档
  - [让小程序支持组件化开发的框架-类型vue组件开发](https://github.com/Tencent/wepy)
  - [APIJSON - API 服务的框架 ](https://github.com/TommyLemon/APIJSON)
  - [sentry-javascript - Official Sentry SDKs for Javascript 错误日志打点统计](https://github.com/getsentry/sentry-javascript)
+ - [GitHub issues 备份工具](https://github.com/gissue/gissue.github.io/)
  
 > js插件网站
  - [Unheap](http://www.unheap.com/)
@@ -619,6 +624,7 @@ API文档
 - [Sigma是一个专用于图形绘制的JavaScript库。](https://github.com/jacomyal/sigma.js)
 - [GraphicsJS ，一个轻量级的前端图形库 支持ie6](http://www.graphicsjs.org/)
 - [强大的矢量图形库：Raphael JS ](https://github.com/DmitryBaranovskiy/raphael/) http://www.jianshu.com/p/81c3fc5287d1
+- [chart.xkcd - xkcd 风格(手绘风格)的图表库](https://github.com/timqian/chart.xkcd)
 
 >12. 日期格式化
 
@@ -867,6 +873,8 @@ API文档
  - [micron.js Micron是一个允许你为DOM元素添加不同的CSS增强动画的库](https://github.com/webkul/micron)
  - [Direction Reveal （方向展示）](https://github.com/NigelOToole/direction-reveal)
  - [Rythm.js 让页面跳舞](https://github.com/Okazari/Rythm.js)
+ - [一个 JavaScript 的 3D 设计和动画制作库](https://github.com/metafizzy/zdog)
+ 
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
  - [CSShake - css抖动库](https://elrumordelaluz.github.io/csshake/) - [github](https://github.com/elrumordelaluz/csshake)
