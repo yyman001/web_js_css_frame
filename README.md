@@ -99,6 +99,7 @@ API文档
 > * [CSS 种植手册](http://csscode.itcast.cn/#/README)
 > * [Jest 测试单元文档](https://jestjs.io/zh-Hans/)
 > * [three.js 中文手册](https://threejs.org/docs/)
+> * [Three.js 中文教程] (https://techbrood.com/threejs/docs/)
 > * [three.js 部分中文教程](https://threejsfundamentals.org/threejs/lessons/zh_cn/)
 > * [Nest.js 中文教程](https://docs.nestjs.cn/6/introduction)
 
@@ -122,6 +123,7 @@ API文档
 - [LAVAS 基于 Vue.js 的 PWA 解决方案 帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题](https://lavas.baidu.com/?qq-pf-to=pcqq.group)
 
 >学习资料/文章
+ - [深入理解 TypeScript](https://github.com/jkchao/typescript-book-chinese)
  - [ChromeAppHeroes - Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~](https://github.com/zhaoolee/ChromeAppHeroes)
  - [数据结构和算法动态可视化](https://visualgo.net/zh)
  - [git可视化教程，通俗易懂](https://learngitbranching.js.org/?demo)
@@ -1094,7 +1096,7 @@ API文档
 - [SpaceBase – 基于 Sass 的响应式 CSS 框架](http://spacebase.space150.com/) - [github](https://github.com/space150/spaceBase)
 - [breakpoint-sass 媒体查询库](http://breakpoint-sass.com/)
 - [@include-media diy媒体查询库](http://include-media.com/)
-- [sass-mediaqueries 媒体查询库-推荐](https://github.com/paranoida/sass-mediaqueries) -[demo](http://paranoida.github.io/sass-mediaqueries/demo.html)
+- [sass-mediaqueries 媒体查询库-推荐](https://github.com/paranoida/sass-mediaqueries)
 - [sass-mq Media Queries with superpowers-em单位媒体查询库](https://github.com/sass-mq/sass-mq) 
 - [sass-svg 一个内联 SVG 的 SASS 库](https://github.com/leeenx/sass-svg)
 
