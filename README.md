@@ -124,6 +124,8 @@ API文档
 - [LAVAS 基于 Vue.js 的 PWA 解决方案 帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题](https://lavas.baidu.com/?qq-pf-to=pcqq.group)
 
 >学习资料/文章
+ - [Node.js 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
+ - [从零开始学 Web 前端系列教程。前端零基础自学入门进阶图文教程。](https://github.com/Daotin/web)
  - [深入理解 TypeScript](https://github.com/jkchao/typescript-book-chinese)
  - [ChromeAppHeroes - Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~](https://github.com/zhaoolee/ChromeAppHeroes)
  - [数据结构和算法动态可视化](https://visualgo.net/zh)
