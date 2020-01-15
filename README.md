@@ -45,6 +45,7 @@
 > * [AlloyTeam代码规范](https://github.com/AlloyTeam/CodeGuide)
 > * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 > * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+> * [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
 
 前端库搜索
 > * [玩林-前端框架搜索](http://www.iwan0.com/)
