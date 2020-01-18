@@ -124,13 +124,24 @@ API文档
 - [视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
 - [LAVAS 基于 Vue.js 的 PWA 解决方案 帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题](https://lavas.baidu.com/?qq-pf-to=pcqq.group)
 
->学习资料/文章
+## 学习资料/文章
+### Git
+ - [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/intro/intro1_1.html)
+ - [Git可视化教程，通俗易懂](https://learngitbranching.js.org/?demo)
+ - [Github使用指南-从新手到专家 ](http://www.cnblogs.com/xirongliu/p/4589834.html)
+ - [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
+ - [Git 学习目录 wiki](https://github.com/geeeeeeeeek/git-recipes/wiki)
+ - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+ - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+ - [git资料](https://github.com/xirong/my-git)
+
+### 其他
  - [Node.js 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
  - [从零开始学 Web 前端系列教程。前端零基础自学入门进阶图文教程。](https://github.com/Daotin/web)
  - [深入理解 TypeScript](https://github.com/jkchao/typescript-book-chinese)
  - [ChromeAppHeroes - Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~](https://github.com/zhaoolee/ChromeAppHeroes)
  - [数据结构和算法动态可视化](https://visualgo.net/zh)
- - [git可视化教程，通俗易懂](https://learngitbranching.js.org/?demo)
+
  - [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
  - [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS)
  - [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
@@ -146,8 +157,7 @@ API文档
  - [渲染性能](https://github.com/sundway/blog/issues/2)
  - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
  - [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
- - [Github使用指南-从新手到专家 ](http://www.cnblogs.com/xirongliu/p/4589834.html)
- - [Git 学习目录](https://github.com/geeeeeeeeek/git-recipes/wiki)
+
  - [node.js中文资料导航](https://github.com/youyudehexie/node123)
  - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
  - [AngularJS ,一些关于 AngularJS 的博客，文章，视频，书籍等](https://github.com/justjavac/AngularJS-Learning-zh_CN)
@@ -158,7 +168,6 @@ API文档
  - [一家伙（s5s5）学习css3动画的心得](https://github.com/s5s5/CSS-Animations)
  - [让WEB前端的变优雅的东东，如：代码规范，代码组织，最佳实践之类](https://github.com/iamjoel/be-grace-front-end-developer)
  - [前端工具推荐](https://github.com/codylindley/frontend-tools)
- - [设计规范 -强烈推荐看](http://shengxi.sinaapp.com/WS/content.html) 链接失效
  - [腾讯团队web移动文章](http://tgideas.qq.com/)
  - [视觉设计师是怎样让前端工程师 100% 实现设计效果的？](http://www.zhihu.com/question/27743708answer-17103050)
  - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
@@ -181,7 +190,6 @@ API文档
  - [learnVue - Vue.js源码分析](https://github.com/answershuto/learnVue)
  - [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
  - [全栈工程师之路-Node.js](https://i5ting.github.io/nodejs-fullstack/)
- - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
  - [css-gif 一个动图，一个CSS知识点](https://github.com/qdlaoyao/css-gif)
  - [《Flutter 实战》](https://book.flutterchina.club/)
  - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
@@ -191,19 +199,18 @@ API文档
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
  - [免费编程书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
  - [码农周刊整理-推荐关注](https://github.com/nemoTyrant/manong)
- - [git资料](https://github.com/xirong/my-git)
- - [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
+
  - [运维实践指南](https://github.com/meetbill/op_practice_book)
  - [《微服务：从设计到部署》](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)
- - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+
  - [【编程随想】收藏的电子书清单](https://github.com/programthink/books) 
  - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
   
- >一些社区
+ ### 一些社区
  - [Stack Overflow：Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。](http://stackoverflow.com/)
  - [segmentfault：是中国领先的开发者技术社区。](https://segmentfault.com/)
  
->系列文章
+## 系列文章
  - [《深入理解Node.js：核心思想与源码分析》](https://github.com/yjhjstz/deep-into-node)
  - [性能专栏](https://github.com/barretlee/performance-column)
  - [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
@@ -237,7 +244,7 @@ API文档
  - [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
  
 ----
->其他工具
+## 其他工具
  - [flexbox在线制作器](http://the-echoplex.net/flexyboxes/) 
  - [SPARK动画平台 这是我们组做的一个动画效果平台，里面集合了所有的牛逼动画，可以让你灵感猛增！（目前已开放外网使用）](https://tonytony.club/spark/)
  - [OneDiv 这是个神奇的网站，里面的所有细节都是用一个div元素通过复杂的Css3实现的，有空可以去开开脑洞噢](http://a.singlediv.com/)
@@ -274,7 +281,7 @@ API文档
  - [sentry-javascript - Official Sentry SDKs for Javascript 错误日志打点统计](https://github.com/getsentry/sentry-javascript)
  - [GitHub issues 备份工具](https://github.com/gissue/gissue.github.io/)
  
-> js插件网站
+##  js插件网站
  - [Unheap](http://www.unheap.com/)
  - [jquer.in](http://jquer.in/)
  - [OpenLib--http://www.open-lib.com/](http://www.open-lib.com/)
@@ -288,22 +295,22 @@ API文档
 前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
->手势库
+## 手势库
  - [TouchSwipe ](http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html)
 
->vue专题
+## vue专题
 - [awesomes vue 各种组件](https://www.awesomes.cn/subject/vue)
 - [『收藏』VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
 - [cooking更易上手的前端构建工具 for vue](http://elemefe.github.io/cooking/)
 - [一个记录使用了vue技术的网站列表-made with vue.js](https://madewithvuejs.com/)
 
->Vue相关开源项目库汇总 
+## Vue相关开源项目库汇总 
 - http://www.opendigg.com/tags/front-vue
 - https://github.com/opendigg/awesome-github-vue
 - https://vuejsexamples.com/
 - [Vue.js Script](http://www.vuescript.com/)
 
->vue ui组件库
+## vue ui组件库
  - [vue.js ie9+](http://cn.vuejs.org/)
  - [滴滴 Web 移动端组件库 cube-ui](https://github.com/didi/cube-ui)
  - [AT UI 由阿里通信技术团队打造基于Vue的Web组件库](http://aliqin.github.io/docs/atui/introduce)
@@ -319,7 +326,7 @@ API文档
  - [vant 有赞开发的基于 Vue.js 2.0 的 UI 组件库](https://github.com/youzan/vant)
  - [vue-beauty 基于 ant design 的漂亮的 vue 组件库](https://github.com/FE-Driver/vue-beauty)
  
- >vue 其他插件组件
+ ## vue 其他插件组件
  - [PortalVue ， anywhere in the document/普通开发使用组件](https://github.com/LinusBorg/portal-vue)
  - [mpvue vue转微信小程序](https://github.com/Meituan-Dianping/mpvue)
  - [vue-axios](https://github.com/imcvampire/vue-axios)
@@ -333,24 +340,24 @@ API文档
  - [一个生成 svg 图标组件的工具 (vue2.x)](https://github.com/MMF-FE/vue-svgicon)
  - [vue GUI generator](https://github.com/vuegg/vuegg)
  
- > React 相关
+ ##  React 相关
  - [ANT DESIGN](http://ant-design.gitee.io/index-cn)
  - [reactSPA](https://github.com/JasonBai007/reactSPA)
  - [ReCharts 是一个 React 图表组件库](http://recharts.org/#/en-US/)
  - [React-Bootstrap](https://react-bootstrap.github.io/)
  - [anu.js 是一个高级兼容React16的迷你React 框架](https://rubylouvre.github.io/anu/ch/index.html)
  
- > Weex 
+ ##  Weex 
  - [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
  
- > Node
+ ##  Node
  - [egg.js ](https://github.com/eggjs/egg)
  - [Nest 是一个用于构建高效，可扩展的 Node.js 服务器端应用程序的框架。](https://github.com/nestjs/nest)
  
- > 小程序相关
+ ##  小程序相关
  - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
  
- > Nginx
+ ##  Nginx
  - [Nginx 入门教程](https://github.com/xuexb/learn-nginx)
  
  
