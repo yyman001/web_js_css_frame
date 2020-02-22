@@ -28,6 +28,7 @@
 > * [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
 > * [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)
 > * [Algorithm Visualizer 算法展示](https://github.com/algorithm-visualizer/algorithm-visualizer)
+> * [大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
@@ -157,7 +158,7 @@ API文档
  - [渲染性能](https://github.com/sundway/blog/issues/2)
  - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
  - [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
-
+ - [逐行剖析Vue.js源码](https://github.com/NLRX-WJC/Learn-Vue-Source-Code)
  - [node.js中文资料导航](https://github.com/youyudehexie/node123)
  - [了不起的Nodejs Nodejs的各种资源,英文](https://github.com/vndmtrx/awesome-nodejs)
  - [AngularJS ,一些关于 AngularJS 的博客，文章，视频，书籍等](https://github.com/justjavac/AngularJS-Learning-zh_CN)
