@@ -76,6 +76,7 @@ API文档
 > * [Sass (3.4.21) 中文文档](http://www.css88.com/doc/sass/)
 > * [ES6 手册](https://qiutc.me/post/es6-cheatsheet.html)
 > * [React 中文文档（V15.5.4）](http://www.css88.com/react/)
+> * [React 官方中文文档（V16.13.1）](https://zh-hans.reactjs.org/docs/getting-started.html#javascript-resources)
 > * [Zepto.js 中文文档](http://www.css88.com/doc/zeptojs_api/)
 > * [Backbone.js 中文文档](http://www.css88.com/doc/backbone/)
 > * [Underscore.js 中文文档](http://www.css88.com/doc/underscore/)
@@ -194,7 +195,8 @@ API文档
  - [css-gif 一个动图，一个CSS知识点](https://github.com/qdlaoyao/css-gif)
  - [《Flutter 实战》](https://book.flutterchina.club/)
  - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
- 
+ - [现代 JavaScript 教程中文版](https://github.com/javascript-tutorial/zh.javascript.info)
+
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -887,7 +889,8 @@ API文档
  - [Direction Reveal （方向展示）](https://github.com/NigelOToole/direction-reveal)
  - [Rythm.js 让页面跳舞](https://github.com/Okazari/Rythm.js)
  - [一个 JavaScript 的 3D 设计和动画制作库](https://github.com/metafizzy/zdog)
- 
+ - [svg-text-animate 是一个在浏览器环境中将输入文本根据字体转化为描边动画的JavaScript库](https://github.com/oubenruing/svg-text-animate)
+
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
  - [CSShake - css抖动库](https://elrumordelaluz.github.io/csshake/) - [github](https://github.com/elrumordelaluz/csshake)
