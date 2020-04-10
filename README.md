@@ -245,7 +245,8 @@ API文档
  - [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
  - [《JavaScript 闯关记》](https://github.com/stone0090/javascript-lessons)
  - [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
- 
+ - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
+
 ----
 ## 其他工具
  - [flexbox在线制作器](http://the-echoplex.net/flexyboxes/) 
