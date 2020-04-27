@@ -196,6 +196,9 @@ API文档
  - [《Flutter 实战》](https://book.flutterchina.club/)
  - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
  - [现代 JavaScript 教程中文版](https://github.com/javascript-tutorial/zh.javascript.info)
+ - [CheatSheet，一图读懂系列](https://github.com/wangzhengya/cheatsheet)
+ - [vue 源码解析及实现](https://github.com/fastCreator/MVVM)
+
 
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
