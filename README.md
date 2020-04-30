@@ -718,6 +718,8 @@ API文档
 - [jQuery picZoomer - 图片区域放大](http://www.jqueryscript.net/zoom/jQuery-Plugin-For-Image-Zoom-On-Hover-picZoomer.html)
 - [watermark.js 为图片添加水印](http://brianium.github.io/watermarkjs/)
 - [image-compressor 图片压缩](https://github.com/xkeshi/image-compressor)
+- [一个360度全景照片浏览的 JS 库](https://pchen66.github.io/Panolens/)
+
 
 >13.6 图片放大镜
 - [EasyZoom for jQuery](https://github.com/i-like-robots/EasyZoom)
