@@ -305,6 +305,12 @@ API文档
 ## 手势库
  - [TouchSwipe ](http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html)
 
+## 移动端工具
+ - [Eruda - Console for Mobile Browsers](https://github.com/liriliri/eruda
+ )
+ - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
+ - [AlloyLever - 开发调试发布，错误监控上报，用户问题定位。](https://github.com/AlloyTeam/AlloyLever)
+
 ## vue专题
 - [awesomes vue 各种组件](https://www.awesomes.cn/subject/vue)
 - [『收藏』VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
@@ -454,8 +460,7 @@ API文档
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
-  - [移动web开发调试工具AlloyLever介绍 - 打印信息](http://alloyteam.github.io/AlloyLever/)
-  - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
+
   - [Hotkeys.js 捕获键盘输入和输入的组合键快捷键](https://github.com/jaywcjlove/hotkeys)
   - [keymaster.js 同上](https://github.com/madrobby/keymaster)
   
