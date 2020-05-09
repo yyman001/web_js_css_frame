@@ -260,12 +260,13 @@ API文档
  - [各种奇妙的hack](http://browserhacks.com/ "各种奇妙的hack")
  - [几乎所有设备的屏幕尺寸与像素密度表](http://en.wikipedia.org/wiki/List_of_displays_by_pixel_density "几乎所有设备的屏幕尺寸与像素密度表")
  - [移动设备参数表](http://screensiz.es/phone "移动设备参数表")
- - [ios端移动设备参数速查](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/ "ios端移动设备参数速查")
- - [浏览器兼容表](http://www.quirksmode.org/compatibility.html "浏览器兼容表")
- - [移动设备查询器](https://deviceatlas.com/device-data/devices "移动设备查询器")
- - [移动设备适配库](http://51degrees.codeplex.com/ "移动设备适配库")
- - [移动设备适配库2](http://detectmobilebrowsers.com/ "移动设备适配库2")
- - [viewport与设备尺寸在线检测器](https://deviceatlas.com/device-data/devices "viewport与设备尺寸在线检测器")
+ - [ios端移动设备参数速查](https://ivomynttinen.com/blog/ios-design-guidelines)
+ - [浏览器兼容表](http://www.quirksmode.org/compatibility.html)
+ - ~~[移动设备查询器](https://deviceatlas.com/device-data/devices)~~
+ - ~~[移动设备适配库](http://51degrees.codeplex.com/)~~
+ - [移动设备适配库2](http://detectmobilebrowsers.com/)
+ - [pc/mobile 设备识别-推荐](http://matthewhudson.github.io/current-device/)
+ - ~~[viewport与设备尺寸在线检测器](https://deviceatlas.com/device-data/devices)~~
  - [html5 移动端兼容性速查](http://mobilehtml5.org/ "html5移动端兼容性速查")
  - [在线转换字体](http://www.fontsquirrel.com/tools/webfont-generator "在线转换字体")
  - [css3 选择器测试](http://tools.css3.info/selectors-test/test.html "css3选择器测试")
@@ -273,7 +274,7 @@ API文档
  - [浏览器的一些独特参数](http://www.browserscope.org/ "浏览器的一些独特参数")
  - [各种各样的媒体查询收集](http://nmsdvid.com/snippets/ "各种各样的媒体查询收集")
  - [sass @include-media 媒体查询库](https://github.com/eduardoboucas/include-media) 
- - [css3 动画在线制作器](http://ecd.tencent.com/css3/tools.html "css3动画在线制作器")
+ - ~~[css3 动画在线制作器](http://ecd.tencent.com/css3/tools.html "css3动画在线制作器")~~
  - [css3 渐变在线制作器](http://www.colorzilla.com/gradient-editor/ "css3渐变在线制作器")
  - [移动端手势表](http://ww1.sinaimg.cn/bmiddle/c2c57f68jw1e4fh7dmw12j20fi2w6qe1.jpg "移动端手势表")
  - [webkit独有的样式分析](http://ued.ctrip.com/blog/wp-content/webkitcss/ "webkit独有的样式分析")
@@ -287,7 +288,9 @@ API文档
  - [APIJSON - API 服务的框架 ](https://github.com/TommyLemon/APIJSON)
  - [sentry-javascript - Official Sentry SDKs for Javascript 错误日志打点统计](https://github.com/getsentry/sentry-javascript)
  - [GitHub issues 备份工具](https://github.com/gissue/gissue.github.io/)
- 
+ - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi)
+
+
 ##  js插件网站
  - [Unheap](http://www.unheap.com/)
  - [jquer.in](http://jquer.in/)
@@ -310,6 +313,7 @@ API文档
  )
  - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
  - [AlloyLever - 开发调试发布，错误监控上报，用户问题定位。](https://github.com/AlloyTeam/AlloyLever)
+ - [current-device 设备识别js库](https://github.com/matthewhudson/current-device)
 
 ## vue专题
 - [awesomes vue 各种组件](https://www.awesomes.cn/subject/vue)
