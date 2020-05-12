@@ -198,6 +198,8 @@ API文档
  - [现代 JavaScript 教程中文版](https://github.com/javascript-tutorial/zh.javascript.info)
  - [CheatSheet，一图读懂系列](https://github.com/wangzhengya/cheatsheet)
  - [vue 源码解析及实现](https://github.com/fastCreator/MVVM)
+ - [Koa.js 设计模式-学习笔记](https://github.com/chenshenhai/koajs-design-note)
+ - [《Koa2进阶学习笔记》](https://github.com/chenshenhai/koa2-note)
 
 
 >书籍资料
