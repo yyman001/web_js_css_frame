@@ -29,6 +29,8 @@
 > * [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)
 > * [Algorithm Visualizer 算法展示](https://github.com/algorithm-visualizer/algorithm-visualizer)
 > * [大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview)
+> * [IntelliJ IDEA 的技巧仓库](https://github.com/xiaoxiunique/tool-tips)
+
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
@@ -424,6 +426,8 @@ API文档
 - [HaloJS](https://halojs.aotu.io/api/index.html)
 - [QMUI Web 是一个专注 Web UI](https://github.com/QMUI/QMUI_Web)
 - [LuLu ui](https://l-ui.com/content/about/design.html)
+- [ css.gg - 开源图标 UI 库。支持 CSS、SVG、Figma、NPM](https://github.com/astrit/css.gg)
+
 
 >1.2 后端UI框架
 - [Layui](http://www.layui.com/)
@@ -1210,8 +1214,7 @@ API文档
  - [driver.js 引导用户页面操作](https://github.com/kamranahmedse/driver.js)
  - [gitmoji - An emoji guide for your commit messages](https://github.com/carloscuesta/gitmoji/)
  - [pico.js: a face-detection library in 200 lines of JavaScript- 人脸识别](https://github.com/tehnokv/picojs)
- 
- 
+
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
   - [create.js ](http://www.createjs.cc/) 
