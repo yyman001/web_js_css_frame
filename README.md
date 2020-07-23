@@ -19,7 +19,7 @@
 > * [HEAD 能够放在文档的 <head> 中的各种配置元素,mate列表大全](https://github.com/joshbuchea/HEAD) [中文](https://www.awesomes.cn/repo/joshbuchea/head)
 > * [ScriptOJ 是首个 Web 前端开发评测系统](http://scriptoj.mangojuice.top/)
 > * [项目规范-avaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
-> * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+> * [30 Seconds of CSS](https://github.com/kujian/30-seconds-of-css)
 > * [Zan Proxy - 本地代码调试线上页面，环境再也不是问题](https://github.com/youzan/zan-proxy)
 > * [最全前端资源汇集](https://jeffjade.com/2016/03/30/104-front-end-tutorial/)
 > * [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
@@ -30,7 +30,7 @@
 > * [Algorithm Visualizer 算法展示](https://github.com/algorithm-visualizer/algorithm-visualizer)
 > * [大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview)
 > * [IntelliJ IDEA 的技巧仓库](https://github.com/xiaoxiunique/tool-tips)
-
+> * [精选前端开发的各类文章](https://github.com/pingan8787/Leo-JavaScript)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
@@ -202,7 +202,7 @@ API文档
  - [vue 源码解析及实现](https://github.com/fastCreator/MVVM)
  - [Koa.js 设计模式-学习笔记](https://github.com/chenshenhai/koajs-design-note)
  - [《Koa2进阶学习笔记》](https://github.com/chenshenhai/koa2-note)
-
+ - [JavaScript 编程精解 中文第三版](https://github.com/wizardforcel/eloquent-js-3e-zh)
 
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
@@ -293,7 +293,8 @@ API文档
  - [sentry-javascript - Official Sentry SDKs for Javascript 错误日志打点统计](https://github.com/getsentry/sentry-javascript)
  - [GitHub issues 备份工具](https://github.com/gissue/gissue.github.io/)
  - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi)
-
+ - [Lottie是一个适用于Android，iOS，Web和Windows的库](http://airbnb.io/lottie/)
+ - [docz 文档代码效果演示专用生成工具](https://github.com/doczjs/docz/)
 
 ##  js插件网站
  - [Unheap](http://www.unheap.com/)
