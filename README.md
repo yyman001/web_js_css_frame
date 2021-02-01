@@ -915,6 +915,7 @@ API文档
  - [Rythm.js 让页面跳舞](https://github.com/Okazari/Rythm.js)
  - [一个 JavaScript 的 3D 设计和动画制作库](https://github.com/metafizzy/zdog)
  - [svg-text-animate 是一个在浏览器环境中将输入文本根据字体转化为描边动画的JavaScript库](https://github.com/oubenruing/svg-text-animate)
+ - [scene.js 场景动画](https://github.com/daybrush/scenejs)
 
 - css动画库
  - [xless - 又一个css动画库](http://royjang.github.io/xless/) [github](https://github.com/royJang/xless)
