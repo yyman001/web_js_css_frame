@@ -206,6 +206,9 @@ API文档
  - [Koa.js 设计模式-学习笔记](https://github.com/chenshenhai/koajs-design-note)
  - [《Koa2进阶学习笔记》](https://github.com/chenshenhai/koa2-note)
  - [JavaScript 编程精解 中文第三版](https://github.com/wizardforcel/eloquent-js-3e-zh)
+ - [JavaScript 二十年](https://github.com/doodlewind/jshistory-cn)
+ - [代码安全指南](https://github.com/Tencent/secguide)
+
 
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
