@@ -33,6 +33,7 @@
 > * [IntelliJ IDEA 的技巧仓库](https://github.com/xiaoxiunique/tool-tips)
 > * [精选前端开发的各类文章](https://github.com/pingan8787/Leo-JavaScript)
 > * [前端乐园](https://share.aoping.club/)
+> * [JavaScript 数据结构与算法](https://github.com/XPoet/js-data-structures-and-algorithms)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
@@ -208,6 +209,7 @@ API文档
  - [JavaScript 编程精解 中文第三版](https://github.com/wizardforcel/eloquent-js-3e-zh)
  - [JavaScript 二十年](https://github.com/doodlewind/jshistory-cn)
  - [代码安全指南](https://github.com/Tencent/secguide)
+ - [Python 之旅](https://github.com/ethan-funny/explore-python)
 
 
 >书籍资料
