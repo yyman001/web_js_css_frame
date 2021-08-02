@@ -484,7 +484,9 @@ API文档
   - [Hotkeys.js 捕获键盘输入和输入的组合键快捷键](https://github.com/jaywcjlove/hotkeys)
   - [keymaster.js 同上](https://github.com/madrobby/keymaster)
   - [big.js 用于任意精度的十进制算术运算](https://github.com/MikeMcl/big.js/)
-  
+  - [math.js 同上](https://github.com/josdejong/mathjs)
+  - [number-precision.js 同上](https://github.com/nefe/number-precision)
+
 >3. 前端游戏框架(动画引擎)
 
 - [Hilo 跨终端的互动游戏解决方案 阿里出品](https://github.com/hiloteam/Hilo)
