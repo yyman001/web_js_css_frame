@@ -40,6 +40,19 @@
 > * [前端精读周刊](https://github.com/dt-fe/weekly)
 > * [《阿里云前端技术周刊》](https://github.com/aliyunfe/weekly)
 
+
+博客
+> * [biaochenxuying](https://github.com/biaochenxuying/blog)
+> * [YvetteLau](https://github.com/YvetteLau/Blog)
+> * [front-end-canteen 前端食堂](https://github.com/Geekhyt/front-end-canteen)
+> * [FE前端小课](https://github.com/lefex/FE) 
+> * [jsliang 的文档库](https://github.com/LiangJunrong/document-library)
+> * [TNT-Weekly](https://github.com/tnfe/TNT-Weekly)
+> * [前端内参](https://github.com/coffe1891/frontend-hard-mode-interview)
+> * [fe-blog](https://github.com/6fedcom/fe-blog)
+> * [前端游乐场](https://github.com/godbasin/front-end-playground)
+> * [FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub)
+
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
 > * [vue 风格指南](https://cn.vuejs.org/v2/style-guide/)
@@ -391,7 +404,10 @@ API文档
  ##  Nginx
  - [Nginx 入门教程](https://github.com/xuexb/learn-nginx)
  
+ ## 跨端框架
+ - [uView UI，是uni-app生态最优秀的UI框架](https://github.com/YanxinNet/uView)
  
+
 >0. 前端自动化(Workflow)
 - 依赖安装
   - [yarn](http://yarnpkg.top/)
@@ -437,7 +453,7 @@ API文档
 - [QMUI Web 是一个专注 Web UI](https://github.com/QMUI/QMUI_Web)
 - [LuLu ui](https://l-ui.com/content/about/design.html)
 - [ css.gg - 开源图标 UI 库。支持 CSS、SVG、Figma、NPM](https://github.com/astrit/css.gg)
-
+- [daisyUI - css UI](https://github.com/saadeghi/daisyui)
 
 >1.2 后端UI框架
 - [Layui](http://www.layui.com/)
@@ -674,6 +690,7 @@ API文档
 - [GraphicsJS ，一个轻量级的前端图形库 支持ie6](http://www.graphicsjs.org/)
 - [强大的矢量图形库：Raphael JS ](https://github.com/DmitryBaranovskiy/raphael/) http://www.jianshu.com/p/81c3fc5287d1
 - [chart.xkcd - xkcd 风格(手绘风格)的图表库](https://github.com/timqian/chart.xkcd)
+- [LeaderLine - Draw a leader line in your web page](https://github.com/anseki/leader-line) 
 
 >12. 日期格式化
 
