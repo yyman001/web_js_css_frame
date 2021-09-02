@@ -55,6 +55,7 @@
 > * [木易杨](https://github.com/yygmind/blog)
 
 面试
+> * [独有前端面试题详解](https://github.com/lgwebdream/FE-Interview)
 > * [daily](https://github.com/pwstrick/daily)
 > * [JS每日一题](https://github.com/febobo/web-interview)
 > * [2020届硕士的秋招前端面试实战经验](https://github.com/zhenzhencai/FontEndInterview)
