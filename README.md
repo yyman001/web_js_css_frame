@@ -68,6 +68,7 @@
 > * [前端学习每日3+1](https://github.com/haizlin/fe-interview)
 > * [最全的前端面试题](https://github.com/HerbertKarajan/Fe-Interview-questions)
 > * [前端面试常考问题分类整理汇总](https://github.com/poetries/FE-Interview-Questions)
+> * [我是「齐丶先丶森」，公众号「前端面试秘籍」作者，收集整理全网面试题及面试技巧](https://github.com/yisainan/web-interview)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
@@ -141,7 +142,7 @@ API文档
 > * [three.js 部分中文教程](https://threejsfundamentals.org/threejs/lessons/zh_cn/)
 > * [Nest.js 中文教程](https://docs.nestjs.cn/6/introduction)
 > * [Maven 手册](https://www.yuque.com/inuter/bc7ikc/ngeqot)
-
+> * [TypeScript使用手册（中文版）翻译](https://github.com/zhongsp/TypeScript)
 
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
@@ -385,7 +386,8 @@ API文档
  - [Vue Material](https://github.com/marcosmoura/vue-material)
  - [vant 有赞开发的基于 Vue.js 2.0 的 UI 组件库](https://github.com/youzan/vant)
  - [vue-beauty 基于 ant design 的漂亮的 vue 组件库](https://github.com/FE-Driver/vue-beauty)
- 
+ - [A UI library of Overwatch, built with Vue.js](https://github.com/haixiangyan/overwatch-ui)
+
  ## vue 其他插件组件
  - [PortalVue ， anywhere in the document/普通开发使用组件](https://github.com/LinusBorg/portal-vue)
  - [mpvue vue转微信小程序](https://github.com/Meituan-Dianping/mpvue)
@@ -401,7 +403,9 @@ API文档
  - [vue GUI generator](https://github.com/vuegg/vuegg)
  
  ##  React 相关
+ - [React Hooks Library](https://github.com/alibaba/hooks)
  - [ANT DESIGN](http://ant-design.gitee.io/index-cn)
+ - [Use Ant Design like a Pro](https://github.com/ant-design/pro-components)
  - [reactSPA](https://github.com/JasonBai007/reactSPA)
  - [ReCharts 是一个 React 图表组件库](http://recharts.org/#/en-US/)
  - [React-Bootstrap](https://react-bootstrap.github.io/)
@@ -422,7 +426,7 @@ API文档
  
  ## 跨端框架
  - [uView UI，是uni-app生态最优秀的UI框架](https://github.com/YanxinNet/uView)
- 
+ - [Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架](https://github.com/didi/mpx)
 
 >0. 前端自动化(Workflow)
 - 依赖安装
