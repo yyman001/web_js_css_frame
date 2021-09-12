@@ -53,6 +53,7 @@
 > * [前端游乐场](https://github.com/godbasin/front-end-playground)
 > * [FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub)
 > * [木易杨](https://github.com/yygmind/blog)
+> * [前端小智](https://github.com/qq449245884/xiaozhi)
 
 面试
 > * [独有前端面试题详解](https://github.com/lgwebdream/FE-Interview)
