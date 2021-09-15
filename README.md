@@ -70,6 +70,7 @@
 > * [最全的前端面试题](https://github.com/HerbertKarajan/Fe-Interview-questions)
 > * [前端面试常考问题分类整理汇总](https://github.com/poetries/FE-Interview-Questions)
 > * [我是「齐丶先丶森」，公众号「前端面试秘籍」作者，收集整理全网面试题及面试技巧](https://github.com/yisainan/web-interview)
+> * [Fucking Frontend 前端面试、学习路径、优秀好文等各类内容](https://github.com/KieSun/fucking-frontend)
 
 编码规范
 > * [百度前端编码规范](https://github.com/ecomfe/spec)
