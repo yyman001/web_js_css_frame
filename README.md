@@ -293,6 +293,7 @@ API文档
  - [《JavaScript 闯关记》](https://github.com/stone0090/javascript-lessons)
  - [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
  - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
+ - [how-javascript-works 翻译介绍 JavaScript 的工作原理](https://github.com/Troland/how-javascript-works)
 
 ----
 ## 其他工具
@@ -403,7 +404,8 @@ API文档
  - [vue-datepicker 日期拾取组件](https://github.com/hsiaosiyuan0/vue-datepicker)
  - [一个生成 svg 图标组件的工具 (vue2.x)](https://github.com/MMF-FE/vue-svgicon)
  - [vue GUI generator](https://github.com/vuegg/vuegg)
- 
+ - [Vue2 到 Vue3 升级指南](https://gogocode.io/zh/docs/vue/vue2-to-vue3) 
+
  ##  React 相关
  - [React Hooks Library](https://github.com/alibaba/hooks)
  - [ANT DESIGN](http://ant-design.gitee.io/index-cn)
@@ -421,15 +423,16 @@ API文档
  - [Nest 是一个用于构建高效，可扩展的 Node.js 服务器端应用程序的框架。](https://github.com/nestjs/nest)
  
  ##  小程序相关
- - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
- 
+  - [mini-stores - 小程序多状态管理](https://github.com/linjc/mini-stores)
+
  ##  Nginx
  - [Nginx 入门教程](https://github.com/xuexb/learn-nginx)
  
  ## 跨端框架
  - [uView UI，是uni-app生态最优秀的UI框架](https://github.com/YanxinNet/uView)
  - [Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架](https://github.com/didi/mpx)
-
+ - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
+ 
 >0. 前端自动化(Workflow)
 - 依赖安装
   - [yarn](http://yarnpkg.top/)
@@ -524,6 +527,9 @@ API文档
   - [big.js 用于任意精度的十进制算术运算](https://github.com/MikeMcl/big.js/)
   - [math.js 同上](https://github.com/josdejong/mathjs)
   - [number-precision.js 同上](https://github.com/nefe/number-precision)
+  - [一个 JS 脚本，可以自动生成鱼的图形](https://github.com/LingDong-/fishdraw)
+  - [自动画树](https://github.com/zv/tree)
+
 
 >3. 前端游戏框架(动画引擎)
 
