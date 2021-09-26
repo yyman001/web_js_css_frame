@@ -240,9 +240,10 @@ API文档
  - [《Koa2进阶学习笔记》](https://github.com/chenshenhai/koa2-note)
  - [JavaScript 编程精解 中文第三版](https://github.com/wizardforcel/eloquent-js-3e-zh)
  - [JavaScript 二十年](https://github.com/doodlewind/jshistory-cn)
+ - [Javascript 算法](https://github.com/TheAlgorithms/Javascript)
  - [代码安全指南](https://github.com/Tencent/secguide)
  - [Python 之旅](https://github.com/ethan-funny/explore-python)
-
+ - [Python 算法](https://github.com/TheAlgorithms/Python)
 
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
@@ -433,6 +434,13 @@ API文档
  - [Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架](https://github.com/didi/mpx)
  - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
  
+
+ ## Electron
+ - [electron-forge](https://github.com/electron-userland/electron-forge)
+
+ ## 网络学习?
+  -[GFPGAN 图片修复](https://github.com/TencentARC/GFPGAN)
+
 >0. 前端自动化(Workflow)
 - 依赖安装
   - [yarn](http://yarnpkg.top/)
