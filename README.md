@@ -1121,6 +1121,7 @@ API文档
 - [CreativeButtons](https://github.com/codrops/CreativeButtons)
 - [CSS3 buttons](https://github.com/ubuwaits/css3-buttons)
 - [jquery.onoff - Interactive, accessible toggle switches for the web.](https://github.com/timmywil/jquery.onoff)
+- [一组不同效果的buttons](https://github.com/ganapativs/bttn.css)
 
 >27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
