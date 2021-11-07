@@ -245,6 +245,7 @@ API文档
  - [Python 之旅](https://github.com/ethan-funny/explore-python)
  - [Python 算法](https://github.com/TheAlgorithms/Python)
 
+
 >书籍资料
  - [USTC-CS-Courses-Resource 中国科学技术大学众多课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
  - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -415,7 +416,8 @@ API文档
  - [ReCharts 是一个 React 图表组件库](http://recharts.org/#/en-US/)
  - [React-Bootstrap](https://react-bootstrap.github.io/)
  - [anu.js 是一个高级兼容React16的迷你React 框架](https://rubylouvre.github.io/anu/ch/index.html)
- 
+ - [React的秘密](https://github.com/neroneroffy/react-source-code-debug)
+
  ##  Weex 
  - [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
  
@@ -434,6 +436,8 @@ API文档
  - [Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架](https://github.com/didi/mpx)
  - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
  
+ ## web集成框架
+ - [Semi Design 是由抖音前端团队](https://github.com/DouyinFE/semi-design)
 
  ## Electron
  - [electron-forge](https://github.com/electron-userland/electron-forge)
