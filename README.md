@@ -392,6 +392,7 @@ API文档
  - [vant 有赞开发的基于 Vue.js 2.0 的 UI 组件库](https://github.com/youzan/vant)
  - [vue-beauty 基于 ant design 的漂亮的 vue 组件库](https://github.com/FE-Driver/vue-beauty)
  - [A UI library of Overwatch, built with Vue.js](https://github.com/haixiangyan/overwatch-ui)
+ - [Naive UI, A Vue 3 Component Library](https://github.com/TuSimple/naive-ui)
 
  ## vue 其他插件组件
  - [PortalVue ， anywhere in the document/普通开发使用组件](https://github.com/LinusBorg/portal-vue)
