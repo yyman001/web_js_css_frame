@@ -353,6 +353,9 @@ API文档
 前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
+## css布局
+ - [CSS Layout, Popular layouts and patterns made with CSS](https://github.com/1milligram/csslayout)
+
 ## 手势库
  - [TouchSwipe ](http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html)
 
@@ -393,6 +396,7 @@ API文档
  - [vue-beauty 基于 ant design 的漂亮的 vue 组件库](https://github.com/FE-Driver/vue-beauty)
  - [A UI library of Overwatch, built with Vue.js](https://github.com/haixiangyan/overwatch-ui)
  - [Naive UI, A Vue 3 Component Library](https://github.com/TuSimple/naive-ui)
+ - [nutui 京东风格](https://github.com/jdf2e/nutui)
 
  ## vue 其他插件组件
  - [PortalVue ， anywhere in the document/普通开发使用组件](https://github.com/LinusBorg/portal-vue)
@@ -1289,6 +1293,7 @@ API文档
  - [driver.js 引导用户页面操作](https://github.com/kamranahmedse/driver.js)
  - [gitmoji - An emoji guide for your commit messages](https://github.com/carloscuesta/gitmoji/)
  - [pico.js: a face-detection library in 200 lines of JavaScript- 人脸识别](https://github.com/tehnokv/picojs)
+ - [Dinero.js 货币计算](https://github.com/dinerojs/dinero.js)
 
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
