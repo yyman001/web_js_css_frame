@@ -54,6 +54,7 @@
 > * [FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub)
 > * [木易杨](https://github.com/yygmind/blog)
 > * [前端小智](https://github.com/qq449245884/xiaozhi)
+> * [EveryDay](https://github.com/WindrunnerMax/EveryDay)
 
 面试
 > * [独有前端面试题详解](https://github.com/lgwebdream/FE-Interview)
@@ -440,7 +441,8 @@ API文档
  - [uView UI，是uni-app生态最优秀的UI框架](https://github.com/YanxinNet/uView)
  - [Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架](https://github.com/didi/mpx)
  - [娜娜奇 - 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/)
- 
+ - [ColorUI, 鲜亮的高饱和色彩，专注视觉的小程序组件库](https://github.com/weilanwl/ColorUI)
+
  ## 后台
   - [Ant Design Vue Pro](https://github.com/vueComponent/ant-design-vue-pro/blob/master/README.zh-CN.md)
 
