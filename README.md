@@ -398,6 +398,7 @@ API文档
  - [A UI library of Overwatch, built with Vue.js](https://github.com/haixiangyan/overwatch-ui)
  - [Naive UI, A Vue 3 Component Library](https://github.com/TuSimple/naive-ui)
  - [nutui 京东风格](https://github.com/jdf2e/nutui)
+ - [arco-design-vue](https://github.com/arco-design/arco-design-vue)
 
  ## vue 其他插件组件
  - [PortalVue ， anywhere in the document/普通开发使用组件](https://github.com/LinusBorg/portal-vue)
@@ -448,6 +449,7 @@ API文档
 
  ## web集成框架
  - [Semi Design 是由抖音前端团队](https://github.com/DouyinFE/semi-design)
+ - [Arco Design](https://github.com/arco-design/arco-design/blob/main/README.zh-CN.md)
 
  ## Electron
  - [electron-forge](https://github.com/electron-userland/electron-forge)
