@@ -34,6 +34,7 @@
 > * [精选前端开发的各类文章](https://github.com/pingan8787/Leo-JavaScript)
 > * [前端乐园](https://share.aoping.club/)
 > * [JavaScript 数据结构与算法](https://github.com/XPoet/js-data-structures-and-algorithms)
+> * [设计数据密集型应用 - 中文翻译](https://github.com/Vonng/ddia)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
@@ -55,6 +56,7 @@
 > * [木易杨](https://github.com/yygmind/blog)
 > * [前端小智](https://github.com/qq449245884/xiaozhi)
 > * [EveryDay](https://github.com/WindrunnerMax/EveryDay)
+> * [若川的博客](https://github.com/lxchuan12/blog)
 
 面试
 > * [独有前端面试题详解](https://github.com/lgwebdream/FE-Interview)
@@ -1020,10 +1022,12 @@ API文档
 >17. 本地存储
 - [bowl.js 一个轻量级的前端资源缓存加载器](https://github.com/ElemeFE/bowl)
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
-- [localForage](https://github.com/mozilla/localForage)
 - [pouchdb](https://github.com/pouchdb/pouchdb)
 - [basil.js 是一个 JavaScript 的数据持久化层库,实现了统一的 LocalStorage、Cookie 和 Session 存储。](https://github.com/Wisembly/basil.js)
 - [store.js 公开了一个简单的接口来实现跨浏览器的本地存储。](https://github.com/marcuswestin/store.js)
+- [Bridge, The Local Storage Bridge, 跨tab通讯](https://github.com/krasimir/lsbridge)
+- [lscache](https://github.com/pamelafox/lscache)
+- [Lockr 不止存储字符串](https://github.com/tsironis/lockr)
 
 >17.1 数据库
 - [nedb ](https://github.com/louischatriot/nedb)
@@ -1031,6 +1035,7 @@ API文档
 - [localForage](https://github.com/localForage/localForage)
 - [Dexie.js](https://github.com/dfahlander/Dexie.js)
 - [ZangoDB](https://github.com/erikolson186/zangodb)
+- [sql.js](https://github.com/sql-js/sql.js/)
 
 >18. 模板引擎
 
