@@ -35,6 +35,9 @@
 > * [前端乐园](https://share.aoping.club/)
 > * [JavaScript 数据结构与算法](https://github.com/XPoet/js-data-structures-and-algorithms)
 > * [设计数据密集型应用 - 中文翻译](https://github.com/Vonng/ddia)
+> * [常见的路径规划算法集合。项目包含了 Python 代码实现、运行过程动画以及相关论文](https://github.com/zhm-real/PathPlanning)
+> * [Web 全栈开发、工程架构与性能调优](https://github.com/wx-chevalier/Web-Series)
+
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
@@ -57,6 +60,8 @@
 > * [前端小智](https://github.com/qq449245884/xiaozhi)
 > * [EveryDay](https://github.com/WindrunnerMax/EveryDay)
 > * [若川的博客](https://github.com/lxchuan12/blog)
+> * [天天造轮子，手写面试常见源码](https://github.com/su37josephxia/wheel-awesome)
+
 
 面试
 > * [独有前端面试题详解](https://github.com/lgwebdream/FE-Interview)
@@ -505,6 +510,8 @@ API文档
 - [LuLu ui](https://l-ui.com/content/about/design.html)
 - [ css.gg - 开源图标 UI 库。支持 CSS、SVG、Figma、NPM](https://github.com/astrit/css.gg)
 - [daisyUI - css UI](https://github.com/saadeghi/daisyui)
+- [A pure CSS library to beautify checkbox and radio buttons.](https://github.com/lokesh-coder/pretty-checkbox)
+- [Open Source CSS Variables](https://github.com/argyleink/open-props)
 
 >1.2 后端UI框架
 - [Layui](http://www.layui.com/)
@@ -1306,6 +1313,7 @@ API文档
  - [gitmoji - An emoji guide for your commit messages](https://github.com/carloscuesta/gitmoji/)
  - [pico.js: a face-detection library in 200 lines of JavaScript- 人脸识别](https://github.com/tehnokv/picojs)
  - [Dinero.js 货币计算](https://github.com/dinerojs/dinero.js)
+ - [js混淆](https://github.com/javascript-obfuscator/javascript-obfuscator)
 
  >36. Canvas库
   - [jCanvas - 语法简单实现canvas的js 库](https://github.com/caleb531/jcanvas)
