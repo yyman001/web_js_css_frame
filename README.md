@@ -37,7 +37,8 @@
 > * [设计数据密集型应用 - 中文翻译](https://github.com/Vonng/ddia)
 > * [常见的路径规划算法集合。项目包含了 Python 代码实现、运行过程动画以及相关论文](https://github.com/zhm-real/PathPlanning)
 > * [Web 全栈开发、工程架构与性能调优](https://github.com/wx-chevalier/Web-Series)
-
+> * [《算法新解》](https://github.com/liuxinyu95/AlgoXY)
+> * [常用 CSS 样式示例集合](https://github.com/QiShaoXuan/css_tricks)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
@@ -61,7 +62,8 @@
 > * [EveryDay](https://github.com/WindrunnerMax/EveryDay)
 > * [若川的博客](https://github.com/lxchuan12/blog)
 > * [天天造轮子，手写面试常见源码](https://github.com/su37josephxia/wheel-awesome)
-
+> * [带你入门前端工程](https://github.com/woai3c/introduction-to-front-end-engineering)
+> * [kujian前端开发博客](https://github.com/kujian/frontendDaily)
 
 面试
 > * [独有前端面试题详解](https://github.com/lgwebdream/FE-Interview)
@@ -154,6 +156,7 @@ API文档
 > * [Maven 手册](https://www.yuque.com/inuter/bc7ikc/ngeqot)
 > * [TypeScript使用手册（中文版）翻译](https://github.com/zhongsp/TypeScript)
 
+
 >移动端资料
 - [H5 案例 - 不定期收集市面上优秀的 H5 作品。](https://github.com/o2team/cases) 
 - [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html)
@@ -182,6 +185,7 @@ API文档
  - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
  - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
  - [git资料](https://github.com/xirong/my-git)
+ - [Git-Cheat-Sheet 中文版](https://github.com/flyhigher139/Git-Cheat-Sheet)
 
 ### 其他
  - [Node.js 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
@@ -252,6 +256,7 @@ API文档
  - [代码安全指南](https://github.com/Tencent/secguide)
  - [Python 之旅](https://github.com/ethan-funny/explore-python)
  - [Python 算法](https://github.com/TheAlgorithms/Python)
+ - [超多经典 Canvas 实例](https://github.com/bxm0927/canvas-special)
 
 
 >书籍资料
@@ -342,10 +347,13 @@ API文档
  - [让小程序支持组件化开发的框架-类型vue组件开发](https://github.com/Tencent/wepy)
  - [APIJSON - API 服务的框架 ](https://github.com/TommyLemon/APIJSON)
  - [sentry-javascript - Official Sentry SDKs for Javascript 错误日志打点统计](https://github.com/getsentry/sentry-javascript)
+ - [monitor 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK](https://github.com/clouDr-f2e/monitor)
  - [GitHub issues 备份工具](https://github.com/gissue/gissue.github.io/)
  - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi)
  - [Lottie是一个适用于Android，iOS，Web和Windows的库](http://airbnb.io/lottie/)
  - [docz 文档代码效果演示专用生成工具](https://github.com/doczjs/docz/)
+
+
 
 ##  js插件网站
  - [Unheap](http://www.unheap.com/)
@@ -373,6 +381,7 @@ API文档
  - [vConsole.js 同上](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)
  - [AlloyLever - 开发调试发布，错误监控上报，用户问题定位。](https://github.com/AlloyTeam/AlloyLever)
  - [current-device 设备识别js库](https://github.com/matthewhudson/current-device)
+ - [spy-debugger：远程调试手机页面和抓包的工具](https://github.com/wuchangming/spy-debugger)
 
 ## vue专题
 - [awesomes vue 各种组件](https://www.awesomes.cn/subject/vue)
