@@ -270,7 +270,10 @@ API文档
 
  - [【编程随想】收藏的电子书清单](https://github.com/programthink/books) 
  - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
-  
+ - [free-programming-books
+](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
+
+
  ### 一些社区
  - [Stack Overflow：Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。](http://stackoverflow.com/)
  - [segmentfault：是中国领先的开发者技术社区。](https://segmentfault.com/)
@@ -309,6 +312,7 @@ API文档
  - [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
  - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
  - [how-javascript-works 翻译介绍 JavaScript 的工作原理](https://github.com/Troland/how-javascript-works)
+ - [Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days)
 
 ----
 ## 其他工具
