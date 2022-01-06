@@ -188,6 +188,7 @@ API文档
  - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
  - [git资料](https://github.com/xirong/my-git)
  - [Git-Cheat-Sheet 中文版](https://github.com/flyhigher139/Git-Cheat-Sheet)
+ - [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md)
 
 ### 其他
  - [Node.js 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
