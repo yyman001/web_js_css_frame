@@ -39,6 +39,7 @@
 > * [Web 全栈开发、工程架构与性能调优](https://github.com/wx-chevalier/Web-Series)
 > * [《算法新解》](https://github.com/liuxinyu95/AlgoXY)
 > * [常用 CSS 样式示例集合](https://github.com/QiShaoXuan/css_tricks)
+> * [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
