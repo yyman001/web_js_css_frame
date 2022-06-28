@@ -263,6 +263,7 @@ API文档
  - [Python 之旅](https://github.com/ethan-funny/explore-python)
  - [Python 算法](https://github.com/TheAlgorithms/Python)
  - [超多经典 Canvas 实例](https://github.com/bxm0927/canvas-special)
+ - [Go 语言实战: 编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 
 
 >书籍资料
