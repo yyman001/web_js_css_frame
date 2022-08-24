@@ -42,6 +42,7 @@
 > * [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 > * [TypeScript 类型体操姿势合集](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
 > * [设计模式目录](https://refactoringguru.cn/design-patterns/catalog)
+> * [Vue.js 挑战集合](https://cn-vuejs-challenges.netlify.app/)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
