@@ -43,6 +43,7 @@
 > * [TypeScript 类型体操姿势合集](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
 > * [设计模式目录](https://refactoringguru.cn/design-patterns/catalog)
 > * [Vue.js 挑战集合](https://cn-vuejs-challenges.netlify.app/)
+> * [GitHubDaily 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。](https://github.com/GitHubDaily/GitHubDaily)
 
 周刊
 > * [由腾讯IVWEB出品的《IVWEB技术周刊》](https://github.com/iv-web/weekly)
