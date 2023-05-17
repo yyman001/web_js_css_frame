@@ -8,6 +8,7 @@
 如果有哪个链接失效,请发留言,谢谢你的支持
 
 推荐
+> * [AI 工具网址导航站](https://ai.nancheng.fun/)
 > * [ChatGPT prompts](https://openprompt.co/)
 > * [ChatGPT Box 将ChatGPT深度集成到浏览器中, 你所需要的一切均在于此](https://github.com/josStorer/chatGPTBox/blob/master/README_ZH.md)
 > * [极客时间浏览器工作原理](https://github.com/poetries/browser-working-principle)
